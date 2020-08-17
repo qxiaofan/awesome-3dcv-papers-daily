@@ -3,7 +3,9 @@
 来源：公众号@3D视觉工坊
 ```
 
-更新于2020年8月14日。
+更新于2020年8月17日。
+
+204、题目：[重磅！国内最全的3D视觉学习资料已开源](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247511990&idx=1&sn=722c1b5d9ccf564e7d98c1366ddc4283&chksm=fbfc8482cc8b0d948bdd6ddb4d1f91f880a142a71242f11283984ac2d07efb645ff1dbbe1d56&mpshare=1&scene=1&srcid=0817IWy977la1xt5eXfPc6E3&sharer_sharetime=1597631784711&sharer_shareid=08a5efa40af25b6a57bd07cf52cdcd42&exportkey=A4x5vTeO8EDPJkWJGL5giSg%3D&pass_ticket=Y%2FT5RChEJnIfzGPipBuGQJ282FD%2BXbpRbWHtIYkw%2Fr2dJMr2FcoWJILy9DIlnqxz&wx_header=0#rd)    作者：Tom Hardy
 
 203、题目：[多视图几何三维重建实战系列之COLMAP](http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247511777&idx=2&sn=73ab994649ba559d9628d1fc4dcfda5a&chksm=fbfc85d5cc8b0cc3d89f4ce189cc0cad185fcd7519193e8951833884a2c26b3f1eadfc84d098#rd)    作者：浩南
 
