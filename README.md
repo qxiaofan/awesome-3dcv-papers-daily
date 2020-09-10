@@ -3,7 +3,31 @@
 来源：公众号@3D视觉工坊
 ```
 
-更新于2020年8月17日。
+更新于2020年9月10日。
+
+216、题目：[CLOCs：3D目标检测多模态融合之Late-Fusion](https://mp.weixin.qq.com/s/7OlXf5mlHpu9TV45Wq-Syg) 作者：蒋天园
+
+215、题目：[3D目标检测多模态融合算法综述](https://mp.weixin.qq.com/s/k585YMtrLSUmyzBwYR313w) 作者：蒋天园
+
+214、题目：[HybridPose：混合表示下的6D对象姿势估计](https://mp.weixin.qq.com/s/pl9xpPxbALpEdwt__yQzuA ) 作者：康斯坦奇
+
+213、题目：[基于PPF方式改进的物体检测与位姿估计算法](https://mp.weixin.qq.com/s/ysGDSJUgMcQYBA5bfkO0UQ) 作者：仲夏夜之星
+
+212、题目：[论文解读|激光视觉融合的Ｖ-LOAM](https://mp.weixin.qq.com/s/x3kkPjIjXydeNLYi7oBMYg ) 作者：Liam
+
+211、题目：[SilhoNet：一种用于3D对象位姿估计和抓取规划的RGB方法](https://mp.weixin.qq.com/s/7mtah9sCgqOaPKO_aWMAGQ)  作者：康斯坦奇
+
+210、题目：[3D版CenterNet: CenterPoint，小修小改也能刷爆榜单](https://mp.weixin.qq.com/s/Ok0hqMzwSty3kB-G0RKF0w) 作者： Michael
+
+209、题目：[基于投票方式的机器人装配姿态估计](https://mp.weixin.qq.com/s/SR2YNnVySRKSp6hMb0WRHQ )作者：仲夏夜之星
+
+208、题目：[多视图几何三维重建实战系列之MVSNet](https://mp.weixin.qq.com/s/ee7-jr8QN8D2MSTyDNeWWw )作者：浩南
+
+207、题目：[一文图解单目相机标定算法](https://mp.weixin.qq.com/s/0qULaYamP4J2pG2wQuum7g)  作者：Atlas
+
+206、题目：[ICRA2020重磅来袭——SLAM文章汇总](https://mp.weixin.qq.com/s/Ax0ZBHmh1v5LQUlppfhZmw) 作者： 魏宏宇
+
+205、题目：[结构光|一文详解相移步长的选择问题](https://mp.weixin.qq.com/s/NStvtCT6tI2PcC4EDLHfPw) 作者：书涵
 
 204、题目：[重磅！国内最全的3D视觉学习资料已开源](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247511990&idx=1&sn=722c1b5d9ccf564e7d98c1366ddc4283&chksm=fbfc8482cc8b0d948bdd6ddb4d1f91f880a142a71242f11283984ac2d07efb645ff1dbbe1d56&mpshare=1&scene=1&srcid=0817IWy977la1xt5eXfPc6E3&sharer_sharetime=1597631784711&sharer_shareid=08a5efa40af25b6a57bd07cf52cdcd42&exportkey=A4x5vTeO8EDPJkWJGL5giSg%3D&pass_ticket=Y%2FT5RChEJnIfzGPipBuGQJ282FD%2BXbpRbWHtIYkw%2Fr2dJMr2FcoWJILy9DIlnqxz&wx_header=0#rd)    作者：Tom Hardy
 
