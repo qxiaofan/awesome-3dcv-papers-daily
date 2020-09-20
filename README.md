@@ -15,7 +15,7 @@
 
 218、[单阶段6D对象姿势估计](https://mp.weixin.qq.com/s/G0ymlt4WNRA35ciKoTbAbw )作者：康斯坦奇
 
-217、[印刷质量缺陷的视觉检测原理概述](https://mp.weixin.qq.com/s/fUTXLKoLRNOBJlE93OTSMw 作者：白杨)
+217、[印刷质量缺陷的视觉检测原理概述](https://mp.weixin.qq.com/s/fUTXLKoLRNOBJlE93OTSMw) 作者：白杨
 
 216、题目：[CLOCs：3D目标检测多模态融合之Late-Fusion](https://mp.weixin.qq.com/s/7OlXf5mlHpu9TV45Wq-Syg) 作者：蒋天园
 
