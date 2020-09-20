@@ -3,7 +3,19 @@
 来源：公众号@3D视觉工坊
 ```
 
-更新于2020年9月10日。
+更新于2020年9月20日。
+
+222、[在医学图像分析中使用ICP算法进行点云配准](https://mp.weixin.qq.com/s/8Z46_msxTQOl47CgZdLaoQ ) 作者：天啦噜
+
+221、[两种ICP的改进算法：PLICP与NICP](https://mp.weixin.qq.com/s/XqieNJ4jj1eGGa_b3L-lgA) 作者：小L
+
+220、[Lidar与IMU标定代码实战：lidar_align](https://mp.weixin.qq.com/s/wHnc6ZmbnGVwtlX3YVyY1Q)  作者：小L
+
+219、[ECCV20| 3D目标检测时序融合网络](https://mp.weixin.qq.com/s/dy81PTCJeUFUC_kHeVdslQ)  作者：蒋天园
+
+218、[单阶段6D对象姿势估计](https://mp.weixin.qq.com/s/G0ymlt4WNRA35ciKoTbAbw )作者：康斯坦奇
+
+217、[印刷质量缺陷的视觉检测原理概述](https://mp.weixin.qq.com/s/fUTXLKoLRNOBJlE93OTSMw 作者：白杨)
 
 216、题目：[CLOCs：3D目标检测多模态融合之Late-Fusion](https://mp.weixin.qq.com/s/7OlXf5mlHpu9TV45Wq-Syg) 作者：蒋天园
 
