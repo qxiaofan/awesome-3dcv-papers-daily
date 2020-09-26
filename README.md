@@ -3,7 +3,11 @@
 来源：公众号@3D视觉工坊
 ```
 
-更新于2020年9月20日。
+更新于2020年9月26日。
+
+224、题目：[LOAM论文介绍与A-LOAM代码简介](https://mp.weixin.qq.com/s/QPYS13rb-BcS6YPF3Dz_QA)  作者：小L
+
+223、题目：[基于双目事件相机的视觉里程计]( https://mp.weixin.qq.com/s/mAWriikfjT8Ia3AtnNrMrg)  作者：Kehan
 
 222、题目：[在医学图像分析中使用ICP算法进行点云配准](https://mp.weixin.qq.com/s/8Z46_msxTQOl47CgZdLaoQ ) 作者：天啦噜
 
