@@ -11,7 +11,7 @@
 
 227、题目：[多视图几何三维重建实战系列之R-MVSNet](https://mp.weixin.qq.com/s/Nj44auqiOXwzG2G_x9VuvQ) 作者：浩南
 
-226、题目：[一文详解工业相机和镜头选取](一文详解工业相机和镜头选取) 作者：Atlas
+226、题目：[一文详解工业相机和镜头选取](https://mp.weixin.qq.com/s/_q8bPkA_S2qx80kBa0dd7w) 作者：Atlas
 
 225、题目：[一文带你理解基于图像的三维重建](https://mp.weixin.qq.com/s/D8SShvz1ErbIFFKlKOZJvQ) 作者：追求卓越583
 
