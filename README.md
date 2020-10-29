@@ -3,7 +3,33 @@
 来源：公众号[3D视觉工坊](https://mp.weixin.qq.com/s/xyGndcupuK1Zzmv1AJA5CQ)
 
 
-更新于2020年10月8日。
+更新于2020年10月29日。
+
+242、题目：[一种用于三维物体建模的精确、鲁棒的距离图像配准算法](https://mp.weixin.qq.com/s/eaIC0HrHbEiIMfoyntlJsA) 作者：仲夏夜之星
+
+241、题目： [汇总|实时性语义分割算法（全）](https://mp.weixin.qq.com/s/X5nZGJQJH_GsKKqqPEHJQg) 作者：明泽Danny
+
+240、题目：[人脸识别技术介绍和表情识别最新研究](https://mp.weixin.qq.com/s/gF6tB68qPJjf5cwtkRkYiA) 作者： 夏初
+
+239、题目：[汇总|实时性语义分割算法(共24篇）](https://mp.weixin.qq.com/s/VPl_-uEbU-knwe4SQREQCw) 作者：明泽Danny
+
+238、题目：[ECCV2020最佳论文解读之递归全对场变换(RAFT)光流计算模型](https://mp.weixin.qq.com/s/woxAHrzAXyZWnxUDEq-uLA) 作者：周仲凯
+
+237、题目：[三维重建的定位定姿算法](https://mp.weixin.qq.com/s/nryGPaEGVoxOjhXO7b4LiQ) 作者： 李城
+
+236、题目：[多视图几何三维重建实战系列- Cascade-MVSNet](https://mp.weixin.qq.com/s/1sU4lxo1MSN2kdDrTMif9A) 作者： 浩南
+
+235、题目：[HybridPose：混合表示下的6D对象姿态估计](https://mp.weixin.qq.com/s/vDgIlM466S0Db-QQ-_iKgA) 作者：康斯坦奇
+
+234、题目：[ORB-SLAM3系列-多地图管理](https://mp.weixin.qq.com/s/do-m9TuLX5-7OZPstMm_pw) 作者： Liam
+
+233、题目：[一文带你了解基于视觉的机器人抓取自学习(Robot Learning)](https://mp.weixin.qq.com/s/-kgnT61IAIuCe1mHu-driQ) 作者：夏初
+
+232、题目：[ORB-SLAM3 Initializer.cpp函数解读](https://mp.weixin.qq.com/s/3NTwqk1VZ6KH9I7k0YcDrQ) 作者： Liam
+
+231、题目：[激光三角测量法在工业视觉检测上的应用](https://mp.weixin.qq.com/s/50NBeEXL34M9PVkJUP95qQ) 作者：白杨
+
+230、题目：[通俗易懂的Harris角点检测](https://mp.weixin.qq.com/s/gAwJTB7QgQh5DTa5_XS3Cw) 作者：追求卓越583
 
 229、题目：[综述|线结构光中心提取算法研究发展](https://mp.weixin.qq.com/s/9P-sgfoWcEbzYxikxY_D-w) 作者：木同
 
