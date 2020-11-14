@@ -3,7 +3,19 @@
 来源：公众号[3D视觉工坊](https://mp.weixin.qq.com/s/xyGndcupuK1Zzmv1AJA5CQ)
 
 
-更新于2020年10月29日。
+更新于2020年11月14日。
+
+248、题目：[3D曲面重建之移动最小二乘法](https://mp.weixin.qq.com/s/qZ7Xrn3VJ-0z94T3tyFfiw) 作者：天啦撸
+
+247、题目：[计算机视觉在生物力学和运动康复中的应用和研究](https://mp.weixin.qq.com/s/XeDODN5zbGGyFtgKV0Sy-g) 作者：夏初
+
+246、题目：[摄影测量(计算机视觉)中的三角化方法](https://mp.weixin.qq.com/s/gwurdLVzC4buHie29JHIGA) 作者：李城
+
+245、题目：[用于机器人导航辅助的6自由度姿态估计的平面辅助视觉惯性里程计](https://mp.weixin.qq.com/s/p_QLsV1SPS8vmDjop6u4SQ) 作者：Amber
+
+244、题目：[一文详解固态激光雷达的里程计（loam_livox）]（https://mp.weixin.qq.com/s/I5UvSAALacO3MP1C0O6MgQ） 作者：Liam
+
+243、题目：[聊聊这两年学习slam啃过的书！](https://mp.weixin.qq.com/s/IH7rYWofkMKj0IGXXnxf7A) 作者：Amber
 
 242、题目：[一种用于三维物体建模的精确、鲁棒的距离图像配准算法](https://mp.weixin.qq.com/s/eaIC0HrHbEiIMfoyntlJsA) 作者：仲夏夜之星
 
