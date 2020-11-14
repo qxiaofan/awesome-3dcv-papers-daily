@@ -13,7 +13,7 @@
 
 245、题目：[用于机器人导航辅助的6自由度姿态估计的平面辅助视觉惯性里程计](https://mp.weixin.qq.com/s/p_QLsV1SPS8vmDjop6u4SQ) 作者：Amber
 
-244、题目：[一文详解固态激光雷达的里程计loam_livox](https://mp.weixin.qq.com/s/I5UvSAALacO3MP1C0O6MgQ） 作者：Liam
+244、题目：[一文详解固态激光雷达的里程计loam_livox](https://mp.weixin.qq.com/s/I5UvSAALacO3MP1C0O6MgQ) 作者：Liam
 
 243、题目：[聊聊这两年学习slam啃过的书！](https://mp.weixin.qq.com/s/IH7rYWofkMKj0IGXXnxf7A) 作者：Amber
 
