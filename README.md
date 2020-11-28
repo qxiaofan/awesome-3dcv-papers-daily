@@ -7,7 +7,23 @@
 
 添加小助手微信：CV_LAB，备注学校/公司+姓名+研究方向即可加入工坊一起学习进步。
 
-更新于2020年11月14日。
+更新于2020年11月28日。
+
+256、题目：[FCGF-基于稀疏全卷积网络的点云特征描述子提取(ICCV2019)](https://mp.weixin.qq.com/s/fnBH8NF8TdwLRVQ0IlIyYA) 作者：千百度
+
+255、题目：[多视图立体匹配论文分享PVA-MVSNet](https://mp.weixin.qq.com/s/kDl1fkrtdfmfYHFKS3r11A) 作者：Shelo
+
+254、题目：[姿态估计算法汇总|基于RGB、RGB-D以及点云数据](https://mp.weixin.qq.com/s/SZgPWrNx7hq9EQfUFgGqXw) 作者：Tom Hardy
+
+253、题目：[一种用于360度全景视频超分的单帧多帧联合网络](https://mp.weixin.qq.com/s/IZy47SqD1Y_wsQSEElC0qg) 作者：wangsy
+
+252、题目：[GRNet网络：3D网格进行点云卷积，实现点云补全](https://mp.weixin.qq.com/s/YiiHnz63neQmjv5IL4aCrg) 作者：三弟
+
+251、题目：[多传感器融合标定方法汇总](https://mp.weixin.qq.com/s/ukMO7B4bE1MguGGF6sNB1w) 作者：Tom Hardy
+
+250、题目：[从理论到实践: ORB-SLAM3 Initializer完全解读](https://mp.weixin.qq.com/s/hKUgDWmJyy_eCCm9u4uptg) 作者：Liam
+
+249、题目：[系列篇|三维重建之纯格雷码三维重建](https://mp.weixin.qq.com/s/IwvO1O62jzACwE1Lf34Sqg) 作者：书涵
 
 248、题目：[3D曲面重建之移动最小二乘法](https://mp.weixin.qq.com/s/qZ7Xrn3VJ-0z94T3tyFfiw) 作者：天啦撸
 
