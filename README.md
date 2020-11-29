@@ -7,7 +7,11 @@
 
 添加小助手微信：CV_LAB，备注学校/公司+姓名+研究方向即可加入工坊一起学习进步。
 
-更新于2020年11月28日。
+更新于2020年11月29日。
+
+258、题目:[入坑slam，一位博士小姐姐的科研和成长分享（考研+读研+读博）](https://mp.weixin.qq.com/s/i4P40SuJe6tIyTZb6WEzAQ)，作者：Amber：
+
+257、题目：[【车道线检测】一种基于神经网络+结构约束的车道线检测方法](https://mp.weixin.qq.com/s/qG3Q6E5Bow5IiTFpCU2D8g)，作者：小魔方
 
 256、题目：[FCGF-基于稀疏全卷积网络的点云特征描述子提取(ICCV2019)](https://mp.weixin.qq.com/s/fnBH8NF8TdwLRVQ0IlIyYA) 作者：千百度
 
