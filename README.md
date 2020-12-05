@@ -7,9 +7,13 @@
 
 添加小助手微信：CV_LAB，备注学校/公司+姓名+研究方向即可加入工坊一起学习进步。
 
-更新于2020年11月29日。
+更新于2020年12月5日。
 
-258、题目:[入坑slam，一位博士小姐姐的科研和成长分享（考研+读研+读博）](https://mp.weixin.qq.com/s/i4P40SuJe6tIyTZb6WEzAQ)，作者：Amber：
+260、题目：[粒子滤波到底是怎么得到的？](https://mp.weixin.qq.com/s/bXs-78F5GkA1j_GaLQtFLg), 作者：小L
+
+259、题目：[多视图立体匹配论文分享CasMVSNet](https://mp.weixin.qq.com/s/XrT2WQkzRU4oIIDVvXZFdg), 作者：Todd-Qi
+
+258、题目: [入坑slam，一位博士小姐姐的科研和成长分享（考研+读研+读博）](https://mp.weixin.qq.com/s/i4P40SuJe6tIyTZb6WEzAQ)，作者：Amber：
 
 257、题目：[【车道线检测】一种基于神经网络+结构约束的车道线检测方法](https://mp.weixin.qq.com/s/qG3Q6E5Bow5IiTFpCU2D8g)，作者：小魔方
 
