@@ -713,7 +713,7 @@ QQ群「3D视觉研习社」，群号：574432628
 
 备注：
 
-1、3D视觉招聘信息汇总->[链接](3D视觉招聘信息汇总：https://github.com/qxiaofan/awesome-Computer-Vision-Algorithm-Jobs)
+1、[3D视觉招聘信息汇总](https://github.com/qxiaofan/awesome-Computer-Vision-Algorithm-Jobs)
 
 2、[一个超干货的3D视觉学习社区](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw)
 
