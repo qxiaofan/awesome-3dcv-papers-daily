@@ -23,6 +23,12 @@ QQ群「3D视觉研习社」，群号：574432628
 
 更新于2020年12月6日。
 
+270、题目：[]()，作者：
+
+269、题目：[]()，作者：
+
+268、题目：[基于视觉和惯性传感器的移动机器人手遥操作系统](https://mp.weixin.qq.com/s/2YwQ1C74y053G6myiJMBYg)，作者：夏初
+
 267、题目：[一文详解bundle adjustment](https://mp.weixin.qq.com/s/O8ZE2VhqfH-wRETLc-D-bA)，作者：李城
 
 260、题目：[粒子滤波到底是怎么得到的？](https://mp.weixin.qq.com/s/bXs-78F5GkA1j_GaLQtFLg), 作者：小L
