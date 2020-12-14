@@ -21,11 +21,19 @@ QQ群「3D视觉研习社」，群号：574432628
 
 <a name="文章汇总"></a>
 
-更新于2020年12月6日。
+更新于2020年12月14日。
 
-270、题目：[]()，作者：
+274、题目：[重用地图的单目视觉惯导SLAM系统 ](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247535637&idx=2&sn=25452640b3f85c4e8d4c54d1c694cfe2&chksm=fbfc6721cc8bee37d0a1ad995a7bbd21f7f363691197e1713b8c5aefa5ab2665828f5c79e534&mpshare=1&scene=1&srcid=12144q7L9cb94xV5tRzfGnPt&sharer_sharetime=1607943951123&sharer_shareid=08a5efa40af25b6a57bd07cf52cdcd42&exportkey=AylARyXsaqmHH1h%2FV6FBuCU%3D&pass_ticket=1ZuBPb68h5w8hSRbq51zAq0eRBdXGA2xRxayvf1V25Qhiwi60m7JKyscahrZ9bCo&wx_header=0#rd)，作者：Liam
 
-269、题目：[]()，作者：
+273、题目：[2020，我的秋招感悟！](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247535556&idx=1&sn=e25d38465b48b67dec9e22f37fca90e4&chksm=fbfc60f0cc8be9e61cecd5c679814efd3e87c966d0494707c15fe2731712838ad8f8808e22a5&mpshare=1&scene=1&srcid=12140rBBA0frsXAIkAGKjQl4&sharer_sharetime=1607943938504&sharer_shareid=08a5efa40af25b6a57bd07cf52cdcd42&exportkey=AxHrkP6fAeUvQJ2jM8EVswQ%3D&pass_ticket=1ZuBPb68h5w8hSRbq51zAq0eRBdXGA2xRxayvf1V25Qhiwi60m7JKyscahrZ9bCo&wx_header=0#rd)，作者：星球嘉宾
+
+272、题目：[超详细解读ORB-SLAM3单目初始化（下篇）](https://mp.weixin.qq.com/s/h1OIxdYQ5Eu-2OAHhsVcIQ)，作者：乔不思
+
+271、题目：[基于改进的点对特征的6D位姿估计](https://mp.weixin.qq.com/s/N6omWaIoJbVD11wHQAP09w)，作者：仲夏夜之星
+
+270、题目：[深入研究自监督单目深度估计：Monodepth2](https://mp.weixin.qq.com/s/eYWaN4dmF-S6J4hInmtRFw)，作者：Gus
+
+269、题目：[ORB-SLAM3 细读单目初始化过程(上)](https://mp.weixin.qq.com/s/SODTnDbTdsQfS1LL1eLiZQ)，作者：乔不思
 
 268、题目：[基于视觉和惯性传感器的移动机器人手遥操作系统](https://mp.weixin.qq.com/s/2YwQ1C74y053G6myiJMBYg)，作者：夏初
 
