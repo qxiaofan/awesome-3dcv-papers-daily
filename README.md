@@ -21,7 +21,19 @@ QQ群「3D视觉研习社」，群号：574432628
 
 <a name="文章汇总"></a>
 
-更新于2020年12月20日。
+更新于2021年1月3日。
+
+284、题目：[基于尺寸划分的RGB显著物体检测方法](https://mp.weixin.qq.com/s/vfX-ACi6eic9OHehHsAVnw)
+
+283、题目：[基于局部表面特征在杂乱场景中的三维物体识别](https://mp.weixin.qq.com/s/_BGrZLjknIKiuVPUvyJ2xw)
+
+282、题目：[多视图立体匹配论文分享：P-MVSNet](https://mp.weixin.qq.com/s/NRlpDfqCpDCo7lmaqzX96g)
+
+281、题目：[重磅直播|ORB-SLAM3经典单目初始化模块原理及实现](https://mp.weixin.qq.com/s/KkdcTYU63dzPScqdaetT1Q)
+
+280、题目：[结构光相移法-多频外差原理+实践（上篇）](https://mp.weixin.qq.com/s/dhdzMibdAUU0zp77TS81NQ)
+
+279、题目：[基于MAP-MRF的视差估计](https://mp.weixin.qq.com/s/tkNb719fE0pyTwlzje3vHg)
 
 278、题目：[重磅直播|计算深度分割技术的实现与全局效应下的结构光三维重建](https://mp.weixin.qq.com/s/qbWwzpUUg9oKL89MW_PBiQ)
 
