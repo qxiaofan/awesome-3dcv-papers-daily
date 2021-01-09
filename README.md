@@ -23,7 +23,7 @@ QQ群「3D视觉工坊」，群号：949193717
 
 更新于2021年1月9日。
 
-290、题目：[答疑+代码+视频|一个超干货的3D视觉学习社区](https://mp.weixin.qq.com/s/lCJfKApdhSK9epKrsxDB1g）,作者：3D视觉爱好者
+290、题目：[答疑+代码+视频|一个超干货的3D视觉学习社区](https://mp.weixin.qq.com/s/lCJfKApdhSK9epKrsxDB1g),作者：3D视觉爱好者
 
 289、题目：[3D视觉工坊—助学助研计划正式启动！](https://mp.weixin.qq.com/s/vXeqjdF1zJWRfPTxf_NiyA)，作者：Tom Hardy
 
@@ -762,9 +762,3 @@ QQ群「3D视觉工坊」，群号：949193717
 1、[3D视觉招聘信息汇总](https://github.com/qxiaofan/awesome-Computer-Vision-Algorithm-Jobs)
 
 2、[一个超干货的3D视觉学习社区](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw)
-
-
-
-
-
-
