@@ -21,7 +21,19 @@ QQ群「3D视觉工坊」，群号：949193717
 
 <a name="文章汇总"></a>
 
-更新于2021年1月3日。
+更新于2021年1月9日。
+
+290、题目：[答疑+代码+视频|一个超干货的3D视觉学习社区](https://mp.weixin.qq.com/s/lCJfKApdhSK9epKrsxDB1g）,作者：3D视觉爱好者
+
+289、题目：[3D视觉工坊—助学助研计划正式启动！](https://mp.weixin.qq.com/s/vXeqjdF1zJWRfPTxf_NiyA)，作者：Tom Hardy
+
+288、题目：[“听音辨脸”的超能力，你想拥有吗？](https://mp.weixin.qq.com/s/5ePFGO8vSu1FavLLNa6tHA),作者：夏初
+
+287、题目：[相位偏折术原理概述](https://mp.weixin.qq.com/s/0PKGaYEMELmbEEA_xy-tmg),作者：曹博
+
+286、题目：[格雷码编码+解码+实现（Python）](https://mp.weixin.qq.com/s/sxSc_8IrL74FxlmabhoAcg)，作者：曹博
+
+285、题目：[3D相机的数据处理方式](https://mp.weixin.qq.com/s/kWAf914kj1pK0PpeyTP7Pg),作者：Pontmercy
 
 284、题目：[基于尺寸划分的RGB显著物体检测方法](https://mp.weixin.qq.com/s/vfX-ACi6eic9OHehHsAVnw)，作者：明泽Danny
 
