@@ -21,6 +21,8 @@ QQ群「3D视觉工坊」，群号：949193717
 
 <a name="文章汇总"></a>
 
+强烈推荐大家关注[3D视觉工坊](https://www.zhihu.com/people/qiyong1993)知乎和[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw)微信公众号，可以快速了解到最新优质的3D视觉论文。
+
 更新于2021年1月16日。
 
 294、题目：[Bundle Adjustment原理及应用](https://mp.weixin.qq.com/s/hIxM3dNCmL6kb3_VW_66-g)，作者：晚餐男孩
