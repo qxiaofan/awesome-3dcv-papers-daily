@@ -21,7 +21,15 @@ QQ群「3D视觉工坊」，群号：949193717
 
 <a name="文章汇总"></a>
 
-更新于2021年1月9日。
+更新于2021年1月16日。
+
+294、题目：[Bundle Adjustment原理及应用](https://mp.weixin.qq.com/s/hIxM3dNCmL6kb3_VW_66-g)，作者：晚餐男孩
+
+293、题目：[EF-Net一种适用于双流SOD的有效检测模型（Pattern Recognition）](https://mp.weixin.qq.com/s/8_p1bZcc9tNVU1JVNK_-vQ)，作者：明泽danny
+
+292、题目：[一文详解ORB-SLAM3中的地图管理](https://mp.weixin.qq.com/s/1IP6QXBEFeWbKGSzydtz6Q)，作者：小L
+
+291、题目：[2020年“3D视觉工坊”视频号最受欢迎视频 Top 10!](https://mp.weixin.qq.com/s/DMqJXe7DRW99cBDfHKDoRw)，作者：曹博
 
 290、题目：[答疑+代码+视频|一个超干货的3D视觉学习社区](https://mp.weixin.qq.com/s/lCJfKApdhSK9epKrsxDB1g),作者：3D视觉爱好者
 
