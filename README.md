@@ -767,10 +767,3 @@ QQ群「3D视觉工坊」，群号：949193717
 1、题目：[立体视觉动态测量技术](https://mp.weixin.qq.com/s/zP23BTQBsPoHfYJ8VNcNMQ)
      作者：小凡
 
-
-
-备注：
-
-1、[3D视觉招聘信息汇总](https://github.com/qxiaofan/awesome-Computer-Vision-Algorithm-Jobs)
-
-2、[一个超干货的3D视觉学习社区](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw)
