@@ -25,7 +25,17 @@ QQ群「3D视觉工坊」，群号：949193717
 
 强烈推荐大家关注[3D视觉工坊](https://www.zhihu.com/people/qiyong1993)知乎和[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw)微信公众号，可以快速了解到最新优质的3D视觉论文。
 
-更新于2021年1月16日。
+更新于2021年1月23日。
+
+299、题目：[个人如何更高效地学习3D视觉？](https://mp.weixin.qq.com/s/cDvLQHQkHFuHB4A8YmH4Zw)，作者：小凡
+
+298、题目：[多视图立体匹配论文分享：BlendedMVS](https://mp.weixin.qq.com/s/w-LEVpoIFxQXP5mUOmt4VA)，作者：Todd-Qi
+
+297、题目：[Bags of Binary Words | 词袋模型解析](https://mp.weixin.qq.com/s/I3ApxhtUYhMtsy8VdsqEZA)，作者：Liam
+
+296、题目：[视频来了 | 基于结构光投影三维重建技术系列课程](https://mp.weixin.qq.com/s/RH2imqkuh575kdb3G9OqyQ)，作者：小凡
+
+295、题目：[相机参数估计值如何计算？](https://mp.weixin.qq.com/s/wXPQo6N8Oni3L8p21-9v-Q)，作者：书涵
 
 294、题目：[Bundle Adjustment原理及应用](https://mp.weixin.qq.com/s/hIxM3dNCmL6kb3_VW_66-g)，作者：晚餐男孩
 
