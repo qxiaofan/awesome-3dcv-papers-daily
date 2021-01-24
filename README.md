@@ -6,7 +6,7 @@
 
 作者：3D视觉工坊所有投稿作者
 
-来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw)
+#### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
 
 299、题目：[个人如何更高效地学习3D视觉？](https://mp.weixin.qq.com/s/cDvLQHQkHFuHB4A8YmH4Zw)，作者：小凡
 
@@ -758,7 +758,14 @@
 1、题目：[立体视觉动态测量技术](https://mp.weixin.qq.com/s/zP23BTQBsPoHfYJ8VNcNMQ)
      作者：小凡
 
-跋
+
+
+#### 二 其它Papers
+
+涉及计算机视觉、VSLAM、点云、三维重建、深度学习、自动驾驶等优质papers，请戳->[这里](others/daily-papers.md)
+
+#### 跋
+
 - [加群](#加群)
 
 
