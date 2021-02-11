@@ -8,6 +8,44 @@
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
 
+318、题目：[]()，作者：
+
+317、题目：[]()，作者：
+
+316、题目：[]()，作者：
+
+315、题目：[]()，作者：
+
+314、题目：[]()，作者：
+
+313、题目：[]()，作者：
+
+312、题目：[]()，作者：
+
+311、题目：[]()，作者：
+
+310、题目：[]()，作者：
+
+309、题目：[]()，作者：
+
+308、题目：[]()，作者：
+
+307、题目：[计算机视觉中的双目立体视觉和体积度量](https://mp.weixin.qq.com/s/RHJFdCRMgoG7FH331RcOzQ)，作者：ronghuaiyang
+
+306、题目：[相机与激光雷达融合的3D目标检测方法MVAF-Net](https://mp.weixin.qq.com/s/Qpk_tk6WyDaL4xbV2L9cxQ)
+
+305、题目：[目标跟踪综述](https://mp.weixin.qq.com/s/EHt94tKAXReRwPpQpNwPTA)，作者：王方浩
+
+304、题目：[3D鸟类重建—数据集、模型以及从单视图恢复形状](https://mp.weixin.qq.com/s/liYREWXpBO3NcT37BD7l3w)，作者：Longway
+
+303、题目：[BAD SLAM | 直接法实时BA+RGBD基准数据集（CVPR2019）](https://mp.weixin.qq.com/s/850K1kKgzqtccAOU7SmAgg)，作者：小猪安琪
+
+302、题目：[大盘点 | 2020年5篇目标检测算法最佳综述](https://mp.weixin.qq.com/s/0gxDtrWnx2wJxSjc-bTfrQ)，
+
+301、题目：[遥感图像中的小物体检测(内有新数据集)](https://mp.weixin.qq.com/s/DR-rFphu-19QiFtTdGPPbw)，作者：夏初
+
+300、题目：[基于RGB-D相机的机械臂无序抓取系统](https://mp.weixin.qq.com/s/btKbTSRPlh4iC0o8XY1WKg)，作者：赵晨昊
+
 299、题目：[个人如何更高效地学习3D视觉？](https://mp.weixin.qq.com/s/cDvLQHQkHFuHB4A8YmH4Zw)，作者：小凡
 
 298、题目：[多视图立体匹配论文分享：BlendedMVS](https://mp.weixin.qq.com/s/w-LEVpoIFxQXP5mUOmt4VA)，作者：Todd-Qi
