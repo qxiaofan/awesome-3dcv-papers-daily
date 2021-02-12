@@ -8,10 +8,15 @@
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
 
+328、题目：[视频+课件|基于深度学习方式的多视图立体匹配算法](https://mp.weixin.qq.com/s/NIBKmBtyweutDsloOWlCdg)，作者：工坊
 
-324、题目：[]()，作者：
+327、题目：[如何在arXiv上发表一篇文章](https://mp.weixin.qq.com/s/zlhGy1lHuxYqX_N7IKP3HQ)，作者：小L
 
-323、题目：[]()，作者：
+326、题目：[MO-LTR：基于单目RGB视频的多目标定位、跟踪与重建](https://mp.weixin.qq.com/s/6yHoCw1WEu5QYtLXWFJk1Q)，作者：dianyunPCL
+
+325、题目：[终于来了，国内首个基于结构光投影三维重建系列视频课程](https://mp.weixin.qq.com/s/fDl09Zllo3UkHj_dyGUJ0g)，作者：工坊
+
+323、题目：[如何更高效更系统地学习3D视觉？](https://mp.weixin.qq.com/s/R5Q3XulyNMVgKFrTweTPSA)，作者：工坊
 
 322、题目：[基于深度学习的单目深度估计综述](https://mp.weixin.qq.com/s/-zE-pBMV-Kf3UXMgbU-94w)，作者：黄浴
 
