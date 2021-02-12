@@ -8,27 +8,40 @@
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
 
-318、题目：[]()，作者：
 
-317、题目：[]()，作者：
+324、题目：[]()，作者：
 
-316、题目：[]()，作者：
+323、题目：[]()，作者：
 
-315、题目：[]()，作者：
+322、题目：[基于深度学习的单目深度估计综述](https://mp.weixin.qq.com/s/-zE-pBMV-Kf3UXMgbU-94w)，作者：黄浴
 
-314、题目：[]()，作者：
+321、题目：[招聘|字节跳动招计算机视觉方向算法实习生](https://mp.weixin.qq.com/s/dXAfKaBzZwjzXU5474vBuA)
 
-313、题目：[]()，作者：
+320、题目：[大盘点 | 2020年「21篇」医学影像算法最佳综述](https://mp.weixin.qq.com/s/LDqsi2JvRoqi65eMhlGTeA)
 
-312、题目：[]()，作者：
+319、题目：[光场相机能否用于SLAM？](https://mp.weixin.qq.com/s/u0o3N0DjvrqEAkQwnL0PEQ)，作者：Realcat
 
-311、题目：[]()，作者：
+318、题目：[牲畜体表信息的三维重建](https://mp.weixin.qq.com/s/j99qOuZkQdfPTUEXjWwHtg)，作者：陆杰
 
-310、题目：[]()，作者：
+317、题目：[三维点云对应关系聚合算法的性能评价](https://mp.weixin.qq.com/s/gQD80190SiTzDkVmZW_6Ng)，作者：仲夏夜之星
 
-309、题目：[]()，作者：
+316、题目：[基于RGB-D相机的三维重建总览 包括静态与动态三维重建](https://mp.weixin.qq.com/s/OBl4AsVfCMpApPnwuHIzcw)，作者：三维匠
 
-308、题目：[]()，作者：
+315、题目：[深度学习在计算机视觉领域（图像，视频，3D点云，深度图等）应用全览](https://mp.weixin.qq.com/s/S9LCsZfs1zkfhBFBdSDhJQ)
+
+314、题目：[立体视觉入门指南-坐标系与相机参数](https://mp.weixin.qq.com/s/DynoW8L1UUreciM55BiO9w)，作者：Ethan Li 李迎松
+
+313、题目：[RGB图像重建非刚性物体三维形状（CVPR）](https://mp.weixin.qq.com/s/xyw5kscr4-MFFy0z_4-1kg)，作者：Longway
+
+312、题目：[计算机视觉系统学习必读书籍（免费领取啦~）](https://mp.weixin.qq.com/s/HcjCxKuF_FF1POnAeFmBKA)，作者：工坊
+
+311、题目：[如何用OpenCV制作一个低成本的立体相机](https://mp.weixin.qq.com/s/og-IdVapnz3veB6TsRmTgA)，作者：天啦撸
+
+310、题目：[三维重建技术综述](https://mp.weixin.qq.com/s/b1YNfJAuD0TQc0N-dzG7Lw)
+
+309、题目：[一文梳理缺陷检测方法](https://mp.weixin.qq.com/s/8YJmtvnN0uAJaO6PbVW_zg)，作者：南山
+
+308、题目：[大盘点 | 2020年5篇图像分割算法最佳综述](https://mp.weixin.qq.com/s/GRt_C0oujLs5CYzww5cTPA)
 
 307、题目：[计算机视觉中的双目立体视觉和体积度量](https://mp.weixin.qq.com/s/RHJFdCRMgoG7FH331RcOzQ)，作者：ronghuaiyang
 
