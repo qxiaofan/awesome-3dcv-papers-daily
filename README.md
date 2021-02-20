@@ -8,6 +8,10 @@
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
 
+330、题目：[车道线检测技术分析](https://mp.weixin.qq.com/s/aHFC1GNYjp9InOmf4ffGJg)，作者：爱做菜的炼丹师
+
+329、题目：[综述|工业金属平面材料表面缺陷自动视觉检测的研究进展](https://mp.weixin.qq.com/s/aCI8cu9VfdHgBes_km4Hvg)，作者：农夫果园
+
 328、题目：[视频+课件|基于深度学习方式的多视图立体匹配算法](https://mp.weixin.qq.com/s/NIBKmBtyweutDsloOWlCdg)，作者：工坊
 
 327、题目：[如何在arXiv上发表一篇文章](https://mp.weixin.qq.com/s/zlhGy1lHuxYqX_N7IKP3HQ)，作者：小L
