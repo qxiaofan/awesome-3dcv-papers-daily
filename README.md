@@ -8,6 +8,34 @@
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
 
+344、题目：[ORBBuf : 一种鲁棒的视觉SLAM缓冲方法](https://mp.weixin.qq.com/s/vVsBXqZ9ur01628YTvUnrQ),作者：小王
+
+343、题目：[一文详解随机一致性采样算法：RANSAC](https://mp.weixin.qq.com/s/cMFzPOYDAegewVfpHHxwGw),作者：汉振HANCHINE
+
+342、题目：[一文详解激光雷达的障碍物检测](https://mp.weixin.qq.com/s/k8nrA8nBhSldAdQDFmB9Ag),作者：爱做菜的炼丹师
+
+341、题目：[双目立体视觉 II：块匹配视差图计算](https://mp.weixin.qq.com/s/ENXTkwKVz3x2ulqJoY6DqQ),作者：ronghuaiyang
+
+340、题目：[双目立体视觉 I：标定和校正](https://mp.weixin.qq.com/s/2wZoeNxATbq6UVUrGOAeTg),作者：ronghuaiyang
+
+339、题目：[用深度学习实现异常检测/缺陷检测](https://mp.weixin.qq.com/s/7D4L2q8ZLhIdsEYqf2kbxA)
+
+338、题目：[大疆招聘|机器学习算法/软件工程师 （智能驾驶方向）](https://mp.weixin.qq.com/s/77t_xmOszNXNDSQfihHr6w)
+
+337、题目：[如何提高3D点云目标检测的难例精度？](https://mp.weixin.qq.com/s/mzn5rivgFqUTcAYG9abwLA),作者：爱做菜的炼丹师
+
+336、题目：[BELID：修改一行代码，将图像匹配效果提升14%](https://mp.weixin.qq.com/s/0YgjZeg2Tw4YgbreoQRAOw),作者：ronghuaiyang
+
+335、题目：[多视图立体匹配论文分享 | Fast-MVSNet (CVPR2020)](https://mp.weixin.qq.com/s/350Kcvb1NgU8TmkYSyrrgg),作者：Todd-Qi
+
+334、题目：[一文详解激光雷达感知方案](https://mp.weixin.qq.com/s/FNOyhOnUBQnl5FGSqAYJSA),作者：爱做菜的炼丹师
+
+333、题目：[思谋科技招聘|AI算法岗、后台开发等多个岗位](https://mp.weixin.qq.com/s/HkP3l07UVFiWCVMykv0Wlw)
+
+332、题目：[相机标定中各种标定板介绍以及优缺点分析](https://mp.weixin.qq.com/s/rr_rP6wYDYK1vm8RIUokfg),作者：ronghuaiyang
+
+331、题目：[招聘|腾讯AI Lab招CV&CG研究员及实习生](https://mp.weixin.qq.com/s/_uS16uCUHcCvG7N074S0ag)
+
 330、题目：[车道线检测技术分析](https://mp.weixin.qq.com/s/aHFC1GNYjp9InOmf4ffGJg)，作者：爱做菜的炼丹师
 
 329、题目：[综述|工业金属平面材料表面缺陷自动视觉检测的研究进展](https://mp.weixin.qq.com/s/aCI8cu9VfdHgBes_km4Hvg)，作者：农夫果园
