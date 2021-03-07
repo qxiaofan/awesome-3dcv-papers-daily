@@ -8,6 +8,28 @@
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
 
+355、题目：[重磅！国内首个三维重建系列视频课程，涉及SFM、立体匹配、多视图几何、结构光、单目深度估计等](https://mp.weixin.qq.com/s/D2EIlr4wz-T-3LvnFo4mNg)
+
+354、题目：[招聘|​中科院苏州医工所招嵌入式系统开发、软件工程师](https://mp.weixin.qq.com/s/lcEcIB0SEN75Cav_CdnB_A)
+
+353、题目：[一文详解回环检测与重定位](https://mp.weixin.qq.com/s/uHawMY50XG5Fw1cQMyfJbA)，作者：Manii  
+
+352、题目：[招聘|​华为诺亚方舟实验室智能工业视觉组招实习生](https://mp.weixin.qq.com/s/Hk5NOThx_aTDHKo4w814Yg)
+
+351、题目：[浅谈三维点云中的几何语义](https://mp.weixin.qq.com/s/7mev2f7p2Mzsko_nI7ZW8Q)，作者：PCB_segmen
+
+350、题目：[基于深度学习的单目人体姿态估计方法综述（一）](https://mp.weixin.qq.com/s/8DRMEzGFepS--WMtRtNQ1A)，作者：夏初
+
+349、题目：[传统多视图立体算法：PatchMatchStereo详解](https://mp.weixin.qq.com/s/FquyGXdVZkWwJi8Ds2CeaA)，作者：视觉企鹅
+
+348、题目：[使用深度学习从视频中估计车辆的速度](https://mp.weixin.qq.com/s/Res1ky2gvLbHf8yc4E8jcg)，作者：ronghuaiyang
+
+347、题目：[不用激光雷达，照样又快又准！3D目标检测之SMOKE](https://mp.weixin.qq.com/s/cOJ11ZTEUk-MPHr1cAQs4A)，作者：张凯
+
+346、题目：[深度学习在视觉搜索和匹配中的应用](https://mp.weixin.qq.com/s/ee_moQs3flG6btljH0ur-g)，作者：ronghuaiyang
+
+345、题目：[视频+课件|国内首个基于结构光投影三维重建系列视频课程](https://mp.weixin.qq.com/s/h_ao1Cns8fII55B5sKZlLA)，作者：工坊
+
 344、题目：[ORBBuf : 一种鲁棒的视觉SLAM缓冲方法](https://mp.weixin.qq.com/s/vVsBXqZ9ur01628YTvUnrQ),作者：小王
 
 343、题目：[一文详解随机一致性采样算法：RANSAC](https://mp.weixin.qq.com/s/cMFzPOYDAegewVfpHHxwGw),作者：汉振HANCHINE
