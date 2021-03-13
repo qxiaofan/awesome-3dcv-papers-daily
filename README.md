@@ -2,11 +2,33 @@
 
 注：文末附加群方式。
 
-更新于2021年3月7日。
+更新于2021年3月13日。
 
 作者：3D视觉工坊所有投稿作者
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
+
+266、题目：[巴塞罗那自治大学3D视觉课件（免费获取）](https://mp.weixin.qq.com/s/vhJ-88J-0oRdGnLUAU5x1g),作者：工坊
+
+265、题目：[终于来了！三维点云从入门到精通系统视频学习课程](https://mp.weixin.qq.com/s/6Rq73OshPRpSbvlOdLb5Tg),作者：工坊
+
+264、题目：[CVPR 2021 | 腾讯优图20篇论文入选，含人脸识别、时序动作定位、视频动作分割等领域](https://mp.weixin.qq.com/s/U6M9wy4dG4p7GK4uXlPXUA),作者：腾讯优图AI开放平台
+
+263、题目：[CVPR2021|CenterPoint ：基于点云数据的3D目标检测与跟踪](https://mp.weixin.qq.com/s/-upnBN-0W1F9v2F2Pdz3VA),作者：XYunaaa
+
+262、题目：[一文详解高精地图构建与SLAM感知优化建图策略](https://mp.weixin.qq.com/s/ttHLjYAqNWi733biNvPgXg),作者：焉知汽车
+
+261、题目：[一种实时轻量级3D人脸对齐方法](https://mp.weixin.qq.com/s/K0XfLSmeF_JA4MbVa_Iy6A),作者：视界预言家
+
+260、题目：[三星招聘|计算机视觉、机器学习岗位研究员（校招/社招/实习）](https://mp.weixin.qq.com/s/_76jeps221O25aLfDFh7IQ)
+
+259、题目：[综述|2021最新关于点云配准的全面介绍](https://mp.weixin.qq.com/s/gFzakz6FyXAJlgJrHm8AJw),作者：dianyunPCL
+
+258、题目：[思无界实习招聘|移动端SLAM、语义SLAM、三维重建等多个算法岗位](https://mp.weixin.qq.com/s/JyT870uXkQYwWw8mqFsw7A)
+
+257、题目：[基于生成对抗网络完成小表面缺陷检测](https://mp.weixin.qq.com/s/ZWURMnsey_KKVakEcS6wSA),作者：农夫果园
+
+256、题目：[可用于大规模点云表面重建的深度学习算法](https://mp.weixin.qq.com/s/z8jQ3kXt3PK6r3wWx-ifVQ)，整理人：袁赣张秦，付前程，张琛，廖新耀
 
 355、题目：[重磅！国内首个三维重建系列视频课程，涉及SFM、立体匹配、多视图几何、结构光、单目深度估计等](https://mp.weixin.qq.com/s/D2EIlr4wz-T-3LvnFo4mNg)
 
