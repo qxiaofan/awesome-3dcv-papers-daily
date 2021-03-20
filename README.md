@@ -2,11 +2,29 @@
 
 注：文末附加群方式。
 
-更新于2021年3月13日。
+更新于2021年3月20日。
 
 作者：3D视觉工坊所有投稿作者
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
+
+275、题目：[一文详解OpenCV中的CUDA模块](https://mp.weixin.qq.com/s/wvD9rmJkcNtMQEOpTLot0A)，作者：天啦噜
+
+274、题目：[基于激光雷达点云数据的目标跟踪算法](https://mp.weixin.qq.com/s/-sJURbreWSbrPJ8UcybaxA)，作者：爱做菜的炼丹师
+
+273、题目：[多视图立体几何PatchMatchStereo：DSI与Cost Volume](https://mp.weixin.qq.com/s/95YuQ0wzN04a0_rYqQwaOg)，作者：视觉企鹅
+
+272、题目：[超全总结！视觉SLAM方案整理及硬件选型（附项目地址）](https://mp.weixin.qq.com/s/hxcq_PZ8474f0I6zPxS7eA)，作者：Mega_Li
+
+271、题目：[CVPR 2021| 基于深度图匹配的鲁棒点云配准框架](https://mp.weixin.qq.com/s/30mIbwkn91Ey517GyjCvUg)，作者：Bryan_Jiang
+
+270、题目：[一文详解激光点云的物体聚类](https://mp.weixin.qq.com/s/FmMJn2qjtylUMRGrD5telw)，作者：爱做菜的炼丹师
+
+269、题目：[双目视觉惯性里程计的在线初始化与自标定算法](https://mp.weixin.qq.com/s/gt8YjQvdOCr7O1SpEWx1zA)，作者：Amber
+
+268、题目：[一文详解激光点云的地面分割](https://mp.weixin.qq.com/s/GOuAQrGt-IUFWEL32PKLiQ)，作者：爱做菜的炼丹师
+
+267、题目：[用于自动驾驶的实时车道线检测和智能告警](https://mp.weixin.qq.com/s/uYjxy_4KD7dEiHvjG09ROQ)，作者：Priya Dwivedi
 
 266、题目：[巴塞罗那自治大学3D视觉课件（免费获取）](https://mp.weixin.qq.com/s/vhJ-88J-0oRdGnLUAU5x1g),作者：工坊
 
