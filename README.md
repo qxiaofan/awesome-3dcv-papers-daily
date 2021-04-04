@@ -2,11 +2,23 @@
 
 注：文末附加群方式。
 
-更新于2021年3月20日。
+更新于2021年4月4日。
 
 作者：3D视觉工坊所有投稿作者
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
+
+281、题目：[终于来了，超详细手眼标定原理与实战视频教程](https://mp.weixin.qq.com/s/tz2qc2cSkf8vKzcEEQ2iHQ)， 作者：工坊
+
+280、题目：[CVPR2021：推广到开放世界的在线自适应深度视觉里程计](https://mp.weixin.qq.com/s/r_9kjcvW8eqvd-UOFEasUw)， 作者：Amber
+
+279、题目：[一文详解双目相机标定理论](https://mp.weixin.qq.com/s/t5aYb31tyh-wbdBLcMys_Q)， 作者：曹博
+
+278、题目：[CVPR2021|基于分类深度分布网络的单目3D物体检测](https://mp.weixin.qq.com/s/KjGzhh-1LUpG70_MmRDrhg)， 作者：晨曦
+
+277、题目：[CVPR2021|SpinNet：学习用于3D点云配准的通用表面描述符](https://mp.weixin.qq.com/s/_wQet1dgvTDG5UDdFNygCw)， 作者：Bryan_Jiang
+
+276、题目：[CVPR 2021|三维视觉相关论文汇总](https://mp.weixin.qq.com/s/6bawUPGVIZRswaCYmlPBIA)， 作者：Tom Hardy
 
 275、题目：[一文详解OpenCV中的CUDA模块](https://mp.weixin.qq.com/s/wvD9rmJkcNtMQEOpTLot0A)，作者：天啦噜
 
