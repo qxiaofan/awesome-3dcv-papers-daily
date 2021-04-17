@@ -2,11 +2,27 @@
 
 注：文末附加群方式。
 
-更新于2021年4月4日。
+更新于2021年4月17日。
 
 作者：3D视觉工坊所有投稿作者
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
+
+287、题目：[如何更高效、系统地学习三维点云原理与方法？](https://mp.weixin.qq.com/s/lmbOT6km5WYDu1G--NxfXA)，作者：工坊
+
+286、题目：[CVPR 2021 | 基于稠密场景匹配的相机定位学习](https://mp.weixin.qq.com/s/L5_xa2K0lOtAZi7DtvwE3w)，作者：Amber
+
+285、题目：[视频+课件| PointDSC：基于特征匹配的点云配准方法（CVPR2021）](https://mp.weixin.qq.com/s/CHj6fxQSQTVoDIs4VxY6ag)，作者：工坊
+
+284、题目：[一文详解点云库PCL](https://mp.weixin.qq.com/s/DrSgeQFmnwemRhL8XMTnFw)，作者：天啦噜
+
+283、题目：[快速完整的基于点云闭环检测的激光SLAM系统](https://mp.weixin.qq.com/s/6XZCW3m6SuzkKi0c5T2zww)，作者：Liam
+
+282、题目：[视频+课件|单目6D姿态估计算法详解](https://mp.weixin.qq.com/s/KQHqHADkamk9LFY-mvCMOg)，作者：工坊
+
+282、题目：[PatchMatchStereo中的深度/视差传播策略](https://mp.weixin.qq.com/s/H_mgPmaC_7xfAE072AzKrg)，作者：视觉企鹅
+
+282、题目：[CVPR2021|基于双边扩充和自适应融合方法的点云语义分割网络](https://mp.weixin.qq.com/s/CXXBnjUXMORNKgQ61tMF2g)，作者：PCB_Segmen
 
 281、题目：[终于来了，超详细手眼标定原理与实战视频教程](https://mp.weixin.qq.com/s/tz2qc2cSkf8vKzcEEQ2iHQ)， 作者：工坊
 
