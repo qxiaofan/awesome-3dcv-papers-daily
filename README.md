@@ -8,6 +8,24 @@
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
 
+296、题目：[重磅直播 | CenterPoint：三维点云目标检测算法梳理及最新进展（CVPR2021）](https://mp.weixin.qq.com/s/5M5w6nNP4YeFIYP7keVjmg),作者：工坊
+
+295、题目：[基于多视图几何方式的三维重建](https://mp.weixin.qq.com/s/CgR787PGpaswfnm2bzv-NQ),作者：工坊
+
+294、题目：[彻底搞透视觉三维重建：原理剖析、代码讲解、及优化改进](https://mp.weixin.qq.com/s/aVPxhwnoA5g-QDZ06d88tg),作者：工坊
+
+293、题目：[CVPR 2021 | pixelNeRF：一种基于NeRF的多视图三维重建网络](https://mp.weixin.qq.com/s/_BIJEe099JsYZpYX109Xbg),作者：Longway
+
+292、题目：[腾讯/字节/华为/旷视 2022届实习面经—计算机视觉方向](https://mp.weixin.qq.com/s/NAzCSIl7XKGgl4jxB8NpAA),作者：小猪安琪
+
+291、题目：[多视图立体匹配MVSNet网络解析：保姆级教程](https://mp.weixin.qq.com/s/iCkHZUVTuPX7kHmoiacq-w),作者：Todd-Qi
+
+290、题目：[CVPR2021 | PAConv：一种位置自适应卷积，点云分类、分割任务表现SOTA](https://mp.weixin.qq.com/s/uTGgjc9lTOJW_MzvXVy-Jw),作者：Mino
+
+289、题目：[LVI-SAM：紧耦合的激光视觉惯导SLAM系统（Tixiao Shan新作，已开源）](https://mp.weixin.qq.com/s/NQoMP3gCsiaPgofdt2QejA),作者：Liam
+
+288、题目：[重磅直播 | 室内动态变化场景中的相机重定位（CVPR2021）](https://mp.weixin.qq.com/s/QXor-Nt92Ih2cnRoSLJAAA)，作者：工坊
+
 287、题目：[如何更高效、系统地学习三维点云原理与方法？](https://mp.weixin.qq.com/s/lmbOT6km5WYDu1G--NxfXA)，作者：工坊
 
 286、题目：[CVPR 2021 | 基于稠密场景匹配的相机定位学习](https://mp.weixin.qq.com/s/L5_xa2K0lOtAZi7DtvwE3w)，作者：Amber
