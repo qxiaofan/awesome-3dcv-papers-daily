@@ -2,7 +2,7 @@
 
 注：文末附加群方式。
 
-#### 3D视觉精品课程：
+#### 3D视觉精品课程：店铺：[3D视觉精品视频课程](https://app0S6nfQRG6303.h5.xiaoeknow.com)
 - [国内首个面向自动驾驶领域的多传感器融合标定系统学习课程](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_609d2d59e4b0fe322013088d?type=3)
 
 - [彻底搞透视觉三维重建：原理剖析、代码讲解、及优化改进](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_609161a1e4b071a81eb781a8?type=3)
