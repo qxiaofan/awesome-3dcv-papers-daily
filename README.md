@@ -13,6 +13,8 @@
 
 - [相机标定从入门到精通：基本原理与实战](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_6092922ee4b09134c98de375?type=3)
 
+- [机械臂位姿估计与抓取（基本原理+代码实战）](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_60a87bcee4b0c7264217f91b?type=3)
+
 
 更新于2021年5月22日。
 
