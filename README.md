@@ -8,6 +8,20 @@
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
 
+303、题目：[多视图几何中5点法非线性求解计算本质矩阵](https://mp.weixin.qq.com/s/_Bqd-Vohe7fD7S5OOmoEfw)，作者：李城
+
+302、题目：[PREDATOR: 低重叠三维点云的配准方法（CVPR2021）](https://mp.weixin.qq.com/s/peEfWqbY3-XVWzucO4qQiA)，作者：Bryan_Jiang
+
+301、题目：[一文详解非线性优化算法：保姆级教程-基础理论](https://mp.weixin.qq.com/s/6QdW45fkAocLpFa4VLga2A)，作者：Amber
+
+300、题目：[基于运动相关分析的实时多源异构传感器时空标定方法研究](https://mp.weixin.qq.com/s/2Qb1TbaiBpM7HscmKNcAAA)，作者：chaochaoSEU
+
+299、题目：[视频+课件| 视觉引导系列课程](https://mp.weixin.qq.com/s/gphnQ3RjdOnQVbHewWBx1g)，作者：工坊
+
+298、题目：[基于激光点云语义信息的闭环检测](https://mp.weixin.qq.com/s/naHFS6L2mBnro9p91sVeUA)，作者：Liam
+
+297、题目：[CVPR2021：单目实时全身动作捕捉（清华大学）](https://mp.weixin.qq.com/s/comg8g4kCKZvCZN1uEfiGA)，作者：夏初
+
 296、题目：[重磅直播 | CenterPoint：三维点云目标检测算法梳理及最新进展（CVPR2021）](https://mp.weixin.qq.com/s/5M5w6nNP4YeFIYP7keVjmg),作者：工坊
 
 295、题目：[基于多视图几何方式的三维重建](https://mp.weixin.qq.com/s/CgR787PGpaswfnm2bzv-NQ),作者：工坊
