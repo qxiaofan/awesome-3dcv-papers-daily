@@ -16,11 +16,23 @@
 - [机械臂位姿估计与抓取（基本原理+代码实战）](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_60a87bcee4b0c7264217f91b?type=3)
 
 
-更新于2021年5月22日。
+更新于2021年6月5日。
 
 作者：3D视觉工坊所有投稿作者
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
+
+309、题目：[ICRA2021| Intensity-SLAM：基于强度辅助的大规模环境定位和建图](https://mp.weixin.qq.com/s/vnf-wFSP4y61TN-uC6cL9Q)，作者：ChaochaoSEU
+
+308、题目：[基于3D边界特征的视觉定位技术](https://mp.weixin.qq.com/s/RVb6fRtDW_ShNe4agtt0UA)，作者： PCB_Segmen
+
+307、题目：[ECCV 2020 | 基于分割一致性的单目自监督三维重建](https://mp.weixin.qq.com/s/47jU0uxfbHe2dFsr9JvfFg)，作者： Longway
+
+306、题目：[三维点云配准方法（两帧）](https://mp.weixin.qq.com/s/77aeoiwelKr2WIPZ_5iJ2g)，作者：肖老师
+
+305、题目：[从计算机视觉(slam)和摄影测量两个维度进行BA算法原理推导](https://mp.weixin.qq.com/s/BXNTdSUGO2BOXbZ5yVawVw)，作者：李城
+
+304、题目：[LiTAMIN2：一种超轻型LiDAR-SLAM（ICRA2021）](https://mp.weixin.qq.com/s/csfMNDN2kxrpt_gF_e2GlQ),作者：计算机视觉工坊
 
 303、题目：[多视图几何中5点法非线性求解计算本质矩阵](https://mp.weixin.qq.com/s/_Bqd-Vohe7fD7S5OOmoEfw)，作者：李城
 
