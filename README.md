@@ -7,6 +7,8 @@
 
 - [彻底搞透视觉三维重建：原理剖析、代码讲解、及优化改进](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_609161a1e4b071a81eb781a8?type=3)
 
+- [彻底搞懂基于LOAM框架的3D激光SLAM: 源码剖析到算法优化 ](https://mp.weixin.qq.com/s/POWVOCbTxAEp7z2FZ3mdVQ)
+
 - [三维点云从入门到精通系统视频学习课程](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_60929590e4b071a81eb7a173?type=3)
  
 - [国内首个基于结构光投影三维重建系列视频课程](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_609281f5e4b0d4eb039721a1?type=3)
@@ -16,11 +18,18 @@
 - [机械臂位姿估计与抓取（基本原理+代码实战）](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_60a87bcee4b0c7264217f91b?type=3)
 
 
-更新于2021年6月5日。
+更新于2021年6月12日。
 
 作者：3D视觉工坊所有投稿作者
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
+
+
+312、题目：[彻底搞懂基于LOAM框架的3D激光SLAM: 源码剖析到算法优化 ](https://mp.weixin.qq.com/s/POWVOCbTxAEp7z2FZ3mdVQ)，作者：工坊
+
+311、题目：[ICRA 2021| 具有在线校准功能的高效多传感器辅助惯性导航系统 ](https://mp.weixin.qq.com/s/f3xbH8-EJmJeg9jg9EdygA)，作者：chaochaoSEU 
+
+310、题目：[最新综述：基于深度学习方式的单目物体姿态估计与跟踪 ](https://mp.weixin.qq.com/s/sQD81vt6nWUVvYpoFO6dlw)，作者：Tom Hardy
 
 309、题目：[ICRA2021| Intensity-SLAM：基于强度辅助的大规模环境定位和建图](https://mp.weixin.qq.com/s/vnf-wFSP4y61TN-uC6cL9Q)，作者：ChaochaoSEU
 
