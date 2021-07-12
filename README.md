@@ -18,12 +18,23 @@
 - [机械臂位姿估计与抓取（基本原理+代码实战）](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_60a87bcee4b0c7264217f91b?type=3)
 
 
-更新于2021年6月12日。
+更新于2021年7月12日。
 
 作者：3D视觉工坊所有投稿作者
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
 
+318、题目：[基于三角测量与稠密化稀疏点的深度估计 (ECCV2020)](https://mp.weixin.qq.com/s/luifagFZoJy5iTJ3f4CNcw)，作者： Todd-Qi
+
+317、题目：[CVPR 2020 | 基于深度引导卷积的单目3D目标检测](https://mp.weixin.qq.com/s/oL0VQo3pRFBY2nQ0kJdL3w)，作者：T.PAN
+
+316、题目：[自动驾驶中多模态三维目标检测研究综述](https://mp.weixin.qq.com/s/5e_nA3n0TJFHG8TCcOkqjw)，作者： 王颖杰、毛秋宇
+
+315、题目：[基于LOAM框架的激光SLAM开源程序汇总](https://mp.weixin.qq.com/s/VU29XXLjWCv4qS0tpaO7Sw)，作者：飞仔
+
+314、题目：[ICRA 2021|用于LiDAR里程计和建图的Poisson表面重建](https://mp.weixin.qq.com/s/ahK3FR5tCGMNki0QfTtGsg)，作者： chaochaoSEU
+
+313、题目：[结构光逆相机法重建详解+代码](https://mp.weixin.qq.com/s/SXko-36jRqAK7CCxBYcUlQ)，作者：曹博
 
 312、题目：[彻底搞懂基于LOAM框架的3D激光SLAM: 源码剖析到算法优化 ](https://mp.weixin.qq.com/s/POWVOCbTxAEp7z2FZ3mdVQ)，作者：工坊
 
