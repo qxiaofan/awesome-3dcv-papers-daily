@@ -18,11 +18,21 @@
 - [机械臂位姿估计与抓取（基本原理+代码实战）](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_60a87bcee4b0c7264217f91b?type=3)
 
 
-更新于2021年7月12日。
+更新于2021年7月17日。
 
 作者：3D视觉工坊所有投稿作者
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
+
+323、题目：[重磅直播|单目无监督深度估计综述](https://mp.weixin.qq.com/s/PGAr6atNUUIREHKkJewpJg)，作者：工坊
+
+322、题目：[从传统到深度学习：浅谈点云分割中的图结构](https://mp.weixin.qq.com/s/Md4e_DxrGkF7jLF6OP6Vmg)，作者：PCB_Segment
+
+321、题目：[ICRA 2021| 聚焦距离的Camera-IMU-UWB融合定位方法](https://mp.weixin.qq.com/s/12BaW-nExdxkMCTaEONc3Q)，作者：chaochaoSEU
+
+320、题目：[CVPR 2021 | 针对全局 SfM 的高效初始位姿图生成](https://mp.weixin.qq.com/s/WmGVkt3OhsKZjOulyebNtA)，作者： chaochaoSEU
+
+319、题目：[Neighbor-Vote：使用邻近距离投票优化单目3D目标检测（ACM MM2021）](https://mp.weixin.qq.com/s/wykaxyYLJ6z4laYVGhJpRg)，作者：楚云
 
 318、题目：[基于三角测量与稠密化稀疏点的深度估计 (ECCV2020)](https://mp.weixin.qq.com/s/luifagFZoJy5iTJ3f4CNcw)，作者： Todd-Qi
 
