@@ -3,15 +3,15 @@
 注：文末附加群方式。
 
 #### 3D视觉精品课程：店铺：[3D视觉精品视频课程](https://app0S6nfQRG6303.h5.xiaoeknow.com)
-- [国内首个面向自动驾驶领域的多传感器融合标定系统学习课程](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_609d2d59e4b0fe322013088d?type=3)
+- [国内首个面向自动驾驶领域的多传感器融合标定系统学习课程](https://mp.weixin.qq.com/s/0-mb6M6HvKU3Uau0a4taTw)
 
-- [彻底搞透视觉三维重建：原理剖析、代码讲解、及优化改进](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_609161a1e4b071a81eb781a8?type=3)
+- [彻底搞透视觉三维重建：原理剖析、代码讲解、及优化改进](https://mp.weixin.qq.com/s/9gtdrloSWR2kJlYk5CnWIQ)
 
 - [彻底搞懂基于LOAM框架的3D激光SLAM: 源码剖析到算法优化 ](https://mp.weixin.qq.com/s/POWVOCbTxAEp7z2FZ3mdVQ)
 
-- [三维点云从入门到精通系统视频学习课程](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_60929590e4b071a81eb7a173?type=3)
+- [三维点云从入门到精通系统视频学习课程](https://mp.weixin.qq.com/s/uJ34xjWjAFCzDDduoo0ixA)
  
-- [国内首个基于结构光投影三维重建系列视频课程](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_609281f5e4b0d4eb039721a1?type=3)
+- [国内首个基于结构光投影三维重建系列视频课程](https://mp.weixin.qq.com/s/WLyuE3ByntGA-Y0w8GZ29A)
 
 - [相机标定从入门到精通：基本原理与实战](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_6092922ee4b09134c98de375?type=3)
 
