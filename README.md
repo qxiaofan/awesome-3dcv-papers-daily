@@ -5,6 +5,8 @@
 #### 3D视觉精品课程：店铺：[3D视觉精品视频课程](https://app0S6nfQRG6303.h5.xiaoeknow.com)
 - [国内首个面向自动驾驶领域的多传感器融合标定系统学习课程](https://mp.weixin.qq.com/s/0-mb6M6HvKU3Uau0a4taTw)
 
+- [视觉-惯性SLAM入门与实践教程（基于VINS-Fusion）](https://mp.weixin.qq.com/s/L3YkFH7JSAhM4rDam7mdWg)
+
 - [彻底搞透视觉三维重建：原理剖析、代码讲解、及优化改进](https://mp.weixin.qq.com/s/9gtdrloSWR2kJlYk5CnWIQ)
 
 - [彻底搞懂基于LOAM框架的3D激光SLAM: 源码剖析到算法优化 ](https://mp.weixin.qq.com/s/POWVOCbTxAEp7z2FZ3mdVQ)
@@ -18,11 +20,15 @@
 - [机械臂位姿估计与抓取（基本原理+代码实战）](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_60a87bcee4b0c7264217f91b?type=3)
 
 
-更新于2021年7月17日。
+更新于2021年7月26日。
 
 作者：3D视觉工坊所有投稿作者
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
+
+325、题目：[视觉/视觉惯性SLAM最新综述：领域进展、方法分类与实验对比](https://mp.weixin.qq.com/s/I7d0jnSFWlMHaW76L6X59w)，作者：chaochaoSEU
+
+324、题目：[Super odometry:以IMU为核心的激光雷达视觉惯性融合框架（ICRA2021）](https://mp.weixin.qq.com/s/g0hcXB3hcDgqG3OXV442bQ)，作者：chaochaoSEU
 
 323、题目：[重磅直播|单目无监督深度估计综述](https://mp.weixin.qq.com/s/PGAr6atNUUIREHKkJewpJg)，作者：工坊
 
