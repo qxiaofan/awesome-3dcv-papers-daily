@@ -25,6 +25,7 @@
 作者：3D视觉工坊所有投稿作者
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
+326、题目：[Single-Shot Calibration：基于全景基础设施的多相机和多激光雷达之间的外参标定（ICRA2021）](https://mp.weixin.qq.com/s/ta7cSdSfLMmREqNUJY-TuA)，作者：Bin
 
 325、题目：[视觉/视觉惯性SLAM最新综述：领域进展、方法分类与实验对比](https://mp.weixin.qq.com/s/I7d0jnSFWlMHaW76L6X59w)，作者：chaochaoSEU
 
