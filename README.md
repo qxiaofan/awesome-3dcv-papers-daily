@@ -12,6 +12,8 @@
 - [彻底搞懂基于LOAM框架的3D激光SLAM: 源码剖析到算法优化 ](https://mp.weixin.qq.com/s/POWVOCbTxAEp7z2FZ3mdVQ)
 
 - [三维点云从入门到精通系统视频学习课程](https://mp.weixin.qq.com/s/uJ34xjWjAFCzDDduoo0ixA)
+
+- [彻底剖析室内、室外激光SLAM关键算法原理、代码和实战(cartographer+LOAM+LIO-SAM)](https://mp.weixin.qq.com/s/Un0-2L-FU2QTmW0zez8RTg) 
  
 - [国内首个基于结构光投影三维重建系列视频课程](https://mp.weixin.qq.com/s/WLyuE3ByntGA-Y0w8GZ29A)
 
@@ -25,6 +27,13 @@
 作者：3D视觉工坊所有投稿作者
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
+
+329、题目：[彻底剖析室内、室外激光SLAM关键算法原理、代码和实战(cartographer+LOAM+LIO-SAM)](https://mp.weixin.qq.com/s/Un0-2L-FU2QTmW0zez8RTg)，作者：工坊
+
+328、题目：[PV-RAFT：用于点云场景流估计的点体素相关场（CVPR2021）](https://mp.weixin.qq.com/s/1TlbtrACKSp78Tu6SDh0uQ)，作者：PCB_Segmen
+
+327、题目：[距离-视觉-惯性里程计：无激励的尺度可观测性（ICRA2021）](https://mp.weixin.qq.com/s/LxmgUOaiJquR0DlhSoyo8Q)，作者： chaochaoSEU
+
 326、题目：[Single-Shot Calibration：基于全景基础设施的多相机和多激光雷达之间的外参标定（ICRA2021）](https://mp.weixin.qq.com/s/ta7cSdSfLMmREqNUJY-TuA)，作者：Bin
 
 325、题目：[视觉/视觉惯性SLAM最新综述：领域进展、方法分类与实验对比](https://mp.weixin.qq.com/s/I7d0jnSFWlMHaW76L6X59w)，作者：chaochaoSEU
