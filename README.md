@@ -22,7 +22,7 @@
 - [机械臂位姿估计与抓取（基本原理+代码实战）](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_60a87bcee4b0c7264217f91b?type=3)
 
 
-更新于2021年7月26日。
+更新于2021年8月21日。
 
 作者：3D视觉工坊所有投稿作者
 
