@@ -12,7 +12,7 @@
 - [国内首个基于结构光投影三维重建系列视频课程](https://mp.weixin.qq.com/s/WLyuE3ByntGA-Y0w8GZ29A)
 - [相机标定从入门到精通：基本原理与实战](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_6092922ee4b09134c98de375?type=3)
 - [机械臂位姿估计与抓取（基本原理+代码实战）](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_60a87bcee4b0c7264217f91b?type=3)
-- [[从零搭建一套结构光3D重建系统理论+源码+实践\]](https://mp.weixin.qq.com/s/dgc25DwLqJJlnq_d29qeZg)
+- [从零搭建一套结构光3D重建系统理论+源码+实践\]](https://mp.weixin.qq.com/s/dgc25DwLqJJlnq_d29qeZg)
 -  [彻底剖析激光-视觉-IMU-GPS融合SLAM算法：理论推导、代码讲解和实战](https://mp.weixin.qq.com/s/dNMm3XnIVuyo2ANS9eVQ1A)
 -  [彻底搞懂视觉-惯性SLAM：基于VINS-Fusion](https://mp.weixin.qq.com/s/xCtq4nI9Jd5HyVIW1bCKTg)
 - [视觉三维重建的关键技术及实现](https://mp.weixin.qq.com/s/9gtdrloSWR2kJlYk5CnWIQ)
@@ -23,7 +23,7 @@
 
 更新于2022年1月5日。
 
-作者：3D视觉工坊所有投稿作者
+作者：3D视觉工坊所有投稿作者，欢迎大家能够积极投稿，投稿请联系小助理微信：CV_LAB，一经录用，稿费丰厚。
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
 
