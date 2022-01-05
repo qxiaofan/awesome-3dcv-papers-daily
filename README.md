@@ -4,29 +4,120 @@
 
 #### 3D视觉精品课程：店铺：[3D视觉精品视频课程](https://app0S6nfQRG6303.h5.xiaoeknow.com)
 - [国内首个面向自动驾驶领域的多传感器融合标定系统学习课程](https://mp.weixin.qq.com/s/0-mb6M6HvKU3Uau0a4taTw)
-
 - [视觉-惯性SLAM入门与实践教程（基于VINS-Fusion）](https://mp.weixin.qq.com/s/L3YkFH7JSAhM4rDam7mdWg)
-
 - [彻底搞透视觉三维重建：原理剖析、代码讲解、及优化改进](https://mp.weixin.qq.com/s/9gtdrloSWR2kJlYk5CnWIQ)
-
 - [彻底搞懂基于LOAM框架的3D激光SLAM: 源码剖析到算法优化 ](https://mp.weixin.qq.com/s/POWVOCbTxAEp7z2FZ3mdVQ)
-
 - [三维点云从入门到精通系统视频学习课程](https://mp.weixin.qq.com/s/uJ34xjWjAFCzDDduoo0ixA)
-
 - [彻底剖析室内、室外激光SLAM关键算法原理、代码和实战(cartographer+LOAM+LIO-SAM)](https://mp.weixin.qq.com/s/Un0-2L-FU2QTmW0zez8RTg) 
- 
 - [国内首个基于结构光投影三维重建系列视频课程](https://mp.weixin.qq.com/s/WLyuE3ByntGA-Y0w8GZ29A)
-
 - [相机标定从入门到精通：基本原理与实战](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_6092922ee4b09134c98de375?type=3)
-
 - [机械臂位姿估计与抓取（基本原理+代码实战）](https://app0s6nfqrg6303.h5.xiaoeknow.com/v1/course/column/p_60a87bcee4b0c7264217f91b?type=3)
+- [[从零搭建一套结构光3D重建系统理论+源码+实践\]](https%3A//mp.weixin.qq.com/s/dgc25DwLqJJlnq_d29qeZg)
+-  [彻底剖析激光-视觉-IMU-GPS融合SLAM算法：理论推导、代码讲解和实战](https%3A//mp.weixin.qq.com/s/dNMm3XnIVuyo2ANS9eVQ1A)
+-  [彻底搞懂视觉-惯性SLAM：基于VINS-Fusion](https%3A//mp.weixin.qq.com/s/xCtq4nI9Jd5HyVIW1bCKTg)
+- [视觉三维重建的关键技术及实现](https%3A//mp.weixin.qq.com/s/9gtdrloSWR2kJlYk5CnWIQ)
+- [ROS2从入门到精通：理论与实战](https://mp.weixin.qq.com/s/LVx1SkxYXWQvv7UeFToXwQ)
+- [四旋翼飞行器：算法与实战](https://mp.weixin.qq.com/s/tXdADZnApwHpb63NFEHYqg)
 
 
-更新于2021年8月21日。
+
+更新于2022年1月5日。
 
 作者：3D视觉工坊所有投稿作者
 
 #### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
+
+374、题目：[求贤令|诚邀3D视觉领域技术大咖加入工坊！](https://zhuanlan.zhihu.com/p/399206828)
+
+373、题目：[汇总|视觉-惯性SLAM问题(vins-fusion)](https://zhuanlan.zhihu.com/p/410800248)
+
+372、题目：[基于Range Image的自主车辆激光雷达定位（ICRA 2021）](https://zhuanlan.zhihu.com/p/410802329)
+
+371、题目：[CorrNet3D：基于无监督的非刚性点云配准网络 （CVPR2021）](https://zhuanlan.zhihu.com/p/410803926)
+
+370、题目：[基于先验LiDAR点云地图的单目VIO定位（IROS 2020）](https://zhuanlan.zhihu.com/p/410804547)
+
+369、题目：[车端激光和双目相机的自动标定算法](https://zhuanlan.zhihu.com/p/410805297)
+
+368、题目：[用于精确导航和场景重建的 3D 配准方法（ICRA 2021）](https://zhuanlan.zhihu.com/p/415881794)
+
+367、题目：[RoadMap:一种用于自动驾驶视觉定位的轻质语义地图（ICRA2021）](https://zhuanlan.zhihu.com/p/415883113)
+
+366、题目：[R3LIVE：一个实时鲁棒、带有RGB颜色信息的激光雷达-惯性-视觉紧耦合系统（香港大学）](https://zhuanlan.zhihu.com/p/415884551)
+
+365、题目：[基于圆形标定点的相机几何参数的标定](https://zhuanlan.zhihu.com/p/415885497)
+
+364、题目：[SLAM全栈+三维重建全栈系统学习路线！](https://zhuanlan.zhihu.com/p/415886143)
+
+363、题目：[3D视觉全栈学习路线分享！（SLAM+点云+三维重建+多传感器融合）](https://zhuanlan.zhihu.com/p/415887499)
+
+362、题目：[三维重建系统教程！涉及结构光三维重建、视觉三维重建、点云处理等~](https://zhuanlan.zhihu.com/p/415888087)
+
+361、题目：[小白如何系统学习SLAM？](https://zhuanlan.zhihu.com/p/415888602)
+
+360、题目：[面向自动驾驶领域的3D点云目标检测全栈学习路线！(单模态+多模态/数据+代码)](https://zhuanlan.zhihu.com/p/419736789)
+
+359、题目：[针对高分辨率雷达和相机的无标定板的像素级外参自标定方法](https://zhuanlan.zhihu.com/p/419737687)
+
+358、题目：[AdaFit：一种对基于学习的点云法线估计方法的新思考（ICCV2021）](https://zhuanlan.zhihu.com/p/422087858)
+
+357、题目：[RfD-Net：基于语义实例重构的点云场景理解（CVPR2021）](https://zhuanlan.zhihu.com/p/422091202)
+
+356、题目：[从零搭建一套结构光3D重建系统[理论+源码+实践\]](https://zhuanlan.zhihu.com/p/422204436)
+
+355、题目：[视觉三维重建的关键技术及实现（19讲视频+PPT+源码数据）完整学习资料汇总！](https://zhuanlan.zhihu.com/p/422206354)
+
+354、题目：[彻底搞懂基于LOAM框架的3D激光SLAM全套学习资料汇总！](https://zhuanlan.zhihu.com/p/422209143)
+
+353、题目：[一文详解PnP算法原理](https://zhuanlan.zhihu.com/p/423797592)
+
+352、题目：[超全！SLAM论文与开源代码汇总（激光+视觉+融合）](https://zhuanlan.zhihu.com/p/423979070)
+
+351、题目：[MVTN：用于3D形状识别的多视图转换网络（ICCV2021）](https://zhuanlan.zhihu.com/p/424418012)
+
+350、题目：[单目深度估计方法：算法梳理与代码实现](https://zhuanlan.zhihu.com/p/424939678)
+
+349、题目：[PPF（Point Pair Features）原理及实战技巧](https://zhuanlan.zhihu.com/p/425656495)
+
+348、题目：[一文详解激光SLAM框架LeGO-LOAM](https://zhuanlan.zhihu.com/p/426280500)
+
+347、题目： [重磅！相机模型与标定系统教程（单目+双目+鱼眼+深度相机）](https://zhuanlan.zhihu.com/p/426932280)
+
+346、题目： [RandomRooms：用于3D目标检测的无监督预训练方法（ICCV2021）](https://zhuanlan.zhihu.com/p/433082908)
+
+345、题目：[RP-VIO：面向动态环境的基于平面的鲁棒视惯融合里程计（IROS2021）](https://zhuanlan.zhihu.com/p/433158403)  
+
+344、题目：[基于多模态路标跟踪的紧耦合激光—视觉—惯导里程计（ICRA2021）](https://zhuanlan.zhihu.com/p/433161792)    
+
+343、题目：[基于分层分段的SLAM算法优化(IROS 2021)](https://zhuanlan.zhihu.com/p/433162331)  作者：chaochaoSEU
+
+342、题目： [单目深度估计方法综述](https://zhuanlan.zhihu.com/p/439239999)   作者：塔塔酱
+
+341、题目：  [VINS-Fusion如何高效学习？](https://zhuanlan.zhihu.com/p/440092139)  作者：可翰
+
+340、题目：[四旋翼飞行器：算法与实战](https://zhuanlan.zhihu.com/p/443390530)    
+
+339、题目： [SegICP：一种集成深度语义分割和位姿估计的框架（附代码）](https://zhuanlan.zhihu.com/p/444295453)   作者：PCB_Segmen
+
+338、题目：  [Iris: 比ScanContext更加精确高效的激光回环检测方法（IROS 2020）](https://zhuanlan.zhihu.com/p/444299298)作者：晃晃悠悠的虚无周
+
+337、题目：[GR-Fusion：强鲁棒低漂移的多传感器融合系统（IROS2021）](https://zhuanlan.zhihu.com/p/444464514)    作者：Maple
+
+336、题目：  [Clipper: 开源的基于图论框架的鲁棒点云数据关联方法(ICRA2021)](https://zhuanlan.zhihu.com/p/444466512)  作者：晃晃悠悠的虚无周
+
+335、题目：  [PMVS：多视图匹配经典算法](https://zhuanlan.zhihu.com/p/444472557)  作者：Scentea
+
+334、题目：  [ROS2从入门到精通：理论与实战](https://zhuanlan.zhihu.com/p/448709330)  
+
+333、题目：  [Extended VINS-Mono: 大规模户外环境进行绝对和相对车辆定位的系统性方法（IROS2021）](https://zhuanlan.zhihu.com/p/453308050)  
+
+332、题目：  [基于传统方法的单目深度估计]()  
+
+330、题目： [深度学习模型部署简要介绍](https://zhuanlan.zhihu.com/p/453313478)   
+
+331、题目：[一文详解相机标定算法原理](https://zhuanlan.zhihu.com/p/453316188) 
+
+330、题目：[使用端到端立体匹配网络进行单次 3D 形状测量，用于散斑投影轮廓测量](https://zhuanlan.zhihu.com/p/453317692)  作者：老曹
 
 329、题目：[彻底剖析室内、室外激光SLAM关键算法原理、代码和实战(cartographer+LOAM+LIO-SAM)](https://mp.weixin.qq.com/s/Un0-2L-FU2QTmW0zez8RTg)，作者：工坊
 
