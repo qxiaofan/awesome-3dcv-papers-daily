@@ -21,11 +21,94 @@
 
 
 
-更新于2022年1月5日。
+更新于2022年7月12日。
 
 作者：3D视觉工坊所有投稿作者，欢迎大家能够积极投稿，投稿请联系小助理微信：CV_LAB，一经录用，稿费丰厚。
 
-#### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[计算机视觉工坊](https://www.zhihu.com/people/3dvision)
+#### 一  来源：公众号|[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw) &&知乎|[3D视觉工坊](https://www.zhihu.com/people/qiyong1993)
+
+
+414、题目：[叉车机器人托盘定位技术：近期进展回顾](https://zhuanlan.zhihu.com/p/509266587)
+
+413、题目：[一文详解IMU模型原理和标定选型](https://zhuanlan.zhihu.com/p/509264724)
+
+412、题目：[CVPR2021| 基于自监督学习的多视图立体匹配](https://zhuanlan.zhihu.com/p/509191956)
+
+411、题目：[IEEE Access 2022 | 动态场景中基于改进的DeepLabv3+的语义SLAM](https://zhuanlan.zhihu.com/p/509189596)
+
+410、题目：[综述 | 基于特征的视觉同步定位和建图](https://zhuanlan.zhihu.com/p/503311648)
+
+409、题目：[CVPR 2022 | CrossPoint：3D点云理解的自监督跨模态对比学习](https://zhuanlan.zhihu.com/p/503310085)
+
+408、题目：[RAL2021|基于快速直接的立体视觉SLAM](https://zhuanlan.zhihu.com/p/503307023)
+
+407、题目：[LVI：激光雷达子系统的特征提取梳理](https://zhuanlan.zhihu.com/p/469650336)
+
+406、题目：[基于全局场景背景图和关系优化的全景3D场景理解（ICCV 2021）](https://zhuanlan.zhihu.com/p/469651790)
+
+405、题目：[基于全局场景背景图和关系优化的全景3D场景理解（ICCV 2021）](https://zhuanlan.zhihu.com/p/469651790)
+
+404、题目：[基于GPU加速全局紧耦合的激光-IMU融合SLAM算法（ICRA2022）](https://zhuanlan.zhihu.com/p/470461443)
+
+403、题目：[如何更高效地学习3D视觉与SLAM？](https://zhuanlan.zhihu.com/p/483896178)
+
+402、题目：[PlaneTR：一种用于提取场景中3D平面特征的Transformer(ICCV 2021)](https://zhuanlan.zhihu.com/p/483898287)
+
+401、题目：[ICRA 2022 | 基于多模态变分自编码器的任意时刻三维物体重建](https://zhuanlan.zhihu.com/p/483906051)
+
+400、题目：[高分辨率、实时的手持物体360°三维模型重建结构光技术](https://zhuanlan.zhihu.com/p/483907827)
+
+399、题目：[IROS 2021 | 激光视觉融合新思路？Lidar强度图+VPR](https://zhuanlan.zhihu.com/p/483910659)
+
+398、题目：[重磅！彻底搞懂基于LOAM框架的3D激光SLAM：源码剖析到算法优化](https://zhuanlan.zhihu.com/p/483917923)
+
+397、题目：[重磅！国内首个缺陷检测教程：理论、源码与实战](https://zhuanlan.zhihu.com/p/491130748)
+
+396、题目：[CVPR 2022 | OVE6D：用于基于深度的6D对象姿势估计的对象视点编码](https://zhuanlan.zhihu.com/p/492732724)
+
+395、题目：[ICCV 2021 | R-MSFM: 用于单目深度估计的循环多尺度特征调制](https://zhuanlan.zhihu.com/p/492737038)
+
+394、题目：[PoGO-Net：使用图神经网络进行姿势图优化（ICCV 2021）](https://zhuanlan.zhihu.com/p/509268044)
+
+393、题目：[局部和全局特征融合的点云显著性检测](https://zhuanlan.zhihu.com/p/509273158)
+
+392、题目：[双双棱镜同轴结构光三维测量系统（Applied Optics 2022）](https://zhuanlan.zhihu.com/p/510401822)
+
+391、题目：[3D视觉精品公开课，涉及SLAM、三维点云、三维重建、结构光、自动驾驶、机械臂抓取与位姿估计等](https://zhuanlan.zhihu.com/p/510408529)
+
+390、题目：[基于固态激光雷达辅助的十六线机械雷达和单目相机的外参标定方法](https://zhuanlan.zhihu.com/p/513526265)
+
+389、题目：[结构光三维重建从入门到精通学习路线](https://zhuanlan.zhihu.com/p/514649221)
+
+388、题目：[3D视觉关键字获取资料汇总](https://zhuanlan.zhihu.com/p/514819888)
+
+387、题目：[用于大规模视觉定位的直接2D-3D匹配（IROS 2021)](https://zhuanlan.zhihu.com/p/521363811)
+
+386、题目：[三维点云从入门到精通学习路线](https://zhuanlan.zhihu.com/p/521374359)
+
+385、题目：[TPAMI 2022｜3D语义分割中域适应的跨模态学习](https://zhuanlan.zhihu.com/p/524023728)
+
+384、题目：[薪水30-50K*15 | 山科机器人AI/VSLAM视觉、路径规划/运动控制算法工程师等岗位招聘](https://zhuanlan.zhihu.com/p/524030275)
+
+383、题目：[工业应用中基于三维模型的6D目标检测综述](https://zhuanlan.zhihu.com/p/530594160)
+
+382、题目：[TwistSLAM：鲁棒且精确的动态环境语义VSLAM(RAL 2022)](https://zhuanlan.zhihu.com/p/530597112)
+
+381、题目：[自动驾驶/三维重建/SLAM/点云/相机标定/深度估计/3D检测课程推荐](https://zhuanlan.zhihu.com/p/530603268)
+
+380、题目：[最新！基于Open3D的点云处理入门与实战教程~](https://zhuanlan.zhihu.com/p/534103731)
+
+379、题目：[SDVO：LDSO+语义，直接法语义SLAM(RAL 2022)](https://zhuanlan.zhihu.com/p/537004490)
+
+378、题目：[TT-SLAM：用于平面环境的密集单目SLAM（IEEE 2021）](https://zhuanlan.zhihu.com/p/537008473)
+
+377、题目：[结构光之相移法+多频外差的数学原理推导](https://zhuanlan.zhihu.com/p/537012227)
+
+377、题目：[RSLO：自监督激光雷达里程计（实时+高精度，ICRA2022）](https://zhuanlan.zhihu.com/p/537014893)
+
+376、题目：[ORBSLAM3系列之匹配算法（三）](https://zhuanlan.zhihu.com/p/537072810)
+
+375、题目：[ORBSLAM3系列之地图点（一）](https://zhuanlan.zhihu.com/p/537075580)
 
 374、题目：[求贤令|诚邀3D视觉领域技术大咖加入工坊！](https://zhuanlan.zhihu.com/p/399206828)
 
@@ -1156,7 +1239,7 @@ QQ群「3D视觉工坊」，群号：949193717
 
 3D视觉工坊-学习交流群
 
-已建立3D视觉工坊-学习微信交流群！想要进学习交流群的同学，可以直接加微信号：CV_LAB 。加的时候备注一下：研究方向+学校+昵称，即可。然后就可以拉你进群了。
+已建立3D视觉工坊-学习微信交流群！想要进学习交流群的同学，可以直接加微信号：dddvision 。加的时候备注一下：研究方向+学校+昵称，即可。然后就可以拉你进群了。
 
 强烈推荐大家关注[3D视觉工坊](https://www.zhihu.com/people/qiyong1993)知乎和[3D视觉工坊](https://mp.weixin.qq.com/s/weShDMbGTf0amg1qu_t8cw)微信公众号，可以快速了解到最新优质的3D视觉论文。
 
