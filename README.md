@@ -80,7 +80,7 @@ SLAM方向课程:
 
 ### 基础知识
 
-详情请戳->[这里](others/基础知识.md)
+详情请戳->[这里](paper/基础知识.md)
 
 主要涉及的方向包括：
 
@@ -96,7 +96,7 @@ SLAM方向课程:
 
 ### 工业3D视觉
 
-详情请戳这里->[这里](others/工业3D视觉.md)
+详情请戳这里->[这里](paper/工业3D视觉.md)
 
 主要包括以下一些方面：
 
@@ -150,7 +150,7 @@ SLAM方向课程:
 
 ### 自动驾驶
 
-详情请戳这里->[这里](others/自动驾驶.md)
+详情请戳这里->[这里](paper/自动驾驶.md)
 
 **感知**
 
@@ -173,7 +173,7 @@ SLAM方向课程:
 
 ### 机器人导航
 
-详情请戳这里->[这里](others/机器人导航.md)
+详情请戳这里->[这里](paper/机器人导航.md)
 
 主要包括：
 
@@ -188,7 +188,7 @@ SLAM方向课程:
 
 ### 三维重建
 
-详情请戳这里->[这里](others/三维重建.md)
+详情请戳这里->[这里](paper/三维重建.md)
 
 主要包括：
 
@@ -200,7 +200,7 @@ SLAM方向课程:
 
 ### 无人机
 
-详情请戳这里->[这里](others/无人机.md)
+详情请戳这里->[这里](paper/无人机.md)
 
 主要包括：
 
@@ -209,41 +209,29 @@ SLAM方向课程:
 
 ### 事件相机
 
-详情请戳这里->[这里](others/事件相机.md)
+详情请戳这里->[这里](paper/事件相机.md)
 
 ### 求职招聘
 
-详情请戳这里->[这里](others/求职招聘.md)
+详情请戳这里->[这里](paper/求职招聘.md)
 
 
 
 - 题目：[从零搭建一套结构光3D重建系统[理论+源码+实践\]](https://zhuanlan.zhihu.com/p/422204436)
 
-- 题目：[超全！SLAM论文与开源代码汇总（激光+视觉+融合）](https://zhuanlan.zhihu.com/p/423979070)
-
 - 题目：[单目深度估计方法：算法梳理与代码实现](https://zhuanlan.zhihu.com/p/424939678)
 
 - 题目：[PPF（Point Pair Features）原理及实战技巧](https://zhuanlan.zhihu.com/p/425656495)
-
-- 题目：[一文详解激光SLAM框架LeGO-LOAM](https://zhuanlan.zhihu.com/p/426280500)
 
 - 题目： [重磅！相机模型与标定系统教程（单目+双目+鱼眼+深度相机）](https://zhuanlan.zhihu.com/p/426932280)
 
 - 题目： [RandomRooms：用于3D目标检测的无监督预训练方法（ICCV2021）](https://zhuanlan.zhihu.com/p/433082908)
 
-- 题目：[RP-VIO：面向动态环境的基于平面的鲁棒视惯融合里程计（IROS2021）](https://zhuanlan.zhihu.com/p/433158403)  
-
-- 题目：[基于多模态路标跟踪的紧耦合激光—视觉—惯导里程计（ICRA2021）](https://zhuanlan.zhihu.com/p/433161792)    
-
 - 题目：[基于分层分段的SLAM算法优化(IROS 2021)](https://zhuanlan.zhihu.com/p/433162331)  作者：chaochaoSEU
 
 - 题目： [单目深度估计方法综述](https://zhuanlan.zhihu.com/p/439239999)   作者：塔塔酱
 
-- 题目：  [VINS-Fusion如何高效学习？](https://zhuanlan.zhihu.com/p/440092139)  作者：可翰
-
 - 题目：[四旋翼飞行器：算法与实战](https://zhuanlan.zhihu.com/p/443390530)    
-
-- 题目： [SegICP：一种集成深度语义分割和位姿估计的框架（附代码）](https://zhuanlan.zhihu.com/p/444295453)   作者：PCB_Segmen
 
 - 题目：  [Iris: 比ScanContext更加精确高效的激光回环检测方法（IROS 2020）](https://zhuanlan.zhihu.com/p/444299298)作者：晃晃悠悠的虚无周
 
