@@ -12,6 +12,8 @@
 
 
 
+小檸檬-version
+
 ## 正文
 
 <a name="3D视觉工坊最新论文汇总"></a> 
@@ -700,16 +702,16 @@ SLAM方向课程:
 - 题目：[3D点云two-stage目标检测方法优化综述](http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247505199&idx=1&sn=401f3a58e586d24b8f194babf20c3c4c&chksm=fbfcfe1bcc8b770dce9e3905027660cba4b42aa14dc11d8bc75c84f9969430826763ea358d71#rd)          作者：蒋天园
 
 - 题目：[重磅解读！ORB-SLAM3，它来了，新增鱼眼模型、多地图等](https://mp.weixin.qq.com/s/D83XmeGC5peh3trool6irA)
-       ​    作者：薛轲翰
+   ​    ​    作者：薛轲翰
 
 - 题目：[3D目标检测深度学习方法中voxel-represetnation内容综述（三）](https://mp.weixin.qq.com/s/grqLkA5dCGK1CDuKbNMDFQ)
-       ​    作者：蒋天园
+   ​    ​    作者：蒋天园
 
 - 题目：[ECCV20 3D目标检测新框架3D-CVF](https://mp.weixin.qq.com/s/CSj5ijIirchgfPMN7hZR3g)
-      ​    作者：蒋天园
+  ​    ​    作者：蒋天园
 
 - 题目：[LRNNet：轻量级FCB& SVN实时语义分割](https://mp.weixin.qq.com/s/UblkavnxOPxzlIrsD7O-Cw)
-      ​    作者：Danny明泽
+  ​    ​    作者：Danny明泽
 
 - 题目：[CVPR2020事件相机（Event Camera）研究文章汇总](https://mp.weixin.qq.com/s/wHC0Wzl9fgodLftA-l7s8g)
      ​    作者：董岩
