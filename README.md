@@ -10,6 +10,10 @@
 
 [四 加群](#加群)
 
+如果你想学习更多关于3D视觉、VSLAM、点云、三维重建、深度学习、结构光、机械臂抓取等，欢迎扫码加入我们的知识星球、共同学习学习，一起进步！
+
+![](imgs/星球.jpg)
+
 ## 正文
 
 <a name="3D视觉工坊最新论文汇总"></a> 
@@ -18,7 +22,7 @@
 
 
 
-請详情请戳->[这里](paper/3D视觉工坊最新论文汇总.md)
+详情请戳->[这里](paper/3D视觉工坊最新论文汇总.md)
 
 
 
@@ -36,7 +40,7 @@
 
 - [面向三维视觉算法的C++重要模块精讲：从零基础入门到进阶](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247650268&idx=1&sn=263efd3573ec9dfa75c3771642c1dd5c&scene=21#wechat_redirect)
 
-- [面向三维视觉的Linux嵌入式系统教程[理论+代码+实战\]](https://mp.weixin.qq.com/s?__biz=MzkyMTUwMTU5Mg==&mid=2247485968&idx=1&sn=31b958be0b52d0e45583d80f5d77dc4b&scene=21#wechat_redirect)
+- [面向三维视觉的Linux嵌入式系统教程(理论+代码+实战)](https://mp.weixin.qq.com/s?__biz=MzkyMTUwMTU5Mg==&mid=2247485968&idx=1&sn=31b958be0b52d0e45583d80f5d77dc4b&scene=21#wechat_redirect)
 - [如何学习相机模型与标定？（代码+实战）](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247617044&idx=1&sn=ad92441f2da47b01d3fa727785e2f49f&scene=21#wechat_redirect)
 - [ROS2从入门到精通：理论与实战](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247593658&idx=1&sn=ecb325ba4986648660d10167e71a069c&scene=21#wechat_redirect)
 - [彻底理解dToF雷达系统设计[理论+代码+实战]](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247654456&idx=2&sn=3ce00f1989769e27fc8f9a67e33e36f0&scene=21#wechat_redirect)
@@ -66,7 +70,7 @@ SLAM方向课程:
 视觉三维重建：
 
 - [彻底搞透视觉三维重建：原理剖析、代码讲解、及优化改进](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247561631&idx=1&sn=630753b3f9f2073859ac959720e9ee19&scene=21#wechat_redirect)
-- [基于深度学习的三维重建MVSNet系列 [论文+源码+应用+科研\]](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247658291&idx=1&sn=dded78e1394d1721ea1fb3c4b1c76ad5&scene=21#wechat_redirect)
+- [基于深度学习的三维重建MVSNet系论文+源码+应用+科研\]](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247658291&idx=1&sn=dded78e1394d1721ea1fb3c4b1c76ad5&scene=21#wechat_redirect)
 
 自动驾驶方向课程：
 
@@ -88,7 +92,7 @@ SLAM方向课程:
 
 3、[顶会论文分享与3D视觉传感器行业直播邀请](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247654576&idx=5&sn=998ede28f1836f66ab0632f8cf8348d1&scene=21#wechat_redirect)
 
-更新于2023年10月25日。
+更新于2023年10月30日。
 
 作者：3D视觉工坊所有投稿作者，欢迎大家能够积极投稿，投稿请联系小助理微信：cv3d007，一经录用，稿费丰厚。
 
@@ -1252,8 +1256,6 @@ SLAM方向课程:
 ![](imgs/加群-小葡萄-new.jpg)
 
 ![](imgs/各平台二维码2.jpg)
-
-![知识星球](imgs/星球.jpg)
 
 目前工坊已经建立了3D视觉方向多个社群，包括SLAM、工业3D视觉、自动驾驶方向，细分群包括：
 
