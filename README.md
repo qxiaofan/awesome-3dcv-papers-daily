@@ -145,7 +145,7 @@ SLAM方向课程:
 
 ### SLAM
 
-详情请戳这里->[这里](others/SLAM.md)
+详情请戳这里->[这里](paper/SLAM.md)
 
 - 视觉SLAM
 - 激光SLAM
