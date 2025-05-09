@@ -1,0 +1,1 @@
+请将hAcqCamera.dll拷贝到halcon安装目录下的\bin\x64-win64文件夹下

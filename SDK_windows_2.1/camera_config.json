@@ -1,0 +1,90 @@
+{
+    "firmware": {
+        "bilateral_filter_param_d": 7,
+        "brightness_gain": 5,
+        "brightness_hdr_exposure_num": 2,
+        "brightness_hdr_exposure_param_list": [
+            10000,
+            20000,
+            30000,
+            40000,
+            50000,
+            60000,
+            70000,
+            80000,
+            90000,
+            100000
+        ],
+        "camera_exposure_time": 1700,
+        "camera_gain": 0,
+        "confidence": 5,
+        "depth_filter_threshold": 33,
+        "fisher_confidence": -50,
+        "generate_brightness_exposure": 100000,
+        "generate_brightness_exposure_model": 1,
+        "generate_brightness_model": 1,
+        "gray_rectify_r": 5,
+        "gray_rectify_sigma": 40,
+        "led_current": 50,
+        "mixed_exposure_num": 2,
+        "mixed_exposure_param_list": [
+            1700,
+            3000,
+            24000,
+            36000,
+            48000,
+            60000
+        ],
+        "mixed_led_param_list": [
+            400,
+            1023,
+            1023,
+            1023,
+            1023,
+            1023
+        ],
+        "radius_filter_r": 2.5,
+        "radius_filter_threshold_num": 30,
+        "reflect_filter_b": 35,
+        "standard_plane_external_param": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "use_bilateral_filter": 1,
+        "use_depth_filter": 1,
+        "use_gray_rectify": 0,
+        "use_radius_filter": 1,
+        "use_reflect_filter": 1
+    },
+    "gui": {
+        "auto_save": false,
+        "calibration_board": 20,
+        "engine": 1,
+        "exposure_model": 0,
+        "high_z_value": 3000,
+        "ip": "169.254.8.121",
+        "language": "ch",
+        "last_path": "E:/3DCamera-exe/KW_P_S_L_Lumos_v2.1/SDK_windows_2.1/TestData",
+        "low_z_value": 300,
+        "repetition_count": 0,
+        "show_image_flag": 3,
+        "show_over_exposure": true,
+        "use_hdr_model": false
+    },
+    "sdk": {
+        "engine": 1,
+        "exposure_model": 0,
+        "repetition_count": 0,
+        "version": "v1.5.3"
+    }
+}

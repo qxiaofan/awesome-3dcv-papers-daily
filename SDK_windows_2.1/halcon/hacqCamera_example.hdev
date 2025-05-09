@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.2" halcon_version="20.11.1.0">
+<procedure name="main">
+<interface/>
+<body>
+<c>* </c>
+<c>* Example for the usage of the hAcqCamera image acquisition interface</c>
+<c>* </c>
+<c></c>
+<l>dev_open_window (0, 0, 600, 400, 'black', WindowHandle)</l>
+<c></c>
+<l>AcqName := 'Camera'</l>
+<c></c>
+<c></c>
+<l>*imageType := 'rgb'            //set rgb/depth/point3d/rgbp and resolution here</l>
+<l>* imageType := 'depth' </l>
+<l>* imageType := 'point3d' </l>
+<l>* imageType := 'gray_depth' </l>
+<l>*imageType := 'gray_point3d'</l>
+<l>* imageType := 'gray_depth_point3d'</l>
+<l>*imageType := 'rgb_depth' </l>
+<l>imageType := 'rgb_point3d'</l>
+<c></c>
+<c></c>
+<l>info_framegrabber (AcqName, 'general', GeneralInfo, GeneralValues) </l>
+<l>info_framegrabber (AcqName, 'defaults', DefaultsInfo, DefaultsValues)</l>
+<l>info_framegrabber (AcqName, 'parameters', ParametersInfo, ParametersValues) </l>
+<l>info_framegrabber (AcqName, 'revision', RevisionInfo, RevisionValues) </l>
+<l>info_framegrabber (AcqName, 'color_space', ColorSpaceInfo, ColorSpaceValues) </l>
+<c>* </c>
+<c>//连接相机</c>
+<l>open_framegrabber (AcqName, 1, 1, 0, 0, 0, 0, 'default', -1, imageType, -1, 'false', 'ip', '192.168.3.52', -1, -1, AcqHandle)  </l>
+<c></c>
+<c>//设置相机参数</c>
+<l>set_framegrabber_param (AcqHandle, 'led', 1023)</l>
+<l>set_framegrabber_param (AcqHandle, 'exposure', 6000) </l>
+<l>set_framegrabber_param (AcqHandle, 'gain', 0.) </l>
+<c></c>
+<l>set_framegrabber_param (AcqHandle, 'confidence', 5.0)</l>
+<l>set_framegrabber_param (AcqHandle, 'smoothing', 1)</l>
+<l>set_framegrabber_param (AcqHandle, 'radius_filter', [0,3.0,5])</l>
+<l>set_framegrabber_param (AcqHandle, 'outlier_filter', 10.0)</l>
+<l>set_framegrabber_param (AcqHandle, 'depth_filter', [0,10.0])</l>
+<l>set_framegrabber_param (AcqHandle, 'generate_brigntness', [3,12000]) </l>
+<l>set_framegrabber_param (AcqHandle, 'brigntness_exposure_model', 1)</l>
+<l>*set_framegrabber_param (AcqHandle, 'brigntness_hdr_exposure', [6000,12000,12000,12000,12000,12000,12000,12000,12000,12000]) </l>
+<l>*set_framegrabber_param (AcqHandle, 'brigntness_hdr_num', 2) </l>
+<c>//普通模式 </c>
+<l>set_framegrabber_param (AcqHandle, 'hdr', 'off')</l>
+<c></c>
+<c>//高动态模式 </c>
+<l>* set_framegrabber_param (AcqHandle, 'hdr', 'on')</l>
+<l>* set_framegrabber_param (AcqHandle, 'multiple_exposure_model', 1)</l>
+<l>* set_framegrabber_param (AcqHandle, 'hdr_num', 2)</l>
+<l>* set_framegrabber_param (AcqHandle, 'hdr_exposure',[6000,12000,24000,36000,48000,60000] )</l>
+<l>* set_framegrabber_param (AcqHandle, 'hdr_led', [100,1023,1023,1023,1023,1023])</l>
+<c></c>
+<c>//重复曝光模式</c>
+<l>* set_framegrabber_param (AcqHandle, 'hdr', 'on')</l>
+<l>* set_framegrabber_param (AcqHandle, 'multiple_exposure_model', 2)</l>
+<l>* set_framegrabber_param (AcqHandle, 'repetition_exposure_num', 10) </l>
+<l>* set_framegrabber_param (AcqHandle, 'led', 200)</l>
+<l>* set_framegrabber_param (AcqHandle, 'exposure', 12000) </l>
+<c></c>
+<c>//设置去畸变 </c>
+<l>set_framegrabber_param (AcqHandle, 'undistort', 'on')</l>
+<l>set_framegrabber_param (AcqHandle, 'engine', 'normal')//normal、reflect</l>
+<c></c>
+<l>get_framegrabber_param (AcqHandle, 'bits_per_channel', bits)</l>
+<c></c>
+<c>//采集数据</c>
+<l>grab_image (Image, AcqHandle) </l>
+<c></c>
+<c> //获取相机参数</c>
+<l>get_framegrabber_param (AcqHandle, 'led', led)</l>
+<l>get_framegrabber_param (AcqHandle, 'exposure', exposure) </l>
+<l>get_framegrabber_param (AcqHandle, 'gain', gain) </l>
+<l>get_framegrabber_param (AcqHandle, 'resolution', resolution)</l>
+<l>get_framegrabber_param (AcqHandle, 'hdr_num', hdr_num)</l>
+<l>get_framegrabber_param (AcqHandle, 'hdr_exposure', hdr_exposure)</l>
+<l>get_framegrabber_param (AcqHandle, 'hdr_led', hdr_led)</l>
+<l>get_framegrabber_param (AcqHandle, 'intrinsic', intrinsic)</l>
+<l>get_framegrabber_param (AcqHandle, 'distortion', distortion)</l>
+<l>get_framegrabber_param (AcqHandle, 'standard_plane_external', standard_plane_external)</l>
+<l>get_framegrabber_param (AcqHandle, 'confidence', confidence)</l>
+<l>get_framegrabber_param (AcqHandle, 'smoothing', smoothing)</l>
+<l>get_framegrabber_param (AcqHandle, 'radius_filter', radius_filter)</l>
+<l>get_framegrabber_param (AcqHandle, 'outlier_filter', outlier_filter)</l>
+<l>get_framegrabber_param (AcqHandle, 'generate_brigntness', generate_brigntness)</l>
+<l>get_framegrabber_param (AcqHandle, 'brigntness_hdr_num', brigntness_hdr_num) </l>
+<l>get_framegrabber_param (AcqHandle, 'brigntness_hdr_exposure', brigntness_hdr_exposure) </l>
+<l>get_framegrabber_param (AcqHandle, 'brigntness_gain', brigntness_gain) </l>
+<l>get_framegrabber_param (AcqHandle, 'brigntness_exposure_model', brigntness_exposure_model)</l>
+<l>get_framegrabber_param (AcqHandle, 'hdr', hdr)</l>
+<l>get_framegrabber_param (AcqHandle, 'undistort', undistort)</l>
+<l>get_framegrabber_param (AcqHandle, 'depth_filter', depth_filter)</l>
+<l>get_framegrabber_param (AcqHandle, 'multiple_exposure_model', multiple_exposure_model)</l>
+<l>get_framegrabber_param (AcqHandle, 'repetition_exposure_num', repetition_exposure_num)</l>
+<c></c>
+<c></c>
+<l>if (imageType = 'default') </l>
+<l>    dev_display (Image)</l>
+<l>endif</l>
+<c></c>
+<l>if (imageType = 'depth')</l>
+<l>    depth (ImageConverted, AcqHandle)</l>
+<l>    dev_display (ImageConverted)</l>
+<l>endif</l>
+<c></c>
+<l>if (imageType = 'point3d') </l>
+<l>    decompose3 (Image, X, Y, Z)</l>
+<l>    get_image_type (Image, Type)</l>
+<l>    get_image_size (Image, Width, Height)</l>
+<l>    scale_image (X, Xs, 0.001, 0)</l>
+<l>    scale_image (Y, Ys, 0.001, 0)</l>
+<l>    scale_image (Z, Zs, 0.001, 0)     </l>
+<c>    </c>
+<l>    xyz_to_object_model_3d (Xs, Ys, Zs, ObjectModel3D)</l>
+<l>    *visualize_object_model_3d (WindowHandle, ObjectModel3D, [], [], [], [], [], [], [], PoseItem)  </l>
+<l>endif</l>
+<c></c>
+<c></c>
+<l>if (imageType = 'gray_depth')</l>
+<c>    </c>
+<l>    decompose3 (Image, X, Y, Z) </l>
+<l>endif</l>
+<c></c>
+<l>if (imageType = 'gray_point3d')  </l>
+<c>    </c>
+<l>    decompose6 (Image,Image1,Image2,Image3,X,Y,Z)</l>
+<l>    get_image_type (Image, Type)</l>
+<l>    get_image_size (Image, Width, Height)</l>
+<l>    scale_image (X, Xs, 0.001, 0)</l>
+<l>    scale_image (Y, Ys, 0.001, 0)</l>
+<l>    scale_image (Z, Zs, 0.001, 0)     </l>
+<c>    </c>
+<l>    xyz_to_object_model_3d (Xs, Ys, Zs, ObjectModel3D)</l>
+<l>    *visualize_object_model_3d (WindowHandle, ObjectModel3D, [], [], [], [], [], [], [], PoseItem)  </l>
+<l>endif</l>
+<c></c>
+<l>if (imageType = 'gray_depth_point3d')</l>
+<c>    </c>
+<l>    decompose6 (Image,Image1,Image2,Image3,X,Y,Z)</l>
+<c>    </c>
+<l>endif</l>
+<c></c>
+<l>if (imageType = 'rgb_depth')  </l>
+<c>    </c>
+<c>    </c>
+<l>    decompose6 (Image,Image1,Image2,Image3,Depth,N,N)</l>
+<c> </c>
+<l>    compose3(Image1,Image2,Image3,rgb)</l>
+<c> </c>
+<l>endif</l>
+<c>    </c>
+<l>if (imageType = 'rgb_point3d')  </l>
+<c>    </c>
+<l>    decompose6 (Image,Image1,Image2,Image3,X,Y,Z)</l>
+<l>    compose3(Image1,Image2,Image3,rgb)</l>
+<l>    get_image_type (Image, Type)</l>
+<l>    get_image_size (Image, Width, Height)</l>
+<l>    scale_image (X, Xs, 0.001, 0)</l>
+<l>    scale_image (Y, Ys, 0.001, 0)</l>
+<l>    scale_image (Z, Zs, 0.001, 0)     </l>
+<c>    </c>
+<l>    xyz_to_object_model_3d (Xs, Ys, Zs, ObjectModel3D)</l>
+<l>    *visualize_object_model_3d (WindowHandle, ObjectModel3D, [], [], [], [], [], [], [], PoseItem)  </l>
+<l>endif</l>
+<c> </c>
+<l>close_framegrabber (AcqHandle) </l>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+<procedure name="depth">
+<interface>
+<oo>
+<par name="ImageConverted" base_type="iconic" dimension="0"/>
+</oo>
+<ic>
+<par name="AcqHandle" base_type="ctrl" dimension="0"/>
+</ic>
+</interface>
+<body>
+<l>grab_image_async (Image, AcqHandle, -1)</l>
+<l>convert_image_type (Image, ImageConverted, 'real')</l>
+<l>return ()</l>
+</body>
+<docu id="depth">
+<parameters>
+<parameter id="AcqHandle"/>
+<parameter id="ImageConverted"/>
+</parameters>
+</docu>
+</procedure>
+</hdevelop>
