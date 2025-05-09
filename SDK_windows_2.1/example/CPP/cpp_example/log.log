@@ -1,0 +1,1387 @@
+2025-04-22 15:47:52,974 INFO [default] DfConnectNet: 
+2025-04-22 15:47:52,974 INFO [default] start connection: 169.254.5.240
+2025-04-22 15:47:52,977 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:52,977 INFO [default] sending connection cmd
+2025-04-22 15:47:52,983 INFO [default] command: 20000001
+2025-04-22 15:47:52,983 INFO [default] Recieved connection ok
+2025-04-22 15:47:52,983 INFO [default] token: 1664201802
+2025-04-22 15:47:52,985 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 15:47:52,995 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:52,997 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:53,003 INFO [default] command: 20000001
+2025-04-22 15:47:53,003 INFO [default] DfGetCameraResolution:
+2025-04-22 15:47:53,004 INFO [default] command: 20000001
+2025-04-22 15:47:53,004 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:53,009 INFO [default] command: 20000001
+2025-04-22 15:47:53,009 INFO [default] width: 1920
+2025-04-22 15:47:53,009 INFO [default] height: 1200
+2025-04-22 15:47:53,011 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:53,014 INFO [default] command: 20000001
+2025-04-22 15:47:53,014 INFO [default] Frame Status: 1
+2025-04-22 15:47:53,349 INFO [default] DfGetCameraResolution:
+2025-04-22 15:47:53,351 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:53,363 INFO [default] command: 20000001
+2025-04-22 15:47:53,363 INFO [default] width: 1920
+2025-04-22 15:47:53,363 INFO [default] height: 1200
+2025-04-22 15:47:53,365 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:53,370 INFO [default] command: 20000001
+2025-04-22 15:47:53,370 INFO [default] Frame Status: 1
+2025-04-22 15:47:53,386 INFO [default] set engine:0
+2025-04-22 15:47:53,386 INFO [default] set exposure_model:-7
+2025-04-22 15:47:53,386 INFO [default] set repetition_count:-7
+2025-04-22 15:47:53,386 INFO [default] version: v1.5.3
+2025-04-22 15:47:53,386 INFO [default] set version:0
+2025-04-22 15:47:53,386 INFO [default] DfSetParamLedCurrent: 1023
+2025-04-22 15:47:53,388 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:53,440 INFO [default] command: 20000001
+2025-04-22 15:47:53,441 INFO [default] set led_current:0
+2025-04-22 15:47:53,441 INFO [default] DfSetParamCameraGain:
+2025-04-22 15:47:53,442 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:53,519 INFO [default] command: 20000001
+2025-04-22 15:47:53,519 INFO [default] set camera_gain:0
+2025-04-22 15:47:53,519 INFO [default] DfSetParamCameraConfidence:
+2025-04-22 15:47:53,520 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:53,580 INFO [default] command: 20000001
+2025-04-22 15:47:53,580 INFO [default] set confidence:0
+2025-04-22 15:47:53,580 INFO [default] DfSetParamCameraExposure:
+2025-04-22 15:47:53,583 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:53,643 INFO [default] command: 20000001
+2025-04-22 15:47:53,643 INFO [default] set camera_exposure_time:0
+2025-04-22 15:47:53,643 INFO [default] DfSetParamSmoothing:
+2025-04-22 15:47:53,644 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:53,704 INFO [default] command: 20000001
+2025-04-22 15:47:53,704 INFO [default] set use_bilateral_filter:0
+2025-04-22 15:47:53,704 INFO [default] set bilateral_filter_param_d:0
+2025-04-22 15:47:53,704 INFO [default] DfSetParamOutlierFilter:
+2025-04-22 15:47:53,706 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:53,766 INFO [default] command: 20000001
+2025-04-22 15:47:53,766 INFO [default] set fisher_confidence:0
+2025-04-22 15:47:53,766 INFO [default] DfSetParamMixedHdr:
+2025-04-22 15:47:53,767 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:53,830 INFO [default] command: 20000001
+2025-04-22 15:47:53,830 INFO [default] set mixed_exposure_num:0
+2025-04-22 15:47:53,830 INFO [default] set mixed_exposure_param_list:0
+2025-04-22 15:47:53,830 INFO [default] set mixed_led_param_list:0
+2025-04-22 15:47:53,830 INFO [default] DfSetParamRadiusFilter:
+2025-04-22 15:47:53,832 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:53,892 INFO [default] command: 20000001
+2025-04-22 15:47:53,892 INFO [default] set use_radius_filter:0
+2025-04-22 15:47:53,892 INFO [default] set radius_filter_r:0
+2025-04-22 15:47:53,892 INFO [default] set radius_filter_threshold_num:0
+2025-04-22 15:47:53,892 INFO [default] DfSetParamDepthFilter:
+2025-04-22 15:47:53,894 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:53,954 INFO [default] command: 20000001
+2025-04-22 15:47:53,954 INFO [default] set use_depth_filter:0
+2025-04-22 15:47:53,954 INFO [default] set depth_filter_threshold:0
+2025-04-22 15:47:53,954 INFO [default] DfSetParamGrayRectify:
+2025-04-22 15:47:53,956 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:54,017 INFO [default] command: 20000001
+2025-04-22 15:47:54,017 INFO [default] set use_gray_rectify:0
+2025-04-22 15:47:54,017 INFO [default] set gray_rectify_r:0
+2025-04-22 15:47:54,017 INFO [default] set gray_rectify_sigma:0
+2025-04-22 15:47:54,017 INFO [default] DfSetParamGenerateBrightness: 
+2025-04-22 15:47:54,019 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:54,080 INFO [default] command: 20000001
+2025-04-22 15:47:54,088 INFO [default] set generate_brightness_exposure:0
+2025-04-22 15:47:54,088 INFO [default] set generate_brightness_model:0
+2025-04-22 15:47:54,088 INFO [default] setParamBrightnessGain:
+2025-04-22 15:47:54,090 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:54,142 INFO [default] command: 20000001
+2025-04-22 15:47:54,142 INFO [default] set brightness_gain:0
+2025-04-22 15:47:54,142 INFO [default] setParamBrightnessHdrExposure:
+2025-04-22 15:47:54,144 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:54,204 INFO [default] command: 20000001
+2025-04-22 15:47:54,204 INFO [default] set brightness_hdr_exposure_num:0
+2025-04-22 15:47:54,204 INFO [default] set brightness_hdr_exposure_param_list:0
+2025-04-22 15:47:54,204 INFO [default] setParamBrightnessExposureModel:
+2025-04-22 15:47:54,205 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:54,265 INFO [default] command: 20000001
+2025-04-22 15:47:54,265 INFO [default] set generate_brightness_exposure_model:0
+2025-04-22 15:47:54,265 INFO [default] setParamReflectFilter:
+2025-04-22 15:47:54,268 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:54,279 INFO [default] command: 20000001
+2025-04-22 15:47:54,279 INFO [default] set use_reflect_filter:0
+2025-04-22 15:47:54,279 INFO [default] set reflect_filter_b:0
+2025-04-22 15:47:54,279 INFO [default] DfSetParamStandardPlaneExternal: 
+2025-04-22 15:47:54,280 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:54,328 INFO [default] command: 20000001
+2025-04-22 15:47:54,328 INFO [default] set standard_plane_external_param:0
+2025-04-22 15:47:54,328 INFO [default] captureData: 1
+2025-04-22 15:47:54,328 INFO [default] GetFrame06
+2025-04-22 15:47:54,330 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:54,391 INFO [default] command: 20000001
+2025-04-22 15:47:54,391 INFO [default] token checked ok
+2025-04-22 15:47:54,391 INFO [default] receiving buffer, depth_buf_size=9216000
+2025-04-22 15:47:54,560 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 15:47:54,560 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:55,439 INFO [default] depth received
+2025-04-22 15:47:55,439 INFO [default] receiving buffer, brightness_buf_size=2304000
+2025-04-22 15:47:55,448 INFO [default] command: 20000001
+2025-04-22 15:47:55,458 INFO [default] brightness received
+2025-04-22 15:47:55,458 INFO [default] Get frame06 success
+2025-04-22 15:47:55,460 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:55,462 INFO [default] command: 20000001
+2025-04-22 15:47:55,462 INFO [default] Frame Status: 0
+2025-04-22 15:47:55,462 INFO [default] Frame Status: 0
+2025-04-22 15:47:55,462 INFO [default] getColorBrightnessData:
+2025-04-22 15:47:55,473 INFO [default] getDepthData:
+2025-04-22 15:47:55,473 INFO [default] Trans Depth:
+2025-04-22 15:47:55,474 INFO [default] Get Depth!
+2025-04-22 15:47:55,485 INFO [default] DfGetPointcloudData:
+2025-04-22 15:47:55,492 INFO [default] Get Pointcloud!
+2025-04-22 15:47:56,046 INFO [default] disconnect:
+2025-04-22 15:47:56,046 INFO [default] token 1664201802 try to disconnection
+2025-04-22 15:47:56,047 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:47:56,102 INFO [default] command: 20000001
+2025-04-22 15:47:56,117 INFO [default] Camera disconnected
+2025-04-22 15:48:59,642 INFO [default] DfConnectNet: 
+2025-04-22 15:48:59,642 INFO [default] start connection: 169.254.5.240
+2025-04-22 15:48:59,645 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:48:59,645 INFO [default] sending connection cmd
+2025-04-22 15:48:59,650 INFO [default] command: 20000001
+2025-04-22 15:48:59,650 INFO [default] Recieved connection ok
+2025-04-22 15:48:59,650 INFO [default] token: 3976043860
+2025-04-22 15:48:59,651 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 15:48:59,652 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:48:59,656 INFO [default] command: 20000001
+2025-04-22 15:48:59,656 INFO [default] DfGetCameraResolution:
+2025-04-22 15:48:59,658 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:48:59,663 INFO [default] command: 20000001
+2025-04-22 15:48:59,663 INFO [default] width: 1920
+2025-04-22 15:48:59,663 INFO [default] height: 1200
+2025-04-22 15:48:59,665 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:48:59,668 INFO [default] command: 20000001
+2025-04-22 15:48:59,668 INFO [default] Frame Status: 1
+2025-04-22 15:49:00,001 INFO [default] DfGetCameraResolution:
+2025-04-22 15:49:00,002 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:00,005 INFO [default] command: 20000001
+2025-04-22 15:49:00,005 INFO [default] width: 1920
+2025-04-22 15:49:00,005 INFO [default] height: 1200
+2025-04-22 15:49:00,006 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:00,009 INFO [default] command: 20000001
+2025-04-22 15:49:00,009 INFO [default] Frame Status: 1
+2025-04-22 15:49:00,020 INFO [default] set engine:0
+2025-04-22 15:49:00,020 INFO [default] set exposure_model:-7
+2025-04-22 15:49:00,020 INFO [default] set repetition_count:-7
+2025-04-22 15:49:00,020 INFO [default] version: v1.5.3
+2025-04-22 15:49:00,020 INFO [default] set version:0
+2025-04-22 15:49:00,020 INFO [default] DfSetParamLedCurrent: 1023
+2025-04-22 15:49:00,021 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:00,077 INFO [default] command: 20000001
+2025-04-22 15:49:00,077 INFO [default] set led_current:0
+2025-04-22 15:49:00,077 INFO [default] DfSetParamCameraGain:
+2025-04-22 15:49:00,078 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:00,139 INFO [default] command: 20000001
+2025-04-22 15:49:00,140 INFO [default] set camera_gain:0
+2025-04-22 15:49:00,140 INFO [default] DfSetParamCameraConfidence:
+2025-04-22 15:49:00,140 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:00,185 INFO [default] command: 20000001
+2025-04-22 15:49:00,185 INFO [default] set confidence:0
+2025-04-22 15:49:00,185 INFO [default] DfSetParamCameraExposure:
+2025-04-22 15:49:00,186 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:00,247 INFO [default] command: 20000001
+2025-04-22 15:49:00,247 INFO [default] set camera_exposure_time:0
+2025-04-22 15:49:00,247 INFO [default] DfSetParamSmoothing:
+2025-04-22 15:49:00,249 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:00,309 INFO [default] command: 20000001
+2025-04-22 15:49:00,310 INFO [default] set use_bilateral_filter:0
+2025-04-22 15:49:00,310 INFO [default] set bilateral_filter_param_d:0
+2025-04-22 15:49:00,310 INFO [default] DfSetParamOutlierFilter:
+2025-04-22 15:49:00,311 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:00,356 INFO [default] command: 20000001
+2025-04-22 15:49:00,356 INFO [default] set fisher_confidence:0
+2025-04-22 15:49:00,356 INFO [default] DfSetParamMixedHdr:
+2025-04-22 15:49:00,357 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:00,402 INFO [default] command: 20000001
+2025-04-22 15:49:00,402 INFO [default] set mixed_exposure_num:0
+2025-04-22 15:49:00,402 INFO [default] set mixed_exposure_param_list:0
+2025-04-22 15:49:00,402 INFO [default] set mixed_led_param_list:0
+2025-04-22 15:49:00,402 INFO [default] DfSetParamRadiusFilter:
+2025-04-22 15:49:00,404 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:00,449 INFO [default] command: 20000001
+2025-04-22 15:49:00,449 INFO [default] set use_radius_filter:0
+2025-04-22 15:49:00,449 INFO [default] set radius_filter_r:0
+2025-04-22 15:49:00,449 INFO [default] set radius_filter_threshold_num:0
+2025-04-22 15:49:00,449 INFO [default] DfSetParamDepthFilter:
+2025-04-22 15:49:00,450 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:00,495 INFO [default] command: 20000001
+2025-04-22 15:49:00,495 INFO [default] set use_depth_filter:0
+2025-04-22 15:49:00,495 INFO [default] set depth_filter_threshold:0
+2025-04-22 15:49:00,495 INFO [default] DfSetParamGrayRectify:
+2025-04-22 15:49:00,496 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:00,543 INFO [default] command: 20000001
+2025-04-22 15:49:00,543 INFO [default] set use_gray_rectify:0
+2025-04-22 15:49:00,543 INFO [default] set gray_rectify_r:0
+2025-04-22 15:49:00,543 INFO [default] set gray_rectify_sigma:0
+2025-04-22 15:49:00,543 INFO [default] DfSetParamGenerateBrightness: 
+2025-04-22 15:49:00,543 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:00,589 INFO [default] command: 20000001
+2025-04-22 15:49:00,590 INFO [default] set generate_brightness_exposure:0
+2025-04-22 15:49:00,590 INFO [default] set generate_brightness_model:0
+2025-04-22 15:49:00,590 INFO [default] setParamBrightnessGain:
+2025-04-22 15:49:00,590 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:00,636 INFO [default] command: 20000001
+2025-04-22 15:49:00,637 INFO [default] set brightness_gain:0
+2025-04-22 15:49:00,637 INFO [default] setParamBrightnessHdrExposure:
+2025-04-22 15:49:00,637 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:00,652 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:00,682 INFO [default] command: 20000001
+2025-04-22 15:49:00,682 INFO [default] set brightness_hdr_exposure_num:0
+2025-04-22 15:49:00,682 INFO [default] set brightness_hdr_exposure_param_list:0
+2025-04-22 15:49:00,682 INFO [default] setParamBrightnessExposureModel:
+2025-04-22 15:49:00,683 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:00,684 INFO [default] command: 20000001
+2025-04-22 15:49:00,730 INFO [default] command: 20000001
+2025-04-22 15:49:00,730 INFO [default] set generate_brightness_exposure_model:0
+2025-04-22 15:49:00,730 INFO [default] setParamReflectFilter:
+2025-04-22 15:49:00,730 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:00,733 INFO [default] command: 20000001
+2025-04-22 15:49:00,733 INFO [default] set use_reflect_filter:0
+2025-04-22 15:49:00,733 INFO [default] set reflect_filter_b:0
+2025-04-22 15:49:00,733 INFO [default] DfSetParamStandardPlaneExternal: 
+2025-04-22 15:49:00,734 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:00,791 INFO [default] command: 20000001
+2025-04-22 15:49:00,791 INFO [default] set standard_plane_external_param:0
+2025-04-22 15:49:00,791 INFO [default] captureData: 1
+2025-04-22 15:49:00,791 INFO [default] GetFrame06
+2025-04-22 15:49:00,792 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:00,838 INFO [default] command: 20000001
+2025-04-22 15:49:00,838 INFO [default] token checked ok
+2025-04-22 15:49:00,838 INFO [default] receiving buffer, depth_buf_size=9216000
+2025-04-22 15:49:01,596 INFO [default] depth received
+2025-04-22 15:49:01,596 INFO [default] receiving buffer, brightness_buf_size=2304000
+2025-04-22 15:49:01,614 INFO [default] brightness received
+2025-04-22 15:49:01,614 INFO [default] Get frame06 success
+2025-04-22 15:49:01,616 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:01,618 INFO [default] command: 20000001
+2025-04-22 15:49:01,618 INFO [default] Frame Status: 0
+2025-04-22 15:49:01,618 INFO [default] Frame Status: 0
+2025-04-22 15:49:01,618 INFO [default] getColorBrightnessData:
+2025-04-22 15:49:01,630 INFO [default] getDepthData:
+2025-04-22 15:49:01,630 INFO [default] Trans Depth:
+2025-04-22 15:49:01,632 INFO [default] Get Depth!
+2025-04-22 15:49:01,648 INFO [default] DfGetPointcloudData:
+2025-04-22 15:49:01,655 INFO [default] Get Pointcloud!
+2025-04-22 15:49:02,212 INFO [default] disconnect:
+2025-04-22 15:49:02,212 INFO [default] token 3976043860 try to disconnection
+2025-04-22 15:49:02,213 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:02,247 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 15:49:02,247 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:02,263 INFO [default] command: 20000001
+2025-04-22 15:49:02,651 INFO [default] command: 20000002
+2025-04-22 15:49:02,651 INFO [default] Camera disconnected
+2025-04-22 15:49:44,344 INFO [default] DfConnectNet: 
+2025-04-22 15:49:44,344 INFO [default] start connection: 169.254.5.240
+2025-04-22 15:49:44,349 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:44,349 INFO [default] sending connection cmd
+2025-04-22 15:49:44,363 INFO [default] command: 20000001
+2025-04-22 15:49:44,363 INFO [default] Recieved connection ok
+2025-04-22 15:49:44,363 INFO [default] token: 224852907
+2025-04-22 15:49:44,365 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:44,369 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 15:49:44,371 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:44,375 INFO [default] command: 20000001
+2025-04-22 15:49:44,375 INFO [default] DfGetCameraResolution:
+2025-04-22 15:49:44,377 INFO [default] command: 20000001
+2025-04-22 15:49:44,377 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:44,387 INFO [default] command: 20000001
+2025-04-22 15:49:44,387 INFO [default] width: 1920
+2025-04-22 15:49:44,387 INFO [default] height: 1200
+2025-04-22 15:49:44,389 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:44,397 INFO [default] command: 20000001
+2025-04-22 15:49:44,397 INFO [default] Frame Status: 1
+2025-04-22 15:49:44,720 INFO [default] DfGetCameraResolution:
+2025-04-22 15:49:44,723 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:44,739 INFO [default] command: 20000001
+2025-04-22 15:49:44,739 INFO [default] width: 1920
+2025-04-22 15:49:44,739 INFO [default] height: 1200
+2025-04-22 15:49:44,743 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:44,756 INFO [default] command: 20000001
+2025-04-22 15:49:44,756 INFO [default] Frame Status: 1
+2025-04-22 15:49:54,134 INFO [default] set engine:0
+2025-04-22 15:49:54,134 INFO [default] set exposure_model:-7
+2025-04-22 15:49:54,134 INFO [default] set repetition_count:-7
+2025-04-22 15:49:54,134 INFO [default] version: v1.5.3
+2025-04-22 15:49:54,134 INFO [default] set version:0
+2025-04-22 15:49:54,134 INFO [default] DfSetParamLedCurrent: 1023
+2025-04-22 15:49:54,138 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:54,205 INFO [default] command: 20000001
+2025-04-22 15:49:54,205 INFO [default] set led_current:0
+2025-04-22 15:49:54,206 INFO [default] DfSetParamCameraGain:
+2025-04-22 15:49:54,209 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:54,283 INFO [default] command: 20000001
+2025-04-22 15:49:54,284 INFO [default] set camera_gain:0
+2025-04-22 15:49:54,284 INFO [default] DfSetParamCameraConfidence:
+2025-04-22 15:49:54,287 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:54,345 INFO [default] command: 20000001
+2025-04-22 15:49:54,345 INFO [default] set confidence:0
+2025-04-22 15:49:54,345 INFO [default] DfSetParamCameraExposure:
+2025-04-22 15:49:54,348 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:54,423 INFO [default] command: 20000001
+2025-04-22 15:49:54,423 INFO [default] set camera_exposure_time:0
+2025-04-22 15:49:54,423 INFO [default] DfSetParamSmoothing:
+2025-04-22 15:49:54,426 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:54,484 INFO [default] command: 20000001
+2025-04-22 15:49:54,484 INFO [default] set use_bilateral_filter:0
+2025-04-22 15:49:54,484 INFO [default] set bilateral_filter_param_d:0
+2025-04-22 15:49:54,484 INFO [default] DfSetParamOutlierFilter:
+2025-04-22 15:49:54,485 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:54,545 INFO [default] command: 20000001
+2025-04-22 15:49:54,545 INFO [default] set fisher_confidence:0
+2025-04-22 15:49:54,545 INFO [default] DfSetParamMixedHdr:
+2025-04-22 15:49:54,547 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:54,608 INFO [default] command: 20000001
+2025-04-22 15:49:54,608 INFO [default] set mixed_exposure_num:0
+2025-04-22 15:49:54,608 INFO [default] set mixed_exposure_param_list:0
+2025-04-22 15:49:54,608 INFO [default] set mixed_led_param_list:0
+2025-04-22 15:49:54,608 INFO [default] DfSetParamRadiusFilter:
+2025-04-22 15:49:54,610 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:54,671 INFO [default] command: 20000001
+2025-04-22 15:49:54,671 INFO [default] set use_radius_filter:0
+2025-04-22 15:49:54,671 INFO [default] set radius_filter_r:0
+2025-04-22 15:49:54,671 INFO [default] set radius_filter_threshold_num:0
+2025-04-22 15:49:54,671 INFO [default] DfSetParamDepthFilter:
+2025-04-22 15:49:54,673 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:54,733 INFO [default] command: 20000001
+2025-04-22 15:49:54,733 INFO [default] set use_depth_filter:0
+2025-04-22 15:49:54,733 INFO [default] set depth_filter_threshold:0
+2025-04-22 15:49:54,733 INFO [default] DfSetParamGrayRectify:
+2025-04-22 15:49:54,736 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:54,795 INFO [default] command: 20000001
+2025-04-22 15:49:54,795 INFO [default] set use_gray_rectify:0
+2025-04-22 15:49:54,795 INFO [default] set gray_rectify_r:0
+2025-04-22 15:49:54,795 INFO [default] set gray_rectify_sigma:0
+2025-04-22 15:49:54,795 INFO [default] DfSetParamGenerateBrightness: 
+2025-04-22 15:49:54,798 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:54,857 INFO [default] command: 20000001
+2025-04-22 15:49:54,857 INFO [default] set generate_brightness_exposure:0
+2025-04-22 15:49:54,857 INFO [default] set generate_brightness_model:0
+2025-04-22 15:49:54,857 INFO [default] setParamBrightnessGain:
+2025-04-22 15:49:54,861 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:54,919 INFO [default] command: 20000001
+2025-04-22 15:49:54,919 INFO [default] set brightness_gain:0
+2025-04-22 15:49:54,919 INFO [default] setParamBrightnessHdrExposure:
+2025-04-22 15:49:54,922 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:54,981 INFO [default] command: 20000001
+2025-04-22 15:49:54,981 INFO [default] set brightness_hdr_exposure_num:0
+2025-04-22 15:49:54,981 INFO [default] set brightness_hdr_exposure_param_list:0
+2025-04-22 15:49:54,981 INFO [default] setParamBrightnessExposureModel:
+2025-04-22 15:49:54,983 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:55,042 INFO [default] command: 20000001
+2025-04-22 15:49:55,042 INFO [default] set generate_brightness_exposure_model:0
+2025-04-22 15:49:55,044 INFO [default] setParamReflectFilter:
+2025-04-22 15:49:55,046 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:55,058 INFO [default] command: 20000001
+2025-04-22 15:49:55,058 INFO [default] set use_reflect_filter:0
+2025-04-22 15:49:55,058 INFO [default] set reflect_filter_b:0
+2025-04-22 15:49:55,058 INFO [default] DfSetParamStandardPlaneExternal: 
+2025-04-22 15:49:55,060 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:55,106 INFO [default] command: 20000001
+2025-04-22 15:49:55,106 INFO [default] set standard_plane_external_param:0
+2025-04-22 15:49:55,970 INFO [default] captureData: 1
+2025-04-22 15:49:55,970 INFO [default] GetFrame06
+2025-04-22 15:49:55,970 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 15:49:55,972 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:55,984 INFO [default] command: 20000001
+2025-04-22 15:49:56,977 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:57,041 INFO [default] command: 20000001
+2025-04-22 15:49:57,041 INFO [default] token checked ok
+2025-04-22 15:49:57,041 INFO [default] receiving buffer, depth_buf_size=9216000
+2025-04-22 15:49:57,538 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 15:49:57,540 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:58,056 INFO [default] depth received
+2025-04-22 15:49:58,056 INFO [default] receiving buffer, brightness_buf_size=2304000
+2025-04-22 15:49:58,074 INFO [default] command: 20000001
+2025-04-22 15:49:58,076 INFO [default] brightness received
+2025-04-22 15:49:58,076 INFO [default] Get frame06 success
+2025-04-22 15:49:58,078 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:49:58,079 INFO [default] command: 20000001
+2025-04-22 15:49:58,079 INFO [default] Frame Status: 0
+2025-04-22 15:49:58,079 INFO [default] Frame Status: 0
+2025-04-22 15:50:02,605 INFO [default] getColorBrightnessData:
+2025-04-22 15:50:09,950 INFO [default] getDepthData:
+2025-04-22 15:50:09,950 INFO [default] Trans Depth:
+2025-04-22 15:50:09,951 INFO [default] Get Depth!
+2025-04-22 15:50:13,678 INFO [default] DfGetPointcloudData:
+2025-04-22 15:50:13,691 INFO [default] Get Pointcloud!
+2025-04-22 15:50:21,686 INFO [default] disconnect:
+2025-04-22 15:50:21,687 INFO [default] token 224852907 try to disconnection
+2025-04-22 15:50:21,691 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 15:50:21,750 INFO [default] command: 20000001
+2025-04-22 15:50:21,765 INFO [default] Camera disconnected
+2025-04-22 17:15:01,482 INFO [default] DfConnectNet: 
+2025-04-22 17:15:01,482 INFO [default] start connection: 169.254.5.240
+2025-04-22 17:15:01,486 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:01,486 INFO [default] sending connection cmd
+2025-04-22 17:15:01,498 INFO [default] command: 20000002
+2025-04-22 17:15:01,498 INFO [default] connection rejected
+2025-04-22 17:15:10,430 INFO [default] DfConnectNet: 
+2025-04-22 17:15:10,430 INFO [default] start connection: 169.254.5.240
+2025-04-22 17:15:10,433 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:10,433 INFO [default] sending connection cmd
+2025-04-22 17:15:10,450 INFO [default] command: 20000001
+2025-04-22 17:15:10,450 INFO [default] Recieved connection ok
+2025-04-22 17:15:10,450 INFO [default] token: 1727468609
+2025-04-22 17:15:10,451 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 17:15:10,452 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:10,464 INFO [default] command: 20000001
+2025-04-22 17:15:10,464 INFO [default] DfGetCameraResolution:
+2025-04-22 17:15:10,466 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:10,477 INFO [default] command: 20000001
+2025-04-22 17:15:10,478 INFO [default] width: 1920
+2025-04-22 17:15:10,478 INFO [default] height: 1200
+2025-04-22 17:15:10,480 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:10,483 INFO [default] command: 20000001
+2025-04-22 17:15:10,483 INFO [default] Frame Status: 1
+2025-04-22 17:15:10,815 INFO [default] DfGetCameraResolution:
+2025-04-22 17:15:10,817 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:10,830 INFO [default] command: 20000001
+2025-04-22 17:15:10,830 INFO [default] width: 1920
+2025-04-22 17:15:10,831 INFO [default] height: 1200
+2025-04-22 17:15:10,832 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:10,836 INFO [default] command: 20000001
+2025-04-22 17:15:10,836 INFO [default] Frame Status: 1
+2025-04-22 17:15:10,846 INFO [default] set engine:0
+2025-04-22 17:15:10,846 INFO [default] set exposure_model:-7
+2025-04-22 17:15:10,846 INFO [default] set repetition_count:-7
+2025-04-22 17:15:10,846 INFO [default] version: v1.5.3
+2025-04-22 17:15:10,846 INFO [default] set version:0
+2025-04-22 17:15:10,846 INFO [default] DfSetParamLedCurrent: 1023
+2025-04-22 17:15:10,848 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:10,895 INFO [default] command: 20000001
+2025-04-22 17:15:10,895 INFO [default] set led_current:0
+2025-04-22 17:15:10,895 INFO [default] DfSetParamCameraGain:
+2025-04-22 17:15:10,898 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:10,974 INFO [default] command: 20000001
+2025-04-22 17:15:10,974 INFO [default] set camera_gain:0
+2025-04-22 17:15:10,974 INFO [default] DfSetParamCameraConfidence:
+2025-04-22 17:15:10,976 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:11,037 INFO [default] command: 20000001
+2025-04-22 17:15:11,037 INFO [default] set confidence:0
+2025-04-22 17:15:11,037 INFO [default] DfSetParamCameraExposure:
+2025-04-22 17:15:11,038 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:11,114 INFO [default] command: 20000001
+2025-04-22 17:15:11,114 INFO [default] set camera_exposure_time:0
+2025-04-22 17:15:11,114 INFO [default] DfSetParamSmoothing:
+2025-04-22 17:15:11,115 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:11,176 INFO [default] command: 20000001
+2025-04-22 17:15:11,176 INFO [default] set use_bilateral_filter:0
+2025-04-22 17:15:11,176 INFO [default] set bilateral_filter_param_d:0
+2025-04-22 17:15:11,176 INFO [default] DfSetParamOutlierFilter:
+2025-04-22 17:15:11,178 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:11,238 INFO [default] command: 20000001
+2025-04-22 17:15:11,238 INFO [default] set fisher_confidence:0
+2025-04-22 17:15:11,238 INFO [default] DfSetParamMixedHdr:
+2025-04-22 17:15:11,238 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:11,283 INFO [default] command: 20000001
+2025-04-22 17:15:11,284 INFO [default] set mixed_exposure_num:0
+2025-04-22 17:15:11,284 INFO [default] set mixed_exposure_param_list:0
+2025-04-22 17:15:11,284 INFO [default] set mixed_led_param_list:0
+2025-04-22 17:15:11,284 INFO [default] DfSetParamRadiusFilter:
+2025-04-22 17:15:11,284 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:11,330 INFO [default] command: 20000001
+2025-04-22 17:15:11,331 INFO [default] set use_radius_filter:0
+2025-04-22 17:15:11,331 INFO [default] set radius_filter_r:0
+2025-04-22 17:15:11,331 INFO [default] set radius_filter_threshold_num:0
+2025-04-22 17:15:11,331 INFO [default] DfSetParamDepthFilter:
+2025-04-22 17:15:11,332 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:11,392 INFO [default] command: 20000001
+2025-04-22 17:15:11,393 INFO [default] set use_depth_filter:0
+2025-04-22 17:15:11,393 INFO [default] set depth_filter_threshold:0
+2025-04-22 17:15:11,393 INFO [default] DfSetParamGrayRectify:
+2025-04-22 17:15:11,394 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:11,455 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:11,455 INFO [default] command: 20000001
+2025-04-22 17:15:11,455 INFO [default] set use_gray_rectify:0
+2025-04-22 17:15:11,455 INFO [default] set gray_rectify_r:0
+2025-04-22 17:15:11,455 INFO [default] set gray_rectify_sigma:0
+2025-04-22 17:15:11,455 INFO [default] DfSetParamGenerateBrightness: 
+2025-04-22 17:15:11,457 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:11,463 INFO [default] command: 20000001
+2025-04-22 17:15:11,518 INFO [default] command: 20000001
+2025-04-22 17:15:11,518 INFO [default] set generate_brightness_exposure:0
+2025-04-22 17:15:11,518 INFO [default] set generate_brightness_model:0
+2025-04-22 17:15:11,518 INFO [default] setParamBrightnessGain:
+2025-04-22 17:15:11,520 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:11,579 INFO [default] command: 20000001
+2025-04-22 17:15:11,580 INFO [default] set brightness_gain:0
+2025-04-22 17:15:11,580 INFO [default] setParamBrightnessHdrExposure:
+2025-04-22 17:15:11,582 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:11,643 INFO [default] command: 20000001
+2025-04-22 17:15:11,643 INFO [default] set brightness_hdr_exposure_num:0
+2025-04-22 17:15:11,643 INFO [default] set brightness_hdr_exposure_param_list:0
+2025-04-22 17:15:11,643 INFO [default] setParamBrightnessExposureModel:
+2025-04-22 17:15:11,646 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:11,706 INFO [default] command: 20000001
+2025-04-22 17:15:11,706 INFO [default] set generate_brightness_exposure_model:0
+2025-04-22 17:15:11,706 INFO [default] setParamReflectFilter:
+2025-04-22 17:15:11,709 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:11,720 INFO [default] command: 20000001
+2025-04-22 17:15:11,720 INFO [default] set use_reflect_filter:0
+2025-04-22 17:15:11,720 INFO [default] set reflect_filter_b:0
+2025-04-22 17:15:11,720 INFO [default] DfSetParamStandardPlaneExternal: 
+2025-04-22 17:15:11,722 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:11,767 INFO [default] command: 20000001
+2025-04-22 17:15:11,767 INFO [default] set standard_plane_external_param:0
+2025-04-22 17:15:11,768 INFO [default] captureData: 1
+2025-04-22 17:15:11,768 INFO [default] GetFrame06
+2025-04-22 17:15:11,770 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:11,828 INFO [default] command: 20000001
+2025-04-22 17:15:11,828 INFO [default] token checked ok
+2025-04-22 17:15:11,828 INFO [default] receiving buffer, depth_buf_size=9216000
+2025-04-22 17:15:12,655 INFO [default] depth received
+2025-04-22 17:15:12,655 INFO [default] receiving buffer, brightness_buf_size=2304000
+2025-04-22 17:15:12,675 INFO [default] brightness received
+2025-04-22 17:15:12,675 INFO [default] Get frame06 success
+2025-04-22 17:15:12,676 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:12,679 INFO [default] command: 20000001
+2025-04-22 17:15:12,679 INFO [default] Frame Status: 0
+2025-04-22 17:15:12,679 INFO [default] Frame Status: 0
+2025-04-22 17:15:12,679 INFO [default] getColorBrightnessData:
+2025-04-22 17:15:12,691 INFO [default] getDepthData:
+2025-04-22 17:15:12,691 INFO [default] Trans Depth:
+2025-04-22 17:15:12,693 INFO [default] Get Depth!
+2025-04-22 17:15:12,700 INFO [default] DfGetPointcloudData:
+2025-04-22 17:15:12,707 INFO [default] Get Pointcloud!
+2025-04-22 17:15:13,031 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 17:15:13,032 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:13,042 INFO [default] command: 20000001
+2025-04-22 17:15:13,257 INFO [default] disconnect:
+2025-04-22 17:15:13,257 INFO [default] token 1727468609 try to disconnection
+2025-04-22 17:15:13,258 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:15:13,311 INFO [default] command: 20000001
+2025-04-22 17:15:13,326 INFO [default] Camera disconnected
+2025-04-22 17:28:12,125 INFO [default] DfConnectNet: 
+2025-04-22 17:28:12,125 INFO [default] start connection: 169.254.5.240
+2025-04-22 17:28:12,128 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:12,128 INFO [default] sending connection cmd
+2025-04-22 17:28:12,142 INFO [default] command: 20000001
+2025-04-22 17:28:12,142 INFO [default] Recieved connection ok
+2025-04-22 17:28:12,142 INFO [default] token: 2196378957
+2025-04-22 17:28:12,143 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 17:28:12,144 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:12,155 INFO [default] command: 20000001
+2025-04-22 17:28:12,155 INFO [default] DfGetCameraResolution:
+2025-04-22 17:28:12,157 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:12,167 INFO [default] command: 20000001
+2025-04-22 17:28:12,167 INFO [default] width: 1920
+2025-04-22 17:28:12,167 INFO [default] height: 1200
+2025-04-22 17:28:12,169 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:12,178 INFO [default] command: 20000001
+2025-04-22 17:28:12,178 INFO [default] Frame Status: 1
+2025-04-22 17:28:12,513 INFO [default] DfGetCameraResolution:
+2025-04-22 17:28:12,515 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:12,526 INFO [default] command: 20000001
+2025-04-22 17:28:12,527 INFO [default] width: 1920
+2025-04-22 17:28:12,527 INFO [default] height: 1200
+2025-04-22 17:28:12,528 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:12,534 INFO [default] command: 20000001
+2025-04-22 17:28:12,534 INFO [default] Frame Status: 1
+2025-04-22 17:28:12,551 INFO [default] set engine:0
+2025-04-22 17:28:12,551 INFO [default] set exposure_model:-7
+2025-04-22 17:28:12,551 INFO [default] set repetition_count:-7
+2025-04-22 17:28:12,551 INFO [default] version: v1.5.3
+2025-04-22 17:28:12,551 INFO [default] set version:0
+2025-04-22 17:28:12,551 INFO [default] DfSetParamLedCurrent: 1023
+2025-04-22 17:28:12,553 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:12,612 INFO [default] command: 20000001
+2025-04-22 17:28:12,613 INFO [default] set led_current:0
+2025-04-22 17:28:12,613 INFO [default] DfSetParamCameraGain:
+2025-04-22 17:28:12,614 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:12,690 INFO [default] command: 20000001
+2025-04-22 17:28:12,690 INFO [default] set camera_gain:0
+2025-04-22 17:28:12,690 INFO [default] DfSetParamCameraConfidence:
+2025-04-22 17:28:12,691 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:12,753 INFO [default] command: 20000001
+2025-04-22 17:28:12,753 INFO [default] set confidence:0
+2025-04-22 17:28:12,753 INFO [default] DfSetParamCameraExposure:
+2025-04-22 17:28:12,754 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:12,831 INFO [default] command: 20000001
+2025-04-22 17:28:12,831 INFO [default] set camera_exposure_time:0
+2025-04-22 17:28:12,831 INFO [default] DfSetParamSmoothing:
+2025-04-22 17:28:12,832 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:12,893 INFO [default] command: 20000001
+2025-04-22 17:28:12,893 INFO [default] set use_bilateral_filter:0
+2025-04-22 17:28:12,893 INFO [default] set bilateral_filter_param_d:0
+2025-04-22 17:28:12,893 INFO [default] DfSetParamOutlierFilter:
+2025-04-22 17:28:12,894 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:12,956 INFO [default] command: 20000001
+2025-04-22 17:28:12,956 INFO [default] set fisher_confidence:0
+2025-04-22 17:28:12,956 INFO [default] DfSetParamMixedHdr:
+2025-04-22 17:28:12,958 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:13,019 INFO [default] command: 20000001
+2025-04-22 17:28:13,019 INFO [default] set mixed_exposure_num:0
+2025-04-22 17:28:13,019 INFO [default] set mixed_exposure_param_list:0
+2025-04-22 17:28:13,019 INFO [default] set mixed_led_param_list:0
+2025-04-22 17:28:13,019 INFO [default] DfSetParamRadiusFilter:
+2025-04-22 17:28:13,020 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:13,082 INFO [default] command: 20000001
+2025-04-22 17:28:13,082 INFO [default] set use_radius_filter:0
+2025-04-22 17:28:13,082 INFO [default] set radius_filter_r:0
+2025-04-22 17:28:13,082 INFO [default] set radius_filter_threshold_num:0
+2025-04-22 17:28:13,082 INFO [default] DfSetParamDepthFilter:
+2025-04-22 17:28:13,083 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:13,144 INFO [default] command: 20000001
+2025-04-22 17:28:13,144 INFO [default] set use_depth_filter:0
+2025-04-22 17:28:13,144 INFO [default] set depth_filter_threshold:0
+2025-04-22 17:28:13,144 INFO [default] DfSetParamGrayRectify:
+2025-04-22 17:28:13,146 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:13,159 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:13,207 INFO [default] command: 20000001
+2025-04-22 17:28:13,207 INFO [default] set use_gray_rectify:0
+2025-04-22 17:28:13,207 INFO [default] set gray_rectify_r:0
+2025-04-22 17:28:13,207 INFO [default] set gray_rectify_sigma:0
+2025-04-22 17:28:13,207 INFO [default] DfSetParamGenerateBrightness: 
+2025-04-22 17:28:13,208 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:13,219 INFO [default] command: 20000001
+2025-04-22 17:28:13,270 INFO [default] command: 20000001
+2025-04-22 17:28:13,270 INFO [default] set generate_brightness_exposure:0
+2025-04-22 17:28:13,270 INFO [default] set generate_brightness_model:0
+2025-04-22 17:28:13,270 INFO [default] setParamBrightnessGain:
+2025-04-22 17:28:13,274 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:13,333 INFO [default] command: 20000001
+2025-04-22 17:28:13,333 INFO [default] set brightness_gain:0
+2025-04-22 17:28:13,333 INFO [default] setParamBrightnessHdrExposure:
+2025-04-22 17:28:13,335 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:13,395 INFO [default] command: 20000001
+2025-04-22 17:28:13,395 INFO [default] set brightness_hdr_exposure_num:0
+2025-04-22 17:28:13,395 INFO [default] set brightness_hdr_exposure_param_list:0
+2025-04-22 17:28:13,395 INFO [default] setParamBrightnessExposureModel:
+2025-04-22 17:28:13,398 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:13,458 INFO [default] command: 20000001
+2025-04-22 17:28:13,458 INFO [default] set generate_brightness_exposure_model:0
+2025-04-22 17:28:13,459 INFO [default] setParamReflectFilter:
+2025-04-22 17:28:13,461 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:13,474 INFO [default] command: 20000001
+2025-04-22 17:28:13,474 INFO [default] set use_reflect_filter:0
+2025-04-22 17:28:13,474 INFO [default] set reflect_filter_b:0
+2025-04-22 17:28:13,474 INFO [default] DfSetParamStandardPlaneExternal: 
+2025-04-22 17:28:13,476 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:13,520 INFO [default] command: 20000001
+2025-04-22 17:28:13,522 INFO [default] set standard_plane_external_param:0
+2025-04-22 17:28:13,522 INFO [default] captureData: 1
+2025-04-22 17:28:13,522 INFO [default] GetFrame06
+2025-04-22 17:28:13,524 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:13,584 INFO [default] command: 20000001
+2025-04-22 17:28:13,584 INFO [default] token checked ok
+2025-04-22 17:28:13,584 INFO [default] receiving buffer, depth_buf_size=9216000
+2025-04-22 17:28:14,451 INFO [default] depth received
+2025-04-22 17:28:14,451 INFO [default] receiving buffer, brightness_buf_size=2304000
+2025-04-22 17:28:14,471 INFO [default] brightness received
+2025-04-22 17:28:14,471 INFO [default] Get frame06 success
+2025-04-22 17:28:14,472 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:14,474 INFO [default] command: 20000001
+2025-04-22 17:28:14,474 INFO [default] Frame Status: 0
+2025-04-22 17:28:14,474 INFO [default] Frame Status: 0
+2025-04-22 17:28:14,474 INFO [default] getColorBrightnessData:
+2025-04-22 17:28:14,492 INFO [default] getDepthData:
+2025-04-22 17:28:14,492 INFO [default] Trans Depth:
+2025-04-22 17:28:14,493 INFO [default] Get Depth!
+2025-04-22 17:28:14,509 INFO [default] DfGetPointcloudData:
+2025-04-22 17:28:14,517 INFO [default] Get Pointcloud!
+2025-04-22 17:28:14,791 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 17:28:14,792 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:14,793 INFO [default] command: 20000001
+2025-04-22 17:28:15,066 INFO [default] disconnect:
+2025-04-22 17:28:15,066 INFO [default] token 2196378957 try to disconnection
+2025-04-22 17:28:15,068 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:15,117 INFO [default] command: 20000001
+2025-04-22 17:28:15,133 INFO [default] Camera disconnected
+2025-04-22 17:28:32,954 INFO [default] DfConnectNet: 
+2025-04-22 17:28:32,954 INFO [default] start connection: 169.254.5.240
+2025-04-22 17:28:32,959 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:32,959 INFO [default] sending connection cmd
+2025-04-22 17:28:32,976 INFO [default] command: 20000001
+2025-04-22 17:28:32,977 INFO [default] Recieved connection ok
+2025-04-22 17:28:32,977 INFO [default] token: 605399872
+2025-04-22 17:28:32,977 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 17:28:32,978 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:32,987 INFO [default] command: 20000001
+2025-04-22 17:28:32,987 INFO [default] DfGetCameraResolution:
+2025-04-22 17:28:32,990 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:33,001 INFO [default] command: 20000001
+2025-04-22 17:28:33,001 INFO [default] width: 1920
+2025-04-22 17:28:33,001 INFO [default] height: 1200
+2025-04-22 17:28:33,003 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:33,010 INFO [default] command: 20000001
+2025-04-22 17:28:33,010 INFO [default] Frame Status: 1
+2025-04-22 17:28:33,345 INFO [default] DfGetCameraResolution:
+2025-04-22 17:28:33,347 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:33,357 INFO [default] command: 20000001
+2025-04-22 17:28:33,357 INFO [default] width: 1920
+2025-04-22 17:28:33,357 INFO [default] height: 1200
+2025-04-22 17:28:33,359 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:33,367 INFO [default] command: 20000001
+2025-04-22 17:28:33,367 INFO [default] Frame Status: 1
+2025-04-22 17:28:33,376 INFO [default] set engine:0
+2025-04-22 17:28:33,376 INFO [default] set exposure_model:-7
+2025-04-22 17:28:33,376 INFO [default] set repetition_count:-7
+2025-04-22 17:28:33,376 INFO [default] version: v1.5.3
+2025-04-22 17:28:33,376 INFO [default] set version:0
+2025-04-22 17:28:33,376 INFO [default] DfSetParamLedCurrent: 1023
+2025-04-22 17:28:33,378 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:33,433 INFO [default] command: 20000001
+2025-04-22 17:28:33,433 INFO [default] set led_current:0
+2025-04-22 17:28:33,433 INFO [default] DfSetParamCameraGain:
+2025-04-22 17:28:33,435 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:33,510 INFO [default] command: 20000001
+2025-04-22 17:28:33,510 INFO [default] set camera_gain:0
+2025-04-22 17:28:33,510 INFO [default] DfSetParamCameraConfidence:
+2025-04-22 17:28:33,512 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:33,573 INFO [default] command: 20000001
+2025-04-22 17:28:33,573 INFO [default] set confidence:0
+2025-04-22 17:28:33,573 INFO [default] DfSetParamCameraExposure:
+2025-04-22 17:28:33,575 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:33,652 INFO [default] command: 20000001
+2025-04-22 17:28:33,652 INFO [default] set camera_exposure_time:0
+2025-04-22 17:28:33,652 INFO [default] DfSetParamSmoothing:
+2025-04-22 17:28:33,654 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:33,716 INFO [default] command: 20000001
+2025-04-22 17:28:33,716 INFO [default] set use_bilateral_filter:0
+2025-04-22 17:28:33,716 INFO [default] set bilateral_filter_param_d:0
+2025-04-22 17:28:33,716 INFO [default] DfSetParamOutlierFilter:
+2025-04-22 17:28:33,717 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:33,777 INFO [default] command: 20000001
+2025-04-22 17:28:33,777 INFO [default] set fisher_confidence:0
+2025-04-22 17:28:33,777 INFO [default] DfSetParamMixedHdr:
+2025-04-22 17:28:33,779 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:33,840 INFO [default] command: 20000001
+2025-04-22 17:28:33,840 INFO [default] set mixed_exposure_num:0
+2025-04-22 17:28:33,840 INFO [default] set mixed_exposure_param_list:0
+2025-04-22 17:28:33,840 INFO [default] set mixed_led_param_list:0
+2025-04-22 17:28:33,840 INFO [default] DfSetParamRadiusFilter:
+2025-04-22 17:28:33,842 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:33,902 INFO [default] command: 20000001
+2025-04-22 17:28:33,902 INFO [default] set use_radius_filter:0
+2025-04-22 17:28:33,902 INFO [default] set radius_filter_r:0
+2025-04-22 17:28:33,902 INFO [default] set radius_filter_threshold_num:0
+2025-04-22 17:28:33,902 INFO [default] DfSetParamDepthFilter:
+2025-04-22 17:28:33,905 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:33,964 INFO [default] command: 20000001
+2025-04-22 17:28:33,964 INFO [default] set use_depth_filter:0
+2025-04-22 17:28:33,964 INFO [default] set depth_filter_threshold:0
+2025-04-22 17:28:33,964 INFO [default] DfSetParamGrayRectify:
+2025-04-22 17:28:33,966 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:33,979 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:34,027 INFO [default] command: 20000001
+2025-04-22 17:28:34,027 INFO [default] set use_gray_rectify:0
+2025-04-22 17:28:34,027 INFO [default] set gray_rectify_r:0
+2025-04-22 17:28:34,027 INFO [default] set gray_rectify_sigma:0
+2025-04-22 17:28:34,027 INFO [default] DfSetParamGenerateBrightness: 
+2025-04-22 17:28:34,029 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:34,039 INFO [default] command: 20000001
+2025-04-22 17:28:34,089 INFO [default] command: 20000001
+2025-04-22 17:28:34,089 INFO [default] set generate_brightness_exposure:0
+2025-04-22 17:28:34,089 INFO [default] set generate_brightness_model:0
+2025-04-22 17:28:34,089 INFO [default] setParamBrightnessGain:
+2025-04-22 17:28:34,091 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:34,152 INFO [default] command: 20000001
+2025-04-22 17:28:34,152 INFO [default] set brightness_gain:0
+2025-04-22 17:28:34,152 INFO [default] setParamBrightnessHdrExposure:
+2025-04-22 17:28:34,155 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:34,215 INFO [default] command: 20000001
+2025-04-22 17:28:34,215 INFO [default] set brightness_hdr_exposure_num:0
+2025-04-22 17:28:34,215 INFO [default] set brightness_hdr_exposure_param_list:0
+2025-04-22 17:28:34,215 INFO [default] setParamBrightnessExposureModel:
+2025-04-22 17:28:34,218 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:34,276 INFO [default] command: 20000001
+2025-04-22 17:28:34,276 INFO [default] set generate_brightness_exposure_model:0
+2025-04-22 17:28:34,276 INFO [default] setParamReflectFilter:
+2025-04-22 17:28:34,278 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:34,290 INFO [default] command: 20000001
+2025-04-22 17:28:34,290 INFO [default] set use_reflect_filter:0
+2025-04-22 17:28:34,290 INFO [default] set reflect_filter_b:0
+2025-04-22 17:28:34,290 INFO [default] DfSetParamStandardPlaneExternal: 
+2025-04-22 17:28:34,292 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:34,340 INFO [default] command: 20000001
+2025-04-22 17:28:34,340 INFO [default] set standard_plane_external_param:0
+2025-04-22 17:28:34,340 INFO [default] captureData: 1
+2025-04-22 17:28:34,340 INFO [default] GetFrame06
+2025-04-22 17:28:34,342 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:34,401 INFO [default] command: 20000001
+2025-04-22 17:28:34,401 INFO [default] token checked ok
+2025-04-22 17:28:34,401 INFO [default] receiving buffer, depth_buf_size=9216000
+2025-04-22 17:28:35,248 INFO [default] depth received
+2025-04-22 17:28:35,248 INFO [default] receiving buffer, brightness_buf_size=2304000
+2025-04-22 17:28:35,268 INFO [default] brightness received
+2025-04-22 17:28:35,268 INFO [default] Get frame06 success
+2025-04-22 17:28:35,269 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:35,271 INFO [default] command: 20000001
+2025-04-22 17:28:35,271 INFO [default] Frame Status: 0
+2025-04-22 17:28:35,271 INFO [default] Frame Status: 0
+2025-04-22 17:28:35,271 INFO [default] getColorBrightnessData:
+2025-04-22 17:28:35,289 INFO [default] getDepthData:
+2025-04-22 17:28:35,289 INFO [default] Trans Depth:
+2025-04-22 17:28:35,290 INFO [default] Get Depth!
+2025-04-22 17:28:35,298 INFO [default] DfGetPointcloudData:
+2025-04-22 17:28:35,305 INFO [default] Get Pointcloud!
+2025-04-22 17:28:35,602 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 17:28:35,603 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:35,604 INFO [default] command: 20000001
+2025-04-22 17:28:35,858 INFO [default] disconnect:
+2025-04-22 17:28:35,858 INFO [default] token 605399872 try to disconnection
+2025-04-22 17:28:35,859 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:28:35,915 INFO [default] command: 20000001
+2025-04-22 17:28:35,929 INFO [default] Camera disconnected
+2025-04-22 17:35:49,283 INFO [default] DfConnectNet: 
+2025-04-22 17:35:49,283 INFO [default] start connection: 169.254.5.240
+2025-04-22 17:35:49,286 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:35:49,286 INFO [default] sending connection cmd
+2025-04-22 17:35:49,299 INFO [default] command: 20000002
+2025-04-22 17:35:49,299 INFO [default] connection rejected
+2025-04-22 17:36:00,608 INFO [default] DfConnectNet: 
+2025-04-22 17:36:00,608 INFO [default] start connection: 169.254.5.240
+2025-04-22 17:36:00,612 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:00,612 INFO [default] sending connection cmd
+2025-04-22 17:36:00,627 INFO [default] command: 20000001
+2025-04-22 17:36:00,627 INFO [default] Recieved connection ok
+2025-04-22 17:36:00,627 INFO [default] token: 1556229445
+2025-04-22 17:36:00,629 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 17:36:00,629 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:00,642 INFO [default] command: 20000001
+2025-04-22 17:36:00,642 INFO [default] DfGetCameraResolution:
+2025-04-22 17:36:00,645 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:00,654 INFO [default] command: 20000001
+2025-04-22 17:36:00,654 INFO [default] width: 1920
+2025-04-22 17:36:00,654 INFO [default] height: 1200
+2025-04-22 17:36:00,656 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:00,667 INFO [default] command: 20000001
+2025-04-22 17:36:00,668 INFO [default] Frame Status: 1
+2025-04-22 17:36:00,999 INFO [default] DfGetCameraResolution:
+2025-04-22 17:36:01,002 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:01,018 INFO [default] command: 20000001
+2025-04-22 17:36:01,018 INFO [default] width: 1920
+2025-04-22 17:36:01,018 INFO [default] height: 1200
+2025-04-22 17:36:01,021 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:01,029 INFO [default] command: 20000001
+2025-04-22 17:36:01,029 INFO [default] Frame Status: 1
+2025-04-22 17:36:01,044 INFO [default] set engine:0
+2025-04-22 17:36:01,044 INFO [default] set exposure_model:-7
+2025-04-22 17:36:01,044 INFO [default] set repetition_count:-7
+2025-04-22 17:36:01,044 INFO [default] version: v1.5.3
+2025-04-22 17:36:01,044 INFO [default] set version:0
+2025-04-22 17:36:01,044 INFO [default] DfSetParamLedCurrent: 1023
+2025-04-22 17:36:01,047 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:01,107 INFO [default] command: 20000001
+2025-04-22 17:36:01,107 INFO [default] set led_current:0
+2025-04-22 17:36:01,107 INFO [default] DfSetParamCameraGain:
+2025-04-22 17:36:01,109 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:01,185 INFO [default] command: 20000001
+2025-04-22 17:36:01,185 INFO [default] set camera_gain:0
+2025-04-22 17:36:01,185 INFO [default] DfSetParamCameraConfidence:
+2025-04-22 17:36:01,186 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:01,247 INFO [default] command: 20000001
+2025-04-22 17:36:01,247 INFO [default] set confidence:0
+2025-04-22 17:36:01,247 INFO [default] DfSetParamCameraExposure:
+2025-04-22 17:36:01,249 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:01,324 INFO [default] command: 20000001
+2025-04-22 17:36:01,324 INFO [default] set camera_exposure_time:0
+2025-04-22 17:36:01,324 INFO [default] DfSetParamSmoothing:
+2025-04-22 17:36:01,325 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:01,386 INFO [default] command: 20000001
+2025-04-22 17:36:01,386 INFO [default] set use_bilateral_filter:0
+2025-04-22 17:36:01,386 INFO [default] set bilateral_filter_param_d:0
+2025-04-22 17:36:01,386 INFO [default] DfSetParamOutlierFilter:
+2025-04-22 17:36:01,388 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:01,450 INFO [default] command: 20000001
+2025-04-22 17:36:01,450 INFO [default] set fisher_confidence:0
+2025-04-22 17:36:01,450 INFO [default] DfSetParamMixedHdr:
+2025-04-22 17:36:01,452 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:01,512 INFO [default] command: 20000001
+2025-04-22 17:36:01,512 INFO [default] set mixed_exposure_num:0
+2025-04-22 17:36:01,512 INFO [default] set mixed_exposure_param_list:0
+2025-04-22 17:36:01,512 INFO [default] set mixed_led_param_list:0
+2025-04-22 17:36:01,512 INFO [default] DfSetParamRadiusFilter:
+2025-04-22 17:36:01,514 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:01,574 INFO [default] command: 20000001
+2025-04-22 17:36:01,574 INFO [default] set use_radius_filter:0
+2025-04-22 17:36:01,574 INFO [default] set radius_filter_r:0
+2025-04-22 17:36:01,574 INFO [default] set radius_filter_threshold_num:0
+2025-04-22 17:36:01,574 INFO [default] DfSetParamDepthFilter:
+2025-04-22 17:36:01,576 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:01,636 INFO [default] command: 20000001
+2025-04-22 17:36:01,636 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:01,636 INFO [default] set use_depth_filter:0
+2025-04-22 17:36:01,636 INFO [default] set depth_filter_threshold:0
+2025-04-22 17:36:01,636 INFO [default] DfSetParamGrayRectify:
+2025-04-22 17:36:01,638 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:01,650 INFO [default] command: 20000001
+2025-04-22 17:36:01,698 INFO [default] command: 20000001
+2025-04-22 17:36:01,698 INFO [default] set use_gray_rectify:0
+2025-04-22 17:36:01,698 INFO [default] set gray_rectify_r:0
+2025-04-22 17:36:01,698 INFO [default] set gray_rectify_sigma:0
+2025-04-22 17:36:01,698 INFO [default] DfSetParamGenerateBrightness: 
+2025-04-22 17:36:01,701 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:01,760 INFO [default] command: 20000001
+2025-04-22 17:36:01,760 INFO [default] set generate_brightness_exposure:0
+2025-04-22 17:36:01,760 INFO [default] set generate_brightness_model:0
+2025-04-22 17:36:01,760 INFO [default] setParamBrightnessGain:
+2025-04-22 17:36:01,762 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:01,821 INFO [default] command: 20000001
+2025-04-22 17:36:01,821 INFO [default] set brightness_gain:0
+2025-04-22 17:36:01,821 INFO [default] setParamBrightnessHdrExposure:
+2025-04-22 17:36:01,823 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:01,883 INFO [default] command: 20000001
+2025-04-22 17:36:01,883 INFO [default] set brightness_hdr_exposure_num:0
+2025-04-22 17:36:01,883 INFO [default] set brightness_hdr_exposure_param_list:0
+2025-04-22 17:36:01,883 INFO [default] setParamBrightnessExposureModel:
+2025-04-22 17:36:01,885 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:01,946 INFO [default] command: 20000001
+2025-04-22 17:36:01,946 INFO [default] set generate_brightness_exposure_model:0
+2025-04-22 17:36:01,946 INFO [default] setParamReflectFilter:
+2025-04-22 17:36:01,949 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:01,960 INFO [default] command: 20000001
+2025-04-22 17:36:01,960 INFO [default] set use_reflect_filter:0
+2025-04-22 17:36:01,960 INFO [default] set reflect_filter_b:0
+2025-04-22 17:36:01,960 INFO [default] DfSetParamStandardPlaneExternal: 
+2025-04-22 17:36:01,962 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:02,007 INFO [default] command: 20000001
+2025-04-22 17:36:02,008 INFO [default] set standard_plane_external_param:0
+2025-04-22 17:36:02,008 INFO [default] captureData: 1
+2025-04-22 17:36:02,008 INFO [default] GetFrame06
+2025-04-22 17:36:02,011 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:02,071 INFO [default] command: 20000001
+2025-04-22 17:36:02,071 INFO [default] token checked ok
+2025-04-22 17:36:02,071 INFO [default] receiving buffer, depth_buf_size=9216000
+2025-04-22 17:36:02,884 INFO [default] depth received
+2025-04-22 17:36:02,884 INFO [default] receiving buffer, brightness_buf_size=2304000
+2025-04-22 17:36:02,903 INFO [default] brightness received
+2025-04-22 17:36:02,904 INFO [default] Get frame06 success
+2025-04-22 17:36:02,905 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:02,907 INFO [default] command: 20000001
+2025-04-22 17:36:02,907 INFO [default] Frame Status: 0
+2025-04-22 17:36:02,907 INFO [default] Frame Status: 0
+2025-04-22 17:36:02,907 INFO [default] getColorBrightnessData:
+2025-04-22 17:36:02,921 INFO [default] getDepthData:
+2025-04-22 17:36:02,921 INFO [default] Trans Depth:
+2025-04-22 17:36:02,923 INFO [default] Get Depth!
+2025-04-22 17:36:02,939 INFO [default] DfGetPointcloudData:
+2025-04-22 17:36:02,946 INFO [default] Get Pointcloud!
+2025-04-22 17:36:03,209 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 17:36:03,210 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:03,212 INFO [default] command: 20000001
+2025-04-22 17:36:03,498 INFO [default] disconnect:
+2025-04-22 17:36:03,498 INFO [default] token 1556229445 try to disconnection
+2025-04-22 17:36:03,499 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:36:03,554 INFO [default] command: 20000001
+2025-04-22 17:36:03,569 INFO [default] Camera disconnected
+2025-04-22 17:37:39,225 INFO [default] DfConnectNet: 
+2025-04-22 17:37:39,225 INFO [default] start connection: 169.254.5.240
+2025-04-22 17:37:39,229 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:39,229 INFO [default] sending connection cmd
+2025-04-22 17:37:39,243 INFO [default] command: 20000002
+2025-04-22 17:37:39,243 INFO [default] connection rejected
+2025-04-22 17:37:45,791 INFO [default] DfConnectNet: 
+2025-04-22 17:37:45,791 INFO [default] start connection: 169.254.5.240
+2025-04-22 17:37:45,795 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:45,795 INFO [default] sending connection cmd
+2025-04-22 17:37:45,808 INFO [default] command: 20000001
+2025-04-22 17:37:45,808 INFO [default] Recieved connection ok
+2025-04-22 17:37:45,808 INFO [default] token: 2008515658
+2025-04-22 17:37:45,808 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 17:37:45,810 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:45,820 INFO [default] command: 20000001
+2025-04-22 17:37:45,820 INFO [default] DfGetCameraResolution:
+2025-04-22 17:37:45,822 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:45,832 INFO [default] command: 20000001
+2025-04-22 17:37:45,833 INFO [default] width: 1920
+2025-04-22 17:37:45,833 INFO [default] height: 1200
+2025-04-22 17:37:45,834 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:45,843 INFO [default] command: 20000001
+2025-04-22 17:37:45,843 INFO [default] Frame Status: 1
+2025-04-22 17:37:46,177 INFO [default] DfGetCameraResolution:
+2025-04-22 17:37:46,179 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:46,193 INFO [default] command: 20000001
+2025-04-22 17:37:46,193 INFO [default] width: 1920
+2025-04-22 17:37:46,193 INFO [default] height: 1200
+2025-04-22 17:37:46,194 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:46,199 INFO [default] command: 20000001
+2025-04-22 17:37:46,199 INFO [default] Frame Status: 1
+2025-04-22 17:37:46,216 INFO [default] set engine:0
+2025-04-22 17:37:46,216 INFO [default] set exposure_model:-7
+2025-04-22 17:37:46,216 INFO [default] set repetition_count:-7
+2025-04-22 17:37:46,216 INFO [default] version: v1.5.3
+2025-04-22 17:37:46,216 INFO [default] set version:0
+2025-04-22 17:37:46,216 INFO [default] DfSetParamLedCurrent: 1023
+2025-04-22 17:37:46,217 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:46,277 INFO [default] command: 20000001
+2025-04-22 17:37:46,277 INFO [default] set led_current:0
+2025-04-22 17:37:46,277 INFO [default] DfSetParamCameraGain:
+2025-04-22 17:37:46,279 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:46,352 INFO [default] command: 20000001
+2025-04-22 17:37:46,352 INFO [default] set camera_gain:0
+2025-04-22 17:37:46,352 INFO [default] DfSetParamCameraConfidence:
+2025-04-22 17:37:46,355 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:46,417 INFO [default] command: 20000001
+2025-04-22 17:37:46,417 INFO [default] set confidence:0
+2025-04-22 17:37:46,417 INFO [default] DfSetParamCameraExposure:
+2025-04-22 17:37:46,418 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:46,480 INFO [default] command: 20000001
+2025-04-22 17:37:46,480 INFO [default] set camera_exposure_time:0
+2025-04-22 17:37:46,480 INFO [default] DfSetParamSmoothing:
+2025-04-22 17:37:46,482 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:46,544 INFO [default] command: 20000001
+2025-04-22 17:37:46,544 INFO [default] set use_bilateral_filter:0
+2025-04-22 17:37:46,544 INFO [default] set bilateral_filter_param_d:0
+2025-04-22 17:37:46,544 INFO [default] DfSetParamOutlierFilter:
+2025-04-22 17:37:46,546 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:46,606 INFO [default] command: 20000001
+2025-04-22 17:37:46,606 INFO [default] set fisher_confidence:0
+2025-04-22 17:37:46,606 INFO [default] DfSetParamMixedHdr:
+2025-04-22 17:37:46,607 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:46,668 INFO [default] command: 20000001
+2025-04-22 17:37:46,668 INFO [default] set mixed_exposure_num:0
+2025-04-22 17:37:46,668 INFO [default] set mixed_exposure_param_list:0
+2025-04-22 17:37:46,668 INFO [default] set mixed_led_param_list:0
+2025-04-22 17:37:46,668 INFO [default] DfSetParamRadiusFilter:
+2025-04-22 17:37:46,669 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:46,731 INFO [default] command: 20000001
+2025-04-22 17:37:46,731 INFO [default] set use_radius_filter:0
+2025-04-22 17:37:46,731 INFO [default] set radius_filter_r:0
+2025-04-22 17:37:46,731 INFO [default] set radius_filter_threshold_num:0
+2025-04-22 17:37:46,731 INFO [default] DfSetParamDepthFilter:
+2025-04-22 17:37:46,733 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:46,793 INFO [default] command: 20000001
+2025-04-22 17:37:46,793 INFO [default] set use_depth_filter:0
+2025-04-22 17:37:46,793 INFO [default] set depth_filter_threshold:0
+2025-04-22 17:37:46,793 INFO [default] DfSetParamGrayRectify:
+2025-04-22 17:37:46,796 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:46,810 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:46,857 INFO [default] command: 20000001
+2025-04-22 17:37:46,857 INFO [default] set use_gray_rectify:0
+2025-04-22 17:37:46,857 INFO [default] set gray_rectify_r:0
+2025-04-22 17:37:46,857 INFO [default] set gray_rectify_sigma:0
+2025-04-22 17:37:46,857 INFO [default] DfSetParamGenerateBrightness: 
+2025-04-22 17:37:46,858 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:46,868 INFO [default] command: 20000001
+2025-04-22 17:37:46,920 INFO [default] command: 20000001
+2025-04-22 17:37:46,920 INFO [default] set generate_brightness_exposure:0
+2025-04-22 17:37:46,920 INFO [default] set generate_brightness_model:0
+2025-04-22 17:37:46,920 INFO [default] setParamBrightnessGain:
+2025-04-22 17:37:46,923 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:46,982 INFO [default] command: 20000001
+2025-04-22 17:37:46,982 INFO [default] set brightness_gain:0
+2025-04-22 17:37:46,982 INFO [default] setParamBrightnessHdrExposure:
+2025-04-22 17:37:46,984 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:47,044 INFO [default] command: 20000001
+2025-04-22 17:37:47,045 INFO [default] set brightness_hdr_exposure_num:0
+2025-04-22 17:37:47,045 INFO [default] set brightness_hdr_exposure_param_list:0
+2025-04-22 17:37:47,045 INFO [default] setParamBrightnessExposureModel:
+2025-04-22 17:37:47,046 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:47,107 INFO [default] command: 20000001
+2025-04-22 17:37:47,107 INFO [default] set generate_brightness_exposure_model:0
+2025-04-22 17:37:47,107 INFO [default] setParamReflectFilter:
+2025-04-22 17:37:47,109 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:47,121 INFO [default] command: 20000001
+2025-04-22 17:37:47,121 INFO [default] set use_reflect_filter:0
+2025-04-22 17:37:47,121 INFO [default] set reflect_filter_b:0
+2025-04-22 17:37:47,121 INFO [default] DfSetParamStandardPlaneExternal: 
+2025-04-22 17:37:47,122 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:47,170 INFO [default] command: 20000001
+2025-04-22 17:37:47,170 INFO [default] set standard_plane_external_param:0
+2025-04-22 17:37:47,170 INFO [default] captureData: 1
+2025-04-22 17:37:47,170 INFO [default] GetFrame06
+2025-04-22 17:37:47,172 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:47,231 INFO [default] command: 20000001
+2025-04-22 17:37:47,231 INFO [default] token checked ok
+2025-04-22 17:37:47,231 INFO [default] receiving buffer, depth_buf_size=9216000
+2025-04-22 17:37:48,066 INFO [default] depth received
+2025-04-22 17:37:48,066 INFO [default] receiving buffer, brightness_buf_size=2304000
+2025-04-22 17:37:48,085 INFO [default] brightness received
+2025-04-22 17:37:48,086 INFO [default] Get frame06 success
+2025-04-22 17:37:48,087 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:48,089 INFO [default] command: 20000001
+2025-04-22 17:37:48,089 INFO [default] Frame Status: 0
+2025-04-22 17:37:48,089 INFO [default] Frame Status: 0
+2025-04-22 17:37:48,089 INFO [default] getColorBrightnessData:
+2025-04-22 17:37:48,101 INFO [default] getDepthData:
+2025-04-22 17:37:48,101 INFO [default] Trans Depth:
+2025-04-22 17:37:48,102 INFO [default] Get Depth!
+2025-04-22 17:37:48,110 INFO [default] DfGetPointcloudData:
+2025-04-22 17:37:48,117 INFO [default] Get Pointcloud!
+2025-04-22 17:37:48,432 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 17:37:48,433 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:48,436 INFO [default] command: 20000001
+2025-04-22 17:37:48,669 INFO [default] disconnect:
+2025-04-22 17:37:48,669 INFO [default] token 2008515658 try to disconnection
+2025-04-22 17:37:48,671 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 17:37:48,728 INFO [default] command: 20000001
+2025-04-22 17:37:48,744 INFO [default] Camera disconnected
+2025-04-22 18:12:54,001 INFO [default] DfConnectNet: 
+2025-04-22 18:12:54,001 INFO [default] start connection: 169.254.5.240
+2025-04-22 18:12:54,004 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:12:54,004 INFO [default] sending connection cmd
+2025-04-22 18:12:54,016 INFO [default] command: 20000002
+2025-04-22 18:12:54,016 INFO [default] connection rejected
+2025-04-22 18:13:03,441 INFO [default] DfConnectNet: 
+2025-04-22 18:13:03,441 INFO [default] start connection: 169.254.5.240
+2025-04-22 18:13:03,445 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:03,445 INFO [default] sending connection cmd
+2025-04-22 18:13:03,461 INFO [default] command: 20000001
+2025-04-22 18:13:03,461 INFO [default] Recieved connection ok
+2025-04-22 18:13:03,461 INFO [default] token: 2430752873
+2025-04-22 18:13:03,462 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 18:13:03,462 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:03,471 INFO [default] command: 20000001
+2025-04-22 18:13:03,471 INFO [default] DfGetCameraResolution:
+2025-04-22 18:13:03,473 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:03,482 INFO [default] command: 20000001
+2025-04-22 18:13:03,482 INFO [default] width: 1920
+2025-04-22 18:13:03,482 INFO [default] height: 1200
+2025-04-22 18:13:03,484 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:03,492 INFO [default] command: 20000001
+2025-04-22 18:13:03,492 INFO [default] Frame Status: 1
+2025-04-22 18:13:03,826 INFO [default] DfGetCameraResolution:
+2025-04-22 18:13:03,828 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:03,842 INFO [default] command: 20000001
+2025-04-22 18:13:03,842 INFO [default] width: 1920
+2025-04-22 18:13:03,842 INFO [default] height: 1200
+2025-04-22 18:13:03,843 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:03,847 INFO [default] command: 20000001
+2025-04-22 18:13:03,848 INFO [default] Frame Status: 1
+2025-04-22 18:13:03,865 INFO [default] set engine:0
+2025-04-22 18:13:03,865 INFO [default] set exposure_model:-7
+2025-04-22 18:13:03,865 INFO [default] set repetition_count:-7
+2025-04-22 18:13:03,865 INFO [default] version: v1.5.3
+2025-04-22 18:13:03,865 INFO [default] set version:0
+2025-04-22 18:13:03,865 INFO [default] DfSetParamLedCurrent: 1023
+2025-04-22 18:13:03,867 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:03,924 INFO [default] command: 20000001
+2025-04-22 18:13:03,924 INFO [default] set led_current:0
+2025-04-22 18:13:03,924 INFO [default] DfSetParamCameraGain:
+2025-04-22 18:13:03,925 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:04,002 INFO [default] command: 20000001
+2025-04-22 18:13:04,002 INFO [default] set camera_gain:0
+2025-04-22 18:13:04,003 INFO [default] DfSetParamCameraConfidence:
+2025-04-22 18:13:04,004 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:04,066 INFO [default] command: 20000001
+2025-04-22 18:13:04,066 INFO [default] set confidence:0
+2025-04-22 18:13:04,066 INFO [default] DfSetParamCameraExposure:
+2025-04-22 18:13:04,067 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:04,127 INFO [default] command: 20000001
+2025-04-22 18:13:04,129 INFO [default] set camera_exposure_time:0
+2025-04-22 18:13:04,129 INFO [default] DfSetParamSmoothing:
+2025-04-22 18:13:04,129 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:04,190 INFO [default] command: 20000001
+2025-04-22 18:13:04,191 INFO [default] set use_bilateral_filter:0
+2025-04-22 18:13:04,191 INFO [default] set bilateral_filter_param_d:0
+2025-04-22 18:13:04,191 INFO [default] DfSetParamOutlierFilter:
+2025-04-22 18:13:04,192 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:04,252 INFO [default] command: 20000001
+2025-04-22 18:13:04,252 INFO [default] set fisher_confidence:0
+2025-04-22 18:13:04,252 INFO [default] DfSetParamMixedHdr:
+2025-04-22 18:13:04,253 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:04,315 INFO [default] command: 20000001
+2025-04-22 18:13:04,324 INFO [default] set mixed_exposure_num:0
+2025-04-22 18:13:04,324 INFO [default] set mixed_exposure_param_list:0
+2025-04-22 18:13:04,324 INFO [default] set mixed_led_param_list:0
+2025-04-22 18:13:04,324 INFO [default] DfSetParamRadiusFilter:
+2025-04-22 18:13:04,325 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:04,376 INFO [default] command: 20000001
+2025-04-22 18:13:04,376 INFO [default] set use_radius_filter:0
+2025-04-22 18:13:04,376 INFO [default] set radius_filter_r:0
+2025-04-22 18:13:04,376 INFO [default] set radius_filter_threshold_num:0
+2025-04-22 18:13:04,376 INFO [default] DfSetParamDepthFilter:
+2025-04-22 18:13:04,378 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:04,439 INFO [default] command: 20000001
+2025-04-22 18:13:04,439 INFO [default] set use_depth_filter:0
+2025-04-22 18:13:04,439 INFO [default] set depth_filter_threshold:0
+2025-04-22 18:13:04,439 INFO [default] DfSetParamGrayRectify:
+2025-04-22 18:13:04,441 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:04,470 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:04,502 INFO [default] command: 20000001
+2025-04-22 18:13:04,502 INFO [default] set use_gray_rectify:0
+2025-04-22 18:13:04,502 INFO [default] set gray_rectify_r:0
+2025-04-22 18:13:04,502 INFO [default] set gray_rectify_sigma:0
+2025-04-22 18:13:04,502 INFO [default] DfSetParamGenerateBrightness: 
+2025-04-22 18:13:04,503 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:04,511 INFO [default] command: 20000001
+2025-04-22 18:13:04,562 INFO [default] command: 20000001
+2025-04-22 18:13:04,564 INFO [default] set generate_brightness_exposure:0
+2025-04-22 18:13:04,564 INFO [default] set generate_brightness_model:0
+2025-04-22 18:13:04,564 INFO [default] setParamBrightnessGain:
+2025-04-22 18:13:04,565 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:04,626 INFO [default] command: 20000001
+2025-04-22 18:13:04,626 INFO [default] set brightness_gain:0
+2025-04-22 18:13:04,626 INFO [default] setParamBrightnessHdrExposure:
+2025-04-22 18:13:04,628 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:04,673 INFO [default] command: 20000001
+2025-04-22 18:13:04,673 INFO [default] set brightness_hdr_exposure_num:0
+2025-04-22 18:13:04,673 INFO [default] set brightness_hdr_exposure_param_list:0
+2025-04-22 18:13:04,673 INFO [default] setParamBrightnessExposureModel:
+2025-04-22 18:13:04,676 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:04,736 INFO [default] command: 20000001
+2025-04-22 18:13:04,736 INFO [default] set generate_brightness_exposure_model:0
+2025-04-22 18:13:04,736 INFO [default] setParamReflectFilter:
+2025-04-22 18:13:04,739 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:04,750 INFO [default] command: 20000001
+2025-04-22 18:13:04,752 INFO [default] set use_reflect_filter:0
+2025-04-22 18:13:04,752 INFO [default] set reflect_filter_b:0
+2025-04-22 18:13:04,752 INFO [default] DfSetParamStandardPlaneExternal: 
+2025-04-22 18:13:04,754 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:04,797 INFO [default] command: 20000001
+2025-04-22 18:13:04,798 INFO [default] set standard_plane_external_param:0
+2025-04-22 18:13:04,798 INFO [default] captureData: 1
+2025-04-22 18:13:04,798 INFO [default] GetFrame06
+2025-04-22 18:13:04,801 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:04,861 INFO [default] command: 20000001
+2025-04-22 18:13:04,861 INFO [default] token checked ok
+2025-04-22 18:13:04,861 INFO [default] receiving buffer, depth_buf_size=9216000
+2025-04-22 18:13:05,563 INFO [default] depth received
+2025-04-22 18:13:05,563 INFO [default] receiving buffer, brightness_buf_size=2304000
+2025-04-22 18:13:05,583 INFO [default] brightness received
+2025-04-22 18:13:05,583 INFO [default] Get frame06 success
+2025-04-22 18:13:05,584 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:05,586 INFO [default] command: 20000001
+2025-04-22 18:13:05,586 INFO [default] Frame Status: 0
+2025-04-22 18:13:05,587 INFO [default] Frame Status: 0
+2025-04-22 18:13:05,587 INFO [default] getColorBrightnessData:
+2025-04-22 18:13:05,600 INFO [default] getDepthData:
+2025-04-22 18:13:05,600 INFO [default] Trans Depth:
+2025-04-22 18:13:05,602 INFO [default] Get Depth!
+2025-04-22 18:13:05,617 INFO [default] DfGetPointcloudData:
+2025-04-22 18:13:05,624 INFO [default] Get Pointcloud!
+2025-04-22 18:13:06,083 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 18:13:06,084 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:06,086 INFO [default] command: 20000001
+2025-04-22 18:13:06,193 INFO [default] disconnect:
+2025-04-22 18:13:06,193 INFO [default] token 2430752873 try to disconnection
+2025-04-22 18:13:06,194 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:13:06,240 INFO [default] command: 20000001
+2025-04-22 18:13:06,256 INFO [default] Camera disconnected
+2025-04-22 18:16:01,572 INFO [default] DfConnectNet: 
+2025-04-22 18:16:01,572 INFO [default] start connection: 169.254.5.240
+2025-04-22 18:16:01,576 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:01,576 INFO [default] sending connection cmd
+2025-04-22 18:16:01,592 INFO [default] command: 20000001
+2025-04-22 18:16:01,592 INFO [default] Recieved connection ok
+2025-04-22 18:16:01,592 INFO [default] token: 1913175358
+2025-04-22 18:16:01,592 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 18:16:01,593 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:01,603 INFO [default] command: 20000001
+2025-04-22 18:16:01,603 INFO [default] DfGetCameraResolution:
+2025-04-22 18:16:01,605 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:01,616 INFO [default] command: 20000001
+2025-04-22 18:16:01,616 INFO [default] width: 1920
+2025-04-22 18:16:01,616 INFO [default] height: 1200
+2025-04-22 18:16:01,619 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:01,628 INFO [default] command: 20000001
+2025-04-22 18:16:01,628 INFO [default] Frame Status: 1
+2025-04-22 18:16:01,964 INFO [default] DfGetCameraResolution:
+2025-04-22 18:16:01,967 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:01,982 INFO [default] command: 20000001
+2025-04-22 18:16:01,982 INFO [default] width: 1920
+2025-04-22 18:16:01,982 INFO [default] height: 1200
+2025-04-22 18:16:01,984 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:01,992 INFO [default] command: 20000001
+2025-04-22 18:16:01,992 INFO [default] Frame Status: 1
+2025-04-22 18:16:02,008 INFO [default] set engine:0
+2025-04-22 18:16:02,008 INFO [default] set exposure_model:-7
+2025-04-22 18:16:02,008 INFO [default] set repetition_count:-7
+2025-04-22 18:16:02,008 INFO [default] version: v1.5.3
+2025-04-22 18:16:02,008 INFO [default] set version:0
+2025-04-22 18:16:02,008 INFO [default] DfSetParamLedCurrent: 1023
+2025-04-22 18:16:02,011 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:02,066 INFO [default] command: 20000001
+2025-04-22 18:16:02,066 INFO [default] set led_current:0
+2025-04-22 18:16:02,066 INFO [default] DfSetParamCameraGain:
+2025-04-22 18:16:02,070 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:02,144 INFO [default] command: 20000001
+2025-04-22 18:16:02,144 INFO [default] set camera_gain:0
+2025-04-22 18:16:02,144 INFO [default] DfSetParamCameraConfidence:
+2025-04-22 18:16:02,145 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:02,206 INFO [default] command: 20000001
+2025-04-22 18:16:02,207 INFO [default] set confidence:0
+2025-04-22 18:16:02,207 INFO [default] DfSetParamCameraExposure:
+2025-04-22 18:16:02,208 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:02,285 INFO [default] command: 20000001
+2025-04-22 18:16:02,285 INFO [default] set camera_exposure_time:0
+2025-04-22 18:16:02,285 INFO [default] DfSetParamSmoothing:
+2025-04-22 18:16:02,288 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:02,348 INFO [default] command: 20000001
+2025-04-22 18:16:02,348 INFO [default] set use_bilateral_filter:0
+2025-04-22 18:16:02,348 INFO [default] set bilateral_filter_param_d:0
+2025-04-22 18:16:02,348 INFO [default] DfSetParamOutlierFilter:
+2025-04-22 18:16:02,349 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:02,408 INFO [default] command: 20000001
+2025-04-22 18:16:02,408 INFO [default] set fisher_confidence:0
+2025-04-22 18:16:02,408 INFO [default] DfSetParamMixedHdr:
+2025-04-22 18:16:02,409 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:02,471 INFO [default] command: 20000001
+2025-04-22 18:16:02,471 INFO [default] set mixed_exposure_num:0
+2025-04-22 18:16:02,471 INFO [default] set mixed_exposure_param_list:0
+2025-04-22 18:16:02,471 INFO [default] set mixed_led_param_list:0
+2025-04-22 18:16:02,471 INFO [default] DfSetParamRadiusFilter:
+2025-04-22 18:16:02,472 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:02,534 INFO [default] command: 20000001
+2025-04-22 18:16:02,534 INFO [default] set use_radius_filter:0
+2025-04-22 18:16:02,534 INFO [default] set radius_filter_r:0
+2025-04-22 18:16:02,534 INFO [default] set radius_filter_threshold_num:0
+2025-04-22 18:16:02,534 INFO [default] DfSetParamDepthFilter:
+2025-04-22 18:16:02,535 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:02,596 INFO [default] command: 20000001
+2025-04-22 18:16:02,596 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:02,596 INFO [default] set use_depth_filter:0
+2025-04-22 18:16:02,596 INFO [default] set depth_filter_threshold:0
+2025-04-22 18:16:02,596 INFO [default] DfSetParamGrayRectify:
+2025-04-22 18:16:02,598 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:02,605 INFO [default] command: 20000001
+2025-04-22 18:16:02,659 INFO [default] command: 20000001
+2025-04-22 18:16:02,659 INFO [default] set use_gray_rectify:0
+2025-04-22 18:16:02,659 INFO [default] set gray_rectify_r:0
+2025-04-22 18:16:02,659 INFO [default] set gray_rectify_sigma:0
+2025-04-22 18:16:02,659 INFO [default] DfSetParamGenerateBrightness: 
+2025-04-22 18:16:02,662 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:02,721 INFO [default] command: 20000001
+2025-04-22 18:16:02,721 INFO [default] set generate_brightness_exposure:0
+2025-04-22 18:16:02,721 INFO [default] set generate_brightness_model:0
+2025-04-22 18:16:02,721 INFO [default] setParamBrightnessGain:
+2025-04-22 18:16:02,723 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:02,782 INFO [default] command: 20000001
+2025-04-22 18:16:02,783 INFO [default] set brightness_gain:0
+2025-04-22 18:16:02,783 INFO [default] setParamBrightnessHdrExposure:
+2025-04-22 18:16:02,784 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:02,845 INFO [default] command: 20000001
+2025-04-22 18:16:02,847 INFO [default] set brightness_hdr_exposure_num:0
+2025-04-22 18:16:02,847 INFO [default] set brightness_hdr_exposure_param_list:0
+2025-04-22 18:16:02,847 INFO [default] setParamBrightnessExposureModel:
+2025-04-22 18:16:02,849 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:02,910 INFO [default] command: 20000001
+2025-04-22 18:16:02,910 INFO [default] set generate_brightness_exposure_model:0
+2025-04-22 18:16:02,910 INFO [default] setParamReflectFilter:
+2025-04-22 18:16:02,912 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:02,925 INFO [default] command: 20000001
+2025-04-22 18:16:02,925 INFO [default] set use_reflect_filter:0
+2025-04-22 18:16:02,925 INFO [default] set reflect_filter_b:0
+2025-04-22 18:16:02,925 INFO [default] DfSetParamStandardPlaneExternal: 
+2025-04-22 18:16:02,926 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:02,973 INFO [default] command: 20000001
+2025-04-22 18:16:02,973 INFO [default] set standard_plane_external_param:0
+2025-04-22 18:16:02,973 INFO [default] captureData: 1
+2025-04-22 18:16:02,973 INFO [default] GetFrame06
+2025-04-22 18:16:02,975 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:03,034 INFO [default] command: 20000001
+2025-04-22 18:16:03,034 INFO [default] token checked ok
+2025-04-22 18:16:03,034 INFO [default] receiving buffer, depth_buf_size=9216000
+2025-04-22 18:16:03,802 INFO [default] depth received
+2025-04-22 18:16:03,802 INFO [default] receiving buffer, brightness_buf_size=2304000
+2025-04-22 18:16:03,821 INFO [default] brightness received
+2025-04-22 18:16:03,821 INFO [default] Get frame06 success
+2025-04-22 18:16:03,822 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:03,824 INFO [default] command: 20000001
+2025-04-22 18:16:03,824 INFO [default] Frame Status: 0
+2025-04-22 18:16:03,824 INFO [default] Frame Status: 0
+2025-04-22 18:16:03,824 INFO [default] getColorBrightnessData:
+2025-04-22 18:16:03,837 INFO [default] getDepthData:
+2025-04-22 18:16:03,837 INFO [default] Trans Depth:
+2025-04-22 18:16:03,838 INFO [default] Get Depth!
+2025-04-22 18:16:03,854 INFO [default] DfGetPointcloudData:
+2025-04-22 18:16:03,861 INFO [default] Get Pointcloud!
+2025-04-22 18:16:04,178 TRACE [default] [int __cdecl CAMERA::Camera::HeartBeat(void)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\cpp\xema_camera.cpp:178] heart beat: 
+2025-04-22 18:16:04,179 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:04,181 INFO [default] command: 20000001
+2025-04-22 18:16:04,421 INFO [default] disconnect:
+2025-04-22 18:16:04,421 INFO [default] token 1913175358 try to disconnection
+2025-04-22 18:16:04,422 TRACE [default] [int __cdecl setup_socket(const char *,int,unsigned __int64 &)] [D:\haihang\Transparent_version_sparrow_xema\xema_mid\xema\sdk\socket_tcp.cpp:81] socket setup ok
+2025-04-22 18:16:04,473 INFO [default] command: 20000001
+2025-04-22 18:16:04,489 INFO [default] Camera disconnected
